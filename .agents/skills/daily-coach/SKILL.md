@@ -142,9 +142,20 @@ Bổ sung thêm so với template thông thường:
 ## 💬 INSIGHT TỪ COACH HÔM NAY
 [1-2 câu tóm tắt từ phiên phỏng vấn — nhắc nhở bản thân]
 
+## 🌟 TUYÊN NGÔN SỨ MỆNH HÀNG NGÀY (DAILY MANIFESTO)
+1. **Tài chính:** Phát triển khả năng kiếm, giữ và nhân bản tiền bạc.
+2. **Sức khỏe:** Xây dựng thói quen tối ưu hóa sức khỏe thể chất & tinh thần.
+3. **Kết nối:** Yêu thương, gắn kết sâu sắc với gia đình, người yêu, bạn bè.
+4. **Lãnh đạo:** Nuôi dưỡng năng lực đồng cảm, ảnh hưởng tích cực và dẫn dắt người xung quanh.
+
 ## ↩ TASK CARRY-FORWARD (Chưa xong từ hôm nay)
 - [Task chưa xong] → Ưu tiên A hoặc B (tùy mức độ quan trọng)
 ```
+
+**Nguyên tắc tạo kế hoạch (Tích hợp hành động cho 4 Sứ Mệnh):**
+- BẮT BUỘC phải cài cắm ít nhất 1 hành động vi mô cho **Mục tiêu Tài chính** (VD: Kỷ luật tiêu dùng, review ví tiền).
+- BẮT BUỘC phải cài cắm ít nhất 1 hành động cho **Sức khỏe** (VD: Đi Gym, Ngồi thiền, Ngủ sớm).
+- BẮT BUỘC phải có **EQ Shield / Kết nối** (Nhắn tin gia đình, thấu hiểu bạn gái, khích lệ đồng nghiệp).
 
 **Nguyên tắc tạo kế hoạch & cân bằng Công ty - Cá nhân:**
 - **A1 (Con ếch):** Task THẬT SỰ quan trọng nhất. Nếu ngày mai tải trọng công ty cực cao (như ngày chuẩn bị Seminar Playwright hay release FTI-AM), A1 **có thể chính là sự kiện Seminar/công ty đó** (Quy tắc Hợp lực - Synergy) thay vì bắt người dùng cõng thêm 1 task nặng cá nhân.
