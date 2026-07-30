@@ -44,9 +44,9 @@ Trong vòng 2 tuần tới, mỗi ngày đi làm tại văn phòng, bạn sẽ �
 | Mốc Thời Gian | Sự Kiện / Checkpoint Chiến Lược | Mục Tiêu Kế Tiếp | Trạng Thái |
 | :---: | :--- | :--- | :---: |
 | **24/07 (Đã xong)** | **🎤 SEMINAR PLAYWRIGHT #1** | Chia sẻ kiến thức, gặt hái sự ủng hộ cực lớn của team | `[PASSED - HI BY FAITH]` |
-| **31/07 (Thứ 6 Tuần 5)** | **Check-in giữa Sprint AI Skill** | Hoàn tất Core Engine & Khung tích hợp cho FTI-AM | `[IN PROGRESS]` |
-| **05/08 (Thứ 4 Tuần 6)** | **Dry-Run & Test nội bộ** | Mời 1-2 anh em dev/QA thân cận dùng thử & sửa nhầm | `[UPCOMING]` |
-| **06/08 hoặc 07/08** | **🚀 RELEASE & DEMO #2** | Phát hành bộ Automation Test AI Skill cho toàn công ty | `[UPCOMING]` |
+| **27/07 (Thứ 2 Tuần 5)** | **🚀 Đóng gói Alpha & Gửi Test nội bộ** | Đã phát hành bản thử nghiệm cho các đồng nghiệp uy tín | `[PASSED - FAST TRACK]` |
+| **31/07 (Thứ 6 Tuần 5)** | **Check-in & Thu thập Feedback** | Tổng hợp ý kiến đóng góp, nâng cấp xử lý Edge Cases | `[IN PROGRESS]` |
+| **06/08 hoặc 07/08** | **🚀 RELEASE & DEMO #2** | Phát hành chính thức bộ Automation Test AI Skill cho toàn công ty | `[UPCOMING]` |
 | **07/08 – 09/08** | **🌲 Chuyến thưởng Đà Lạt cùng Bạn bè** | Thao trường xả hơi, hâm nóng tình bạn sau khi chiến thắng | `[LOCKED & READY]` |
 | **10/08** | **💰 Đón Dòng Tiền Lương 26 Triệu** | Nạp ngân lượng, giữ quỹ Bảo hiểm 6 triệu tháng 8 | `[TARGET]` |
 

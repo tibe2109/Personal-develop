@@ -23,6 +23,12 @@
 > 3. **KẾT NỐI:** Tôi luôn rèn luyện năng lực xã hội tối đa, những năng lực giúp tôi kết nối và yêu thương những người xung quanh đặc biệt là gia đình, người yêu và bạn bè, giữ gìn phát triển những mối quan hệ tốt đẹp và hạnh phúc hơn.
 > 4. **LÃNH ĐẠO:** Tôi có năng lực đồng cảm sâu sắc, ảnh hưởng tích cực và dẫn dắt được những người xung quanh.
 
+> **🛡️ DOPAMINE DETOX & SHADOW TRACKER:**
+> *Quy tắc thép: Tiêu thụ dopamine rẻ tiền là giết chết bản lĩnh người đàn ông bảo vệ gia đình.*
+> - [ ] 🚭 **Không Thuốc lá** (Giải tỏa căng thẳng bằng hít đất / uống nước).
+> - [ ] 📵 **Không Lướt Web Vô Thức** (Mindless scrolling - dùng để trốn việc).
+> - [ ] 🚫 **Không Phim Khiêu Dâm** (Pornography - hủy hoại động lực & sự tự tin).
+
 > **⚡ TRỌNG TÂM CHIẾN LƯỢC LÚC NÀY (CURRENT STRATEGIC FOCUS):**
 > **Sprint 2 Tuần (27/07 – 07/08):** Hoàn thiện & Release **Automation Test AI Skill** cho FTI-AM + Trình diễn Demo #2 + Siết chặt kỷ luật chi tiêu ngắn hạn (150k/ngày) + Khóa thói quen rèn luyện **EQ, Sự Kiên Cường & Năng Lực Xã Hội (Grit & EQ Shield)** mỗi ngày.
 
