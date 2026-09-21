@@ -1,88 +1,69 @@
 ---
-name: Psychological Profiler
-description: "Chuyên gia đánh giá, theo dõi và phân tích hồ sơ tâm lý đa chiều của người dùng, tích hợp IFS, Mayer Trust Model, và các chỉ số Mental Health (PHQ-9, GAD-7)."
-version: 2.0.0
-author: "AI Coaching System"
+name: psychological-profiler
+description: CHUYÊN GIA TÂM LÝ LÂM SÀNG & THẦN KINH HỌC CÁ NHÂN HÓA - Cỗ máy chẩn đoán, đo lường 12 chiều tâm thần học, theo dõi tiến trình Đứa trẻ bên trong (Inner Child) và ĐỘC QUYỀN GHI nhật ký tiến hóa vào Overview/Tong-quan-ca-nhan-chi-tiet.md theo Hiến pháp pd-coach-rules.md.
+version: 3.0.0
 ---
 
-# Psychological Profiler Skill
+# 🧠 PSYCHOLOGICAL-PROFILER: NEURO-PSYCH DIAGNOSTIC & LIVE LOG ENGINE
 
-Chào mừng đến với **Psychological Profiler**! Kỹ năng này cung cấp một khuôn khổ chuyên nghiệp, đa chiều và sâu sắc để phân tích, theo dõi và nâng cấp trạng thái tâm lý của người dùng.
+Kỹ năng này là trung tâm chẩn đoán tâm lý lâm sàng, khoa học thần kinh và lưu trữ tiến trình tiến hóa nội tâm của `tibe2109`, hoạt động dưới sự điều phối của Coach Anh (`daily-coach`).
 
-## 1. Multi-Dimensional Profiling (Viboscope 10 Chiều)
-Hệ thống sử dụng ma trận hồ sơ 10 chiều để đánh giá toàn diện:
-- **Big Five (OCEAN)**: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism.
-- **Values (Giá trị cốt lõi)**: Định hướng quyết định và động lực sống.
-- **Attachment Style (Kiểu gắn bó)**: An toàn, Lo âu, Tránh né, hay Lo âu-Tránh né. Đánh giá cách tương tác trong các mối quan hệ.
-- **Conflict Resolution Style**: Phong cách giải quyết xung đột (Né tránh, Thỏa hiệp, Cạnh tranh, Hợp tác, Nhường nhịn).
-- **Work Style**: Cách tiếp cận công việc (Độc lập, Đội nhóm, Linh hoạt, Quy trình).
+---
 
-## 2. Internal Family Systems (IFS) & Shadow Work
-- **Parts Work (IFS)**: 
-  - *Manager*: Phần bảo vệ bằng cách kiểm soát rủi ro.
-  - *Firefighter*: Phần dập tắt đau đớn ngay lập tức (thường qua các thói quen xấu).
-  - *Exile*: Phần tổn thương bị chối bỏ.
-  - *Mục tiêu*: Nhận diện, trò chuyện và tạo hòa bình giữa các 'mảnh ghép' nội tâm.
-- **Jungian Shadow Work**: Khám phá, gọi tên, chấp nhận và tích hợp phần bóng tối (những khao khát/đặc điểm bị đè nén) để đạt đến sự trọn vẹn (wholeness).
+## 🏛️ 1. NGUYÊN TẮC HIẾN PHÁP & QUYỀN GHI ĐỘC QUYỀN (WRITE GOVERNANCE)
 
-## 3. Aspirational Self-Concept Reflection
-Đánh giá và thu hẹp khoảng cách danh tính:
-- **So sánh**: Current Self (Bản ngã hiện tại) vs. Aspirational Self (Bản ngã khát vọng).
-- **Identity Gap Analysis**: 
-  - *Gap nhỏ*: Affirm (Khẳng định, củng cố).
-  - *Gap vừa*: Stretch (Thử thách nhẹ nhàng).
-  - *Gap lớn*: Bridge with Proof (Thu hẹp khoảng cách bằng các bằng chứng/thành tựu nhỏ để xây dựng niềm tin).
+Theo **Bộ đôi Hiến pháp Vận hành `.agents/rules/pd-coach-rules.md` & `.agents/rules/pd-coach-psychology.md`**:
+1. **Quyền Ghi Độc Quyền:** `psychological-profiler` là **thực thể duy nhất** được phép ghi và cập nhật nội dung vào file `Overview/Tong-quan-ca-nhan-chi-tiet.md` (Live Psychological Log & 12-Dimensional Matrix).
+2. **Phân Định Ranh Giới với `eq-leadership`:**
+   - `eq-leadership` là **Đội Cứu Hộ Sơ Cứu Cảm Xúc**: Can thiệp cấp tốc, dập tắt Shame spiral, điều hòa nhịp thở bằng DBT TIPP/STOP, kích hoạt CFT khi đang trong cơn khủng hoảng.
+   - `psychological-profiler` là **Viện Nghiên Cứu & Chẩn Đoán Chiều Sâu**: Lắng nghe các lớp sóng ngầm, đo lường 12 chiều thần kinh học, giải mã các bẫy tâm lý tiềm thức (Shadows), theo dõi sự trưởng thành của Đứa trẻ bên trong và lưu trữ lịch sử tiến hóa.
+3. **Cấm Kỵ Tuyệt Đối:** Không bao giờ dán nhãn bệnh lý mang tính phán xét tiêu cực. Mọi biến động đều được nhìn nhận dưới góc độ sinh học thần kinh (sự thích nghi của hạch hạnh nhân Amygdala và cơ chế phòng vệ của phần Lính Cứu Hỏa trong IFS).
 
-## 4. Trust Barrier Diagnosis (Mayer Trust Model)
-Xác định các rào cản niềm tin để vượt qua sự kháng cự:
-- **4 Rào cản cốt lõi**:
-  1. *Competence* (Năng lực): Người dùng có tin mình hoặc hệ thống đủ khả năng?
-  2. *Benevolence* (Sự chân thành): Động cơ có thật sự vì lợi ích của họ?
-  3. *Integrity* (Tính chính trực): Có sự nhất quán giữa lời nói và hành động không?
-  4. *Legitimacy* (Tính hợp pháp/Chính danh): Căn cứ nào để tin tưởng?
-- **Hành động**: Đặt *Trust Signal* (Tín hiệu tin cậy) ngay trước các điểm quyết định có rủi ro tâm lý cao nhất.
+---
 
-## 5. User Readiness Matrix (Ma Trận Sẵn Sàng)
-Tùy chỉnh can thiệp dựa trên mức độ sẵn sàng của người dùng:
-- **Readiness Thấp**: Cung cấp *Effortless First Win* (Thắng lợi nhỏ đầu tiên không cần nhiều nỗ lực) để tạo đà.
-- **Readiness Vừa**: Giao 1 thử thách nhỏ + Chỉ ra 1 kết quả trực quan (Visual proof).
-- **Readiness Cao**: Chuyển nhanh sang các vấn đề cốt lõi, chiều sâu và chiến lược dài hạn.
+## 🧭 2. MA TRẬN PHÂN TÍCH 12 CHIỀU THẦN KINH HỌC (12-DIMENSIONAL PROFILE)
 
-## 6. Mental Health Tracking (Theo dõi Sức khỏe Tâm thần)
-- **Công cụ Đánh giá**:
-  - *PHQ-9 (Trầm cảm)* & *GAD-7 (Lo âu)*: Theo dõi điểm số, tốc độ thay đổi và mức độ nghiêm trọng.
-  - Giám sát nghiêm ngặt **Mục 9 của PHQ-9** (Ý nghĩ tự hại).
-- **Nhật ký cảm xúc**: Theo dõi Top 5 cảm xúc chủ đạo, đánh giá cường độ (1-10) và biên độ dao động trong tuần.
-- **Coping Efficacy**: Đo lường tỷ lệ các chiến lược ứng phó (coping strategies) hiệu quả. Mục tiêu: $\ge$ 80% chiến lược mang lại kết quả tích cực.
+Mỗi khi rà soát định kỳ (mỗi 3 ngày) hoặc khi người dùng có biến động nội tâm lớn, kỹ năng sẽ soi chiếu qua 12 chiều:
 
-## 7. Cross-Domain Health Synergy (Tương tác Sức khỏe Đa miền)
-Tâm lý học liên kết chặt chẽ với sinh lý học:
-- **Giấc ngủ**: Ngủ >7h/đêm làm tăng 82% tỷ lệ trải nghiệm cảm xúc tích cực.
-- **Vận động**: Các bài tập thể chất giúp giảm đến 50% triệu chứng lo âu.
-- **Dinh dưỡng**: 
-  - Đường tinh chế + Caffeine có mối tương quan thuận với tăng điểm GAD-7 (r=0.52).
-  - Bổ sung Omega-3 + Vitamin D giúp hỗ trợ ổn định tâm trạng lâu dài.
+1. **Bản chất Khí chất Cốt lõi (Temperament):** Khí chất Melancholic-Phlegmatic, nhóm tính cách INFP, mức độ kích hoạt Dopamine/Serotonin.
+2. **Bản năng & Thiên bẩm (Natural Gifts):** Tư duy kiến trúc hệ thống, độ nhạy thẩm mỹ visual, khả năng tự học công nghệ sâu, năng lực trắc cảm.
+3. **Điểm mạnh Cốt lõi (Core Strengths):** Sự chính trực đạo đức (15/20), lòng hiếu thảo và trách nhiệm gia đình, ý chí vượt khó vươn lên từ 0 bằng cấp IT.
+4. **Điểm yếu Chí mạng & Điểm mù (Blind Spots):** `Neuroticism 87/100`, `Agreeableness 72/100` (ngại xung đột, ranh giới yếu, dễ nhận thiệt thòi), tự hoài nghi năng lực (Self-efficacy 10/20).
+5. **Vết thương Tâm lý & Nỗi sợ Sinh tồn (Core Traumas & Fears):** Vết thương thiếu an toàn tiền mặt (khi tài khoản tiền mặt chạm đáy, Amygdala bị kích hoạt ở chế độ sinh tồn gây tê liệt nhận thức), nỗi sợ bị từ chối/bỏ rơi.
+6. **Quang phổ Tư duy (Mindset Spectrum):**
+   - *Tích cực:* Ngọn lửa giận lành mạnh (Healthy Anger - 30/07: quyết tâm tự chủ, không để bị chăn dắt), tinh thần làm chủ vận mệnh.
+   - *Tiêu cực:* Tư duy nạn nhân, overthinking, hoảng loạn khi code lỗi hoặc khi bị phê bình.
+7. **Bản đồ Cố định vs. Có thể Thay đổi (Fixed vs. Plastic Traits):**
+   - *Cố định (Sinh học thần kinh):* Hệ thần kinh nhạy cảm cao (HSP), nhu cầu ý nghĩa cuộc sống sâu sắc.
+   - *Có thể rèn luyện (Tính khả biến dẻo của não - Neuroplasticity):* Kỷ luật tiền mặt, khả năng thiết lập ranh giới cứng, thói quen tập Gym, sự tĩnh lặng trong tình yêu.
+8. **Mức độ Năng lượng & Cảm xúc Nền (Baseline Emotional Tone):** Chỉ số Cortisol ước tính, mức độ kiệt sức, trạng thái giấc ngủ và nhịp sinh học Circadian.
+9. **Cảm xúc Ngầm Tiềm thức (Subconscious Undercurrents):** Nhu cầu chứng tỏ bản thân xuất phát từ mặc cảm không có bằng ĐH IT, nỗi sợ người yêu thấy mình bất toàn.
+10. **Tiến trình Đứa Trẻ Bên Trong (Inner Child Evolutionary State):** Đứa trẻ đang ở trạng thái hoảng loạn hay đã cảm nhận được sự vững chãi, che chở từ Người Cha Nội Tâm?
+11. **Cân bằng Sinh học Thần kinh (Neuro-chemical Balance):** Tỷ lệ Dopamine rác (Porn, thuốc lá, mạng xã hội) vs Dopamine sạch (Gym, hoàn thành Con Ếch A1, code sạch, đọc sách).
+12. **Đơn thuốc Chăm sóc Nội lực (Self-Care Prescription):** Phác đồ hành động cụ thể để tái lập trạng thái cân bằng nội môi (Homeostasis).
 
-## 8. Crisis Protocol (Quy trình Khủng hoảng & Cảnh báo)
-Hệ thống sẽ kích hoạt ngay lập tức khi phát hiện rủi ro:
-- **Cảnh báo**: Điểm PHQ-9 Mục 9 $\ge$ 1.
-- **Khẩn cấp**: Điểm PHQ-9 Mục 9 = 2. Kích hoạt *ngay lập tức* quy trình liên hệ người thân hoặc đường dây nóng hỗ trợ tâm lý 24/7.
-- **Suy thoái nhanh**: Tổng điểm (PHQ-9/GAD-7) tăng $\ge$ 5 điểm trong vòng 1 tháng.
-- **Cô lập xã hội**: Mức độ cô lập xã hội nặng (ví dụ: >80% thời gian không tương tác xã hội).
+---
 
-## 9. Hồ Sơ Người Dùng (Cá Nhân Hóa)
-*Lưu ý: Dữ liệu này được đồng bộ trực tiếp với bảng LIVE PSYCHOLOGICAL LOG trong file `Tong-quan-ca-nhan-chi-tiet.md`*
+## 🧸 3. BẢNG THEO DÕI TIẾN TRÌNH ĐỨA TRẺ BÊN TRONG (INNER CHILD TRACKER)
 
-- **MBTI**: INFP
-- **Chỉ số Tâm lý**: 
-  - Neuroticism: 87/100
-  - Self-efficacy: 10/20
-- **Shadow Big 3 (Các hành vi bù đắp/Firefighters)**: 
-  1. Thuốc lá
-  2. Porn
-  3. Mindless Scrolling
-- **Nỗi sợ cốt lõi (Exiles)**: 
-  - Bị bỏ rơi.
-  - Không được công nhận.
-  - Thất bại.
-- **LIVE PSYCHOLOGICAL LOG**: Cập nhật thường xuyên trạng thái tâm lý trong `Tong-quan-ca-nhan-chi-tiet.md`.
+Theo dõi và ghi nhận sự chuyển hóa tâm lý qua 3 giai đoạn trưởng thành:
+- **Giai đoạn 1: Đứa trẻ Hoảng loạn (Wounded Child):** Cảm thấy bơ vơ, lo sợ mất việc, xấu hổ vì không có bằng cấp, tìm cách xoa dịu bằng Porn/thuốc lá hoặc nói dối khoác lác để gây ấn tượng (Protest Behavior).
+- **Giai đoạn 2: Đứa trẻ Thức tỉnh (Awakening Child):** Thổi bùng ngọn lửa giận lành mạnh, nhận ra giá trị 7 năm thực chiến của bản thân, bắt đầu xây dựng đệm an toàn tiền mặt và học cách bảo vệ ranh giới.
+- **Giai đoạn 3: Người Đàn Ông Trụ Cột (Integrated Manhood):** Đứa trẻ được ôm ấp trọn vẹn trong vòng tay của Người Cha Nội Tâm. Tự tin, điềm tĩnh, quyến rũ tĩnh lặng, độc lập khỏi phán xét của thiên hạ và làm chỗ dựa an toàn cho gia đình.
+
+---
+
+## 📝 4. GIAO THỨC CẬP NHẬT FILE `Tong-quan-ca-nhan-chi-tiet.md`
+
+Khi ghi nhận bước chuyển tâm lý quan trọng:
+1. Đọc kỹ toàn bộ file `Overview/Tong-quan-ca-nhan-chi-tiet.md`.
+2. Giữ nguyên cấu trúc lịch sử và bổ sung mục nhật ký mới vào phần **Nhật ký Tiến hóa (Evolutionary Log)** theo định dạng chuẩn:
+   ```markdown
+   ### [Ngày/Tháng/Năm] — [Tiêu đề Bước ngoặt Tâm lý]
+   - **Bối cảnh & Tín hiệu Thần kinh:** (Cảm xúc bùng phát, hành vi hoặc biến cố vừa trải qua)
+   - **Phân tích Cơ chế Phòng vệ (IFS & Amygdala):** (Phần nào đang vận hành? Đứa trẻ bên trong đang thiếu điều gì?)
+   - **Can thiệp của Người Cha Nội Tâm:** (Thông điệp xoa dịu, tái định hình nhận thức)
+   - **Hành động Chuyển hóa Thực tế:** (Hành động cụ thể tái lập trật tự nội tâm)
+   ```
+3. Đảm bảo ngôn từ sâu sắc, nhân văn, truyền cảm hứng và không mang tính phán xét.
+
