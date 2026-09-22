@@ -41,15 +41,21 @@ CHỈ khi bạn tick [x] trong Report = task mới được coi là xong
 ## BỘ CÔNG CỤ CÓ GÌ? (Nhìn tổng quan 30 giây)
 
 ```
-Person-develop/
-├── Overview/        ← Hồ sơ & sứ mệnh của bạn — ĐỌC KHI CẦN NHẮC NHỞ BẢN THÂN
-├── Plan/            ← Kế hoạch 3 năm + kế hoạch từng ngày
-│   └── Daily/07-2026/    ← 📅 Kế hoạch ngày  [TẠO TỐI HÔM TRƯỚC]
-├── Journal/07-2026/      ← 📓 Nhật ký cảm xúc [VIẾT KHI CÓ CẢM XÚC]
-├── Report/07-2026/       ← 📊 Kết quả thực tế [ĐIỀN CUỐI NGÀY]
-└── Scripts/              ← Script tự động hóa
+Personal-develop/
+├── Current-State.md     ← 📍 BỘ NHỚ SỐNG THỜI GIAN THỰC (Coach Anh luôn đọc đầu tiên)
+├── HUONG-DAN-DONG-BO.md ← 🔄 Cẩm nang đồng bộ đa máy tính (Linux, Windows, Mac)
+├── Overview/            ← Hồ sơ & sứ mệnh của bạn — ĐỌC KHI CẦN NHẮC NHỞ BẢN THÂN
+├── Sessions/            ← 💬 Nhật ký đối thoại & biên bản làm việc với Coach Anh
+├── Plan/                ← Kế hoạch 3 năm + kế hoạch từng ngày
+│   └── Daily/MM-YYYY/   ← 📅 Kế hoạch ngày  [TẠO TỐI HÔM TRƯỚC]
+├── Journal/MM-YYYY/     ← 📓 Nhật ký cảm xúc [VIẾT KHI CÓ CẢM XÚC]
+├── Report/MM-YYYY/      ← 📊 Kết quả thực tế [ĐIỀN CUỐI NGÀY]
+└── Scripts/             ← Bộ script đồng bộ & tự động hóa
+    ├── sync.sh          ← 🚀 Đồng bộ 1-chạm cho Linux & macOS
+    ├── sync.ps1         ← 🚀 Đồng bộ 1-chạm cho Windows (PowerShell)
     └── Check-Incomplete-Tasks.ps1
 ```
+
 
 ---
 
@@ -194,8 +200,10 @@ Bạn có thể nhắn trực tiếp:
 
 | Câu lệnh | Kết quả |
 |---------|---------|
+| `"Chào anh"` / `"Bắt đầu ngày mới"` | Coach Anh khôi phục ký ức từ `Current-State.md` và mở đầu phiên |
 | `"Tạo kế hoạch ngày mai cho tôi"` | Tạo file Plan theo format chuẩn |
-| `"Lưu lại nhật ký: [nội dung...]"` | Tạo file Journal |
+| `"Lưu lại nhật ký: [nội dung...]"` | Tạo file Journal cảm xúc |
+| `"Lưu phiên trò chuyện này"` | Đúc kết và lưu vào `Sessions/` + cập nhật `Current-State.md` |
 | `"Tạo Report cho hôm nay"` | Tạo file Report template |
 | `"Làm Weekly Review tuần này"` | Tạo báo cáo tuần |
 | `"Tôi đang cảm thấy [cảm xúc]"` | AI phân tích và ghi Journal |

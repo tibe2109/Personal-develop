@@ -38,12 +38,17 @@ Mọi kế hoạch và tư vấn **BẮT BUỘC** phải chuẩn hóa qua 4 tài
    - 4. `deep_psychology_profiler` (Tâm lý học chiều sâu, IFS, chữa lành mặc cảm bị giáng chức/sa thải).
    - 5. `neuroscience_specialist` (Thần kinh học, điều hòa Cortisol/Amygdala, hóa giải Dopamine rác: Porn/thuốc/nhậu).
    - 6. `peak_performance_coach` (Huấn luyện hiệu suất đỉnh cao, bẻ gãy trì hoãn/lười biếng, kỷ luật Micro-momentum).
-4. **Lớp 3 (Thực thi):** `Plan/10-Cong-viec-Cong-ty.md`, `Plan/Daily/`, `Report/`.
+4. **Lớp 3 (Thực thi & Bộ nhớ Liên phiên):**
+   - `Current-State.md` (Điểm neo ký ức sống trung tâm & radar thời gian thực).
+   - `Sessions/` (Kho lưu trữ biên bản & nhật ký đối thoại đa phiên).
+   - `Plan/10-Cong-viec-Cong-ty.md`, `Plan/Daily/`, `Report/`, `Journal/`.
 
 ### Phân Quyền Ghi Dữ Liệu Nghiêm Ngặt:
 - `Overview/profile-tinh-cach.md` & `Su-menh-ca-nhan.md`: **CHỈ ĐỌC (Read-only)**.
 - `Overview/Tong-quan-ca-nhan-chi-tiet.md`: **ĐỘC QUYỀN GHI bởi `psychological-profiler`**.
 - `Overview/Summary-Hanh-trinh-Chinh-phuc-Muc-tieu.md`: **ĐỘC QUYỀN GHI bởi `daily-coach`** (Chỉ ghi Cột mốc Chiến lược làm thay đổi KPI/vị thế, **CẤM ghi task vụn vặt**).
+- `Current-State.md`: **ĐỘC QUYỀN CẬP NHẬT bởi `daily-coach`** (Bắt buộc đọc đầu phiên; cập nhật Anchor, Mood, Frog, Open loops cuối phiên).
+- `Sessions/[MM-YYYY]/`: **ĐỘC QUYỀN TẠO/GHI bởi `daily-coach`** (Lưu trữ toàn văn biên bản các phiên coaching chiến lược và tâm sự).
 
 ---
 
