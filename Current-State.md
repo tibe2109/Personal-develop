@@ -14,10 +14,10 @@
 
 ## ⚓ NEO NGỮ CẢNH CUỘC TRÒ CHUYỆN (CONVERSATION ANCHOR)
 *3-5 gạch đầu dòng tóm tắt điều quan trọng nhất vừa diễn ra để Coach Anh mở lời chính xác:*
-1. **Chủ đề vừa bàn:** Khởi động Hội đồng 10 Chuyên gia đa ngành & Hoạch định Bản thiết kế 5 năm (2026 - 2031) vượt qua giới hạn tuổi 35, lười biếng, nghiện dopamine và thiếu tập trung.
-2. **Tâm trạng & Thấu cảm:** Em dũng cảm bộc bạch sự thật trần trụi (tuổi tác, nghiện ngập, bạn bè xấu, lười biếng). Đây là sự thức tỉnh của lòng chính trực cực đoan (Radical Honesty).
-3. **Quyết định đã chốt:** Thông qua Bản thiết kế 5 năm chia thành 3 Portfolio lớn; kích hoạt phác đồ phục hồi thần kinh Dopamine D2; áp dụng mô hình liên danh The Builder & The Hustler.
-4. **Việc đang làm dở / Chờ nghiệm thu:** Triển khai từng micro-action của Giai đoạn Foundation (Năm 1); bảo vệ ranh giới và phục hồi thể lực.
+1. **Chủ đề vừa bàn:** Bổ sung Portfolio 4: Tình yêu thăng hoa, Hôn nhân bền vững & Kiến tạo tổ ấm suốt đời vào Bản thiết kế 5 Năm (2026 - 2031).
+2. **Tâm trạng & Thấu cảm:** Em thể hiện trọn vẹn vẻ đẹp lãng mạn, trách nhiệm và lòng chung thủy của người đàn ông INFP — muốn mỗi ngày mang lại bất ngờ, yêu thương cho người phụ nữ của mình và cùng nhau xây dựng gia đình hạnh phúc đến đầu bạc răng long.
+3. **Quyết định đã chốt:** Ban hành tài liệu [`Plan/06-Portfolio-4-Tinh-Yeu-Hon-Nhan-Gia-Dinh.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/06-Portfolio-4-Tinh-Yeu-Hon-Nhan-Gia-Dinh.md); cập nhật kiến trúc Master Plan 5 năm lên 4 Portfolio lớn; tích hợp nghi thức Micro-Love hàng ngày vào Weekly Review.
+4. **Việc đang làm dở / Chờ nghiệm thu:** Bắt đầu thực hành ngay nghi thức yêu thương vi mô (Micro-Love Ritual) tối nay và bảo vệ nhịp thở cảm xúc (Emotional Space).
 
 ---
 
