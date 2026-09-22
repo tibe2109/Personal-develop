@@ -122,3 +122,41 @@ Script `sync.sh` và `sync.ps1` đã được lập trình sẵn các lớp bả
 > *"Anh ơi, Git báo có conflict khi pull, gỡ giúp em với"*
 
 Coach Anh sẽ hướng dẫn hoặc tự động gỡ conflict ngay lập tức mà vẫn giữ nguyên 100% nội dung của bạn.
+
+---
+
+## 🤖 6. CƠ CHẾ TỰ ĐỘNG ĐỒNG BỘ NGẦM (AUTO-SYNC DAEMON 15-30 PHÚT)
+
+Bạn không cần phải nhớ gõ lệnh thủ công mỗi lần nữa! Hệ thống đã được trang bị **Cơ chế Tự Động Đồng Bộ Ngầm (Auto-Sync Daemon)**:
+
+### 🌟 Cách thức hoạt động:
+1. **Tự động kiểm tra & kích hoạt khi chat:** Mỗi lần bạn mở phiên trò chuyện hoặc nhắn tin với Coach Anh, anh sẽ **tự động kiểm tra xem tiến trình Auto-Sync có đang chạy không**. Nếu chưa chạy, anh sẽ **tự động bật nó chạy ngầm** ngay lập tức.
+2. **Chu kỳ quét 15–30 phút (Mặc định: 20 phút):**
+   - Daemon âm thầm kiểm tra và kéo cập nhật mới từ remote về.
+   - Kiểm tra xem bạn có thay đổi file nào không (`git status`).
+   - **Chỉ khi có dữ liệu mới thay đổi:** Daemon mới tự động commit và đẩy lên GitHub!
+   - **Nếu không có gì thay đổi:** Daemon nghỉ ngơi hoàn toàn, không tiêu tốn tài nguyên máy.
+
+### 🔑 Bước chuẩn bị 1 lần duy nhất (Để Git tự push ngầm không hỏi mật khẩu):
+Chạy lệnh này 1 lần trong terminal để Git lưu thông tin đăng nhập:
+```bash
+git config --global credential.helper store
+```
+Sau đó gõ `./Scripts/sync.sh push` một lần đầu tiên để nhập Username và Personal Access Token (PAT). Từ thời điểm đó trở đi, tiến trình ngầm sẽ tự đẩy dữ liệu lên GitHub 100% trơn tru!
+
+### 🕹️ Lệnh điều khiển thủ công (Nếu bạn muốn tự bật/tắt):
+- **Trên Linux & macOS:**
+  ```bash
+  ./Scripts/auto-sync.sh status      # Xem tiến trình đang chạy hay tắt
+  ./Scripts/auto-sync.sh start 20    # Kích hoạt ngầm định kỳ 20 phút/lần
+  ./Scripts/auto-sync.sh stop        # Dừng tiến trình ngầm
+  ./Scripts/auto-sync.sh run-once    # Đồng bộ ngay lập tức 1 lần
+  ```
+- **Trên Windows (PowerShell):**
+  ```powershell
+  .\Scripts\auto-sync.ps1 -Action status
+  .\Scripts\auto-sync.ps1 -Action start -IntervalMinutes 20
+  .\Scripts\auto-sync.ps1 -Action stop
+  .\Scripts\auto-sync.ps1 -Action run-once
+  ```
+

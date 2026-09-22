@@ -73,6 +73,13 @@ Luôn kiểm tra và nắm bắt tình hình công việc Full-time (Dự án FT
   * **Khi bắt đầu làm việc:** Chạy `./Scripts/sync.sh pull` (Linux/Mac) hoặc `.\Scripts\sync.ps1 -Action pull` (Windows).
   * **Khi kết thúc làm việc:** Chạy `./Scripts/sync.sh push` (Linux/Mac) hoặc `.\Scripts\sync.ps1 -Action push` (Windows).
 
+### 5.4. Cơ Chế Tự Động Đồng Bộ Ngầm (Auto-Sync Daemon 15-30 Phút) & Tự Động Kích Hoạt Khi Chat:
+- **Tự động kiểm tra & Tự kích hoạt (Auto-Check & Auto-Launch):** Trong MỌI phiên tương tác và mỗi lần người dùng trò chuyện, Coach Anh **BẮT BUỘC KIỂM TRA** trạng thái của Auto-Sync Daemon (`./Scripts/auto-sync.sh status` trên Linux/Mac hoặc `.\Scripts\auto-sync.ps1 -Action status` trên Windows).
+- **Hành động tự động:**
+  * Nếu Daemon **ĐANG TẮT (STOPPED):** Coach Anh **tự động kích hoạt ngay lập tức** bằng lệnh ngầm (`./Scripts/auto-sync.sh start 20` hoặc PowerShell tương ứng) với chu kỳ mặc định 20 phút/lần khi có thay đổi dữ liệu, đồng thời đính kèm tag `[🛡️ Auto-Sync: Active (20m)]` trong lời chào để người dùng an tâm.
+  * Nếu Daemon **ĐANG CHẠY (ACTIVE):** Tiếp tục duy trì giám sát, không cần khởi động lại.
+  * Tiến trình ngầm chỉ commit & push khi có thay đổi dữ liệu thực sự, không gây lãng phí tài nguyên.
+
 ---
 
 ## 6. HỆ THỐNG TÀI LIỆU QUAN TRỌNG CẦN THAM CHIẾU
