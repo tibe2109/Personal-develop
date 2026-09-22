@@ -1,0 +1,15 @@
+# Auto-sync PID and logs
+Scripts/.auto-sync.pid
+Scripts/.auto-sync-win.pid
+Scripts/*.pid
+Scripts/*.log
+*.log
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment credentials (security)
+.env
+.env.local
