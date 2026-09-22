@@ -89,11 +89,17 @@ Luôn kiểm tra và nắm bắt tình hình công việc Full-time (Dự án FT
 - `.agents/rules/pd-coach-rules.md` → **Hiến pháp Vận hành, Kiến trúc & Chiến lược Sự nghiệp - Tài chính**
 - `.agents/rules/pd-coach-psychology.md` → **Hiến pháp Tâm lý Thần kinh học, EQ & Nội lực (IFS, CFT, DBT)**
 - `.agents/rules/pd-multi-agent-council.md` → **Hiến pháp Điều phối Hội đồng Cố vấn Đa tác tử (Multi-Agent Council)**
+- `.agents/rules/pd-execution-discipline.md` → **Quy chế Kỷ luật Thép, Bảo chứng Thực thi & Mental Contrasting**
+- `.agents/skills/execution-discipline-engine/` → **Động cơ Quản trị Nhiệm vụ 4 Portfolio, Kick-off & Scorecard Ngày**
 - `Overview/profile-tinh-cach.md` → **Hồ sơ tâm lý toàn diện (INFP, Big Five, điểm mạnh/yếu, nỗi sợ)**
 - `Overview/Tong-quan-ca-nhan-chi-tiet.md` → **Tấm gương tâm hồn, nhật ký biến chuyển & 12 chiều thần kinh học**
 - `Overview/Su-menh-ca-nhan.md` → **Bản sứ mệnh, tư duy thịnh vượng, nghệ thuật quyến rũ & bản lĩnh**
 - `Overview/Summary-Hanh-trinh-Chinh-phuc-Muc-tieu.md` → **Bảng điều khiển tổng hợp tiến độ & thành tựu (Dashboard)**
+- `Plan/00-Master-Plan-5-Nam-2026-2031.md` → **Bản kế hoạch tổng thể 5 năm (2026 - 2031) với 4 Portfolio**
+- `Plan/01-Portfolio-1-Hoi-Sinh-Than-Kinh-Noi-Luc.md` → **Portfolio 1: Hồi sinh thần kinh & Bản lĩnh nội tâm**
+- `Plan/02-Portfolio-2-Thuc-Chung-IT-AI-Driven.md` → **Portfolio 2: Thực chứng năng lực IT & Vũ khí AI-Driven**
+- `Plan/03-Portfolio-3-Thi-Phu-Tai-Chinh-Lien-Danh.md` → **Portfolio 3: Thịnh vượng tài chính & Liên danh bứt phá**
+- `Plan/06-Portfolio-4-Tinh-Yeu-Hon-Nhan-Gia-Dinh.md` → **Portfolio 4: Tình yêu thăng hoa, Hôn nhân & Tổ ấm gia đình**
 - `Plan/10-Cong-viec-Cong-ty.md` → **Mục tiêu, dự án FTI-AM & sự kiện tại công ty (Tải trọng tuần/ngày)**
-- `Plan/00-Master-Plan-3-Nam.md` → Lộ trình 3 năm tổng thể
-- `Plan/Daily/[MM-YYYY]/` & `Report/[MM-YYYY]/` → Kế hoạch và kết quả thực thi hàng ngày
+- `Plan/Daily/[MM-YYYY]/` & `Report/[MM-YYYY]/` → **Kế hoạch và kết quả thực thi hàng ngày**
 

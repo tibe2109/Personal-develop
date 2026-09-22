@@ -12,7 +12,7 @@ PID_FILE="$SCRIPT_DIR/.auto-sync.pid"
 LOG_FILE="$SCRIPT_DIR/auto-sync.log"
 BRANCH="main"
 REMOTE="origin"
-DEFAULT_INTERVAL_MIN=20
+DEFAULT_INTERVAL_MIN=30
 
 # Màu sắc hiển thị
 C_RESET='\033[0m'
@@ -22,6 +22,26 @@ C_YELLOW='\033[0;33m'
 C_BLUE='\033[0;34m'
 C_CYAN='\033[0;36m'
 C_BOLD='\033[1m'
+
+install_cron() {
+    local cron_cmd="*/30 * * * * /bin/bash \"$SCRIPT_DIR/auto-sync.sh\" run-once >> \"$LOG_FILE\" 2>&1"
+    if crontab -l 2>/dev/null | grep -F "auto-sync.sh run-once" >/dev/null 2>&1; then
+        echo -e "${C_YELLOW}⚠️ Crontab tự động đồng bộ 30 phút đã tồn tại sẵn.${C_RESET}"
+    else
+        (crontab -l 2>/dev/null; echo "$cron_cmd") | crontab -
+        echo -e "${C_GREEN}✅ Đã cài đặt Cron Job tự động đồng bộ định kỳ 30 phút/lần thành công!${C_RESET}"
+        echo -e "   - Lệnh: ${C_CYAN}$cron_cmd${C_RESET}"
+    fi
+}
+
+uninstall_cron() {
+    if crontab -l 2>/dev/null | grep -F "auto-sync.sh run-once" >/dev/null 2>&1; then
+        crontab -l 2>/dev/null | grep -v -F "auto-sync.sh run-once" | crontab -
+        echo -e "${C_GREEN}🛑 Đã gỡ bỏ Cron Job tự động đồng bộ khỏi crontab.${C_RESET}"
+    else
+        echo -e "${C_YELLOW}⚠️ Không tìm thấy Cron Job auto-sync.sh trong crontab.${C_RESET}"
+    fi
+}
 
 is_running() {
     if [ -f "$PID_FILE" ]; then
@@ -33,6 +53,7 @@ is_running() {
     fi
     return 1
 }
+
 
 # Hàm thực hiện 1 chu kỳ kiểm tra và đồng bộ
 do_sync_tick() {
@@ -76,12 +97,17 @@ do_sync_tick() {
     local commit_msg="Auto-sync [$host_str] ($(date '+%Y-%m-%d %H:%M')): Tự động đồng bộ tiến trình"
 
     if git commit -m "$commit_msg" >/dev/null 2>&1; then
-        if git push "$REMOTE" "$BRANCH" >/dev/null 2>&1; then
+        local push_output
+        push_output="$(git push "$REMOTE" "$BRANCH" 2>&1)"
+        if [ $? -eq 0 ]; then
             echo "[$now] ✅ [SUCCESS] Đã tự động đẩy thay đổi lên GitHub thành công!" >> "$LOG_FILE"
         else
-            echo "[$now] ⚠️ [PUSH PENDING] Commit thành công cục bộ, nhưng chưa push được lên remote (Cần cấu hình credential.helper store)." >> "$LOG_FILE"
+            echo "[$now] ⚠️ [PUSH FAILED] Commit cục bộ thành công nhưng chưa push được lên GitHub." >> "$LOG_FILE"
+            echo "[$now]    Chi tiết lỗi: $push_output" >> "$LOG_FILE"
+            echo "[$now]    👉 Khắc phục: Chạy 'git push' trong terminal 1 lần để lưu mật khẩu (credential.helper store)." >> "$LOG_FILE"
         fi
     fi
+
 }
 
 # Vòng lặp chạy ngầm vĩnh viễn của daemon
@@ -157,23 +183,37 @@ stop_daemon() {
 }
 
 status_daemon() {
+    local has_cron=0
+    if crontab -l 2>/dev/null | grep -F "auto-sync.sh run-once" >/dev/null 2>&1; then
+        has_cron=1
+    fi
+
     if is_running; then
         local current_pid
         current_pid="$(cat "$PID_FILE")"
-        local interval_val="20"
+        local interval_val="30"
         if [ -f "$SCRIPT_DIR/.auto-sync.interval" ]; then
             interval_val="$(cat "$SCRIPT_DIR/.auto-sync.interval")"
         fi
-        echo -e "${C_GREEN}🟢 [ACTIVE] Auto-Sync Daemon ĐANG CHẠY${C_RESET}"
+        echo -e "${C_GREEN}🟢 [ACTIVE] Auto-Sync Daemon ĐANG CHẠY (Background)${C_RESET}"
         echo -e "   - PID: ${C_CYAN}$current_pid${C_RESET}"
         echo -e "   - Chu kỳ: ${C_YELLOW}${interval_val} phút/lần${C_RESET}"
-        if [ -f "$LOG_FILE" ]; then
-            echo -e "\n${C_BLUE}📜 5 dòng log gần nhất:${C_RESET}"
-            tail -n 5 "$LOG_FILE"
-        fi
+    else
+        echo -e "${C_YELLOW}⚪ [INACTIVE] Auto-Sync Daemon chạy ngầm hiện đang tắt${C_RESET}"
+    fi
+
+    if [ "$has_cron" -eq 1 ]; then
+        echo -e "${C_GREEN}⏰ [CRONTAB: ACTIVE] Cron Job hệ thống ĐANG CHẠY tự động mỗi 30 phút!${C_RESET}"
+    fi
+
+    if [ -f "$LOG_FILE" ]; then
+        echo -e "\n${C_BLUE}📜 5 dòng log gần nhất:${C_RESET}"
+        tail -n 5 "$LOG_FILE"
+    fi
+
+    if is_running || [ "$has_cron" -eq 1 ]; then
         return 0
     else
-        echo -e "${C_RED}🔴 [STOPPED] Auto-Sync Daemon ĐANG TẮT${C_RESET}"
         return 1
     fi
 }
@@ -196,6 +236,12 @@ case "$ACTION" in
     status)
         status_daemon
         ;;
+    install-cron)
+        install_cron
+        ;;
+    uninstall-cron)
+        uninstall_cron
+        ;;
     daemon-loop)
         daemon_loop "$INTERVAL"
         ;;
@@ -208,12 +254,14 @@ case "$ACTION" in
         fi
         ;;
     *)
-        echo -e "${C_YELLOW}Cách sử dụng: $0 {start [phút]|stop|restart [phút]|status|run-once}${C_RESET}"
+        echo -e "${C_YELLOW}Cách sử dụng: $0 {start [phút]|stop|restart [phút]|status|run-once|install-cron|uninstall-cron}${C_RESET}"
         echo -e "Ví dụ:"
-        echo -e "  $0 start 20     -> Chạy ngầm định kỳ 20 phút/lần"
-        echo -e "  $0 status       -> Kiểm tra trạng thái đang chạy hay tắt"
-        echo -e "  $0 stop         -> Dừng tiến trình chạy ngầm"
-        echo -e "  $0 run-once     -> Đồng bộ ngay lập tức 1 lần"
+        echo -e "  $0 start 30       -> Chạy ngầm daemon định kỳ 30 phút/lần"
+        echo -e "  $0 install-cron   -> Cài đặt Cron Job hệ thống tự chạy mỗi 30 phút"
+        echo -e "  $0 status         -> Kiểm tra trạng thái đang chạy hay tắt"
+        echo -e "  $0 stop           -> Dừng tiến trình daemon ngầm"
+        echo -e "  $0 run-once       -> Đồng bộ ngay lập tức 1 lần"
         exit 1
         ;;
 esac
+

@@ -24,8 +24,9 @@ param(
     [ValidateSet('start', 'stop', 'restart', 'status', 'run-once')]
     [string]$Action = 'status',
 
-    [int]$IntervalMinutes = 20
+    [int]$IntervalMinutes = 30
 )
+
 
 $ErrorActionPreference = 'SilentlyContinue'
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
