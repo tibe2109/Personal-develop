@@ -1,7 +1,7 @@
-# 📊 PERSONAL & PROGRESS DASHBOARD — HÀNH TRÌNH 3 NĂM (2026 – 2029)
+# 📊 PERSONAL & PROGRESS DASHBOARD — HÀNH TRÌNH 5 NĂM (2026 – 2031)
 ### Bảng Điều Khiển Trung Tâm · Sức Khỏe Nội Lực & Tốc Độ Chinh Phục Mục Tiêu
 *Tài liệu sống (Live Dashboard) — Cập nhật các chỉ số, trạng thái và bước ngoặt chiến lược*
-*Cập nhật lần cuối: 25/07/2026 (Sau thành công Seminar #1 · Giai đoạn Bứt phá SPRINT AI Skill)*
+*Cập nhật lần cuối: 22/09/2026 (Khởi động Hội đồng 10 Chuyên gia & Tái cấu trúc Master Plan 5 Năm: 2026 - 2031)*
 
 ---
 
@@ -101,6 +101,7 @@
 
 *(⚠️ CHỈ ghi nhận những cột mốc lớn làm thay đổi chỉ số KPI, vị thế sự nghiệp, đột phá tài sản hoặc bước ngoặt tư duy — KHÔNG ghi nhật ký công việc hàng ngày)*
 
+- **[22/09/2026] — Thức Tỉnh Bước Ngoặt Tuổi 35 & Tái Cấu Trúc Master Plan 5 Năm (2026 – 2031):** Dũng cảm bộc bạch trần trụi các mặt tối Shadow (Porn, thuốc lá, lười biếng, bạn bè xấu, ngại từ chối); kích hoạt Hội đồng 10 Chuyên gia Cố vấn; thiết lập bản thiết kế 5 năm chia thành 3 Portfolio lớn (Hồi sinh hệ thần kinh, Thực chứng IT AI-driven, Thịnh vượng tài chính & liên danh The Builder & The Hustler). Xóa bỏ toàn bộ plan cũ, chuẩn hóa hệ thống tài liệu hành động vi mô.
 - **[24/07/2026] — Bước Ngoặt Sự Nghiệp: Trình Bày Seminar Playwright #1 & Nhận Sự Ủng Hộ Tuyệt Đối Của Team:** Dù tool chưa hoàn thiện 100%, nhưng sự dấn thân chia sẻ đã phá vỡ rào cản nghi ngờ bản thân, thu hút 100% sự hưởng ứng của đồng nghiệp, mở đường cho chiến dịch 2 tuần hoàn thiện Automation Test AI Skill (Demo #2).
 - **[25/07/2026] — Định Vị Sứ Mệnh Gia Đình & Kỷ Luật Thanh Khoản Thực Tế:** Đưa việc kiếm tiền và gia tăng tài sản thăng tiến từ "yêu thích cá nhân" thành "sứ mệnh bảo vệ gia đình" (mẹ, anh hai, người yêu); kích hoạt chiến lược quản trị tiền mặt ngắn hạn (4tr -> Đà Lạt -> 12tr Bảo hiểm) đầy thản nhiên và trí tuệ.
 - **[20/07/2026] — Bước Đột Phá Kỹ Thuật: Chuẩn Hóa AI Skill Playwright cho E2E Testing:** Xây dựng kỹ năng tự động hóa kiểm thử chuẩn hóa trên mọi IDE và Cloud AI Model, nâng tầm năng lực hệ thống hóa và tạo đòn bẩy trực tiếp cho dự án FTI-AM.
@@ -109,6 +110,6 @@
 
 ## 🧭 NEXT STRATEGIC DIRECTIVES — ĐIỀU HƯỚNG TRỌNG TÂM HIỆN TẠI
 
-1. **Tuần tới (Tuần 5 - cuối tháng 7):** Đánh chiếm nửa chặng đầu của SPRINT Automation Test AI Skill + Giữ chi tiêu không quá 150k/ngày + Duy trì Gym 3 buổi.
-2. **Tuần kề sau (Đầu tháng 8):** Release tool & làm Seminar Demo #2 cho công ty -> Đi Đà Lạt (07/08 – 09/08) -> Đón lương 26tr (10/08).
-3. **Tháng 8 & Tháng 9:** Nộp hoàn tất 12 triệu bảo hiểm từ trích lập 2 tháng lương, sau đó tăng tốc tiếp con đường thăng cấp thu nhập và DCA Crypto!
+1. **Portfolio 1 (Thần kinh & Thể chất):** Khóa chu kỳ `Zero-Shadow-21` (cai Porn/thuốc/lướt mạng), tắt điện thoại lúc 22:30, đi ngủ trước 23:00, tập Gym 3-4 buổi/tuần ("Never miss twice").
+2. **Portfolio 2 (Sự nghiệp IT & AI):** Hoàn thiện Demo #2 Playwright AI Skill cho FTI-AM; khởi động chiến dịch luyện thi chứng chỉ quốc tế PSM I (mỗi sáng 30 phút).
+3. **Portfolio 3 (Tài chính & Liên danh):** Duy trì đệm tiền mặt an toàn 40-50tr, nộp đủ 12tr bảo hiểm, tìm kiếm đối tác The Hustler cho các gói B2B ngoài giờ.
