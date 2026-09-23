@@ -83,16 +83,35 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
 - **Quy trình 3 bước xin lỗi quân tử:**
   - Thừa nhận lỗi sai chính trực ➔ Không đổ lỗi hoàn cảnh ➔ Dùng hành động thực tế để sửa đổi.
 
-### 🔹 Project 4.3.1: `Financial-Alignment` (Minh Bạch & Đồng Thuận Tài Chính)
+### 🔹 Project 4.2.3: `Radical-Honesty-And-Boundary-Protocol` (Giao Thức Ranh Giới Chính Trực & Hóa Giải Bẫy "Đứng Núi Này Trông Núi Nọ")
+- **Nhận diện bẫy tâm lý (The Childhood Nostalgia Trap):**
+  - Hiện tượng xao xuyến trước người bạn gái thời thơ ấu sau 30 năm gặp lại (được gia đình vun vén) trong khi đang có người yêu:
+    1. *Ảo ảnh hoài niệm (Nostalgia Distortion):* 30 năm cách biệt là một khoảng trống mênh mông. Em không hề biết con người thực tế của cô ấy ở tuổi 34-35 (tính cách, thói quen sinh hoạt, quan điểm tài chính, cách hành xử khi khủng hoảng). Em chỉ đang yêu một *ký ức đẹp thời thơ ấu* do tâm trí tự tô vẽ.
+    2. *Bẫy kỳ vọng gia đình (People-Pleasing & Ranh giới yếu - Agreeableness 72):* Nỗi sợ làm gia đình phật ý khiến em bị dao động. Người đàn ông bản lĩnh lấy vợ cho cuộc đời mình, không lấy vợ để "chiều lòng ba mẹ hay họ hàng".
+    3. *Nỗi sợ cam kết vô thức (Commitment Avoidance):* Khi tình yêu với người yêu hiện tại bước vào giai đoạn chín muồi (hướng tới hôn nhân 2028), trách nhiệm và sự va chạm đời thường làm hạch hạnh nhân sợ hãi, vô thức tìm kiếm một "lối thoát lãng mạn" để trốn tránh.
+- **Cảnh báo rủi ro sinh tử đối với hệ thần kinh:**
+  - Tư tưởng "vừa bên cạnh người yêu vừa muốn làm bạn tìm hiểu người khác" là **sự thiếu chính trực (Emotional Infidelity)**. Khi bị vỡ lở hoặc tự cắn rứt, nó sẽ kích hoạt **Vòng xoáy tội lỗi cực độc (Toxic Shame)**, phá nát lòng tự trọng, đẩy Amygdala vào hoảng loạn, khiến em tái nghiện Porn/thuốc lá và làm sụp đổ toàn bộ sự nghiệp IT!
+- **Hành động thiết lập ranh giới chuẩn mực (Gentleman's Boundary):**
+  - **Với bạn gái thời thơ ấu:** Dừng ngay mọi buổi hẹn riêng tư 1-1 mang tính chất "tâm sự tìm hiểu". Giữ đúng vị thế bạn bè hàng xóm xã giao, minh bạch với người yêu hiện tại. Tuyệt đối không thả thính hay gieo hy vọng.
+  - **Với gia đình:** Điềm đạm, kiên quyết bày tỏ ranh giới: *"Con cảm ơn ba mẹ đã quan tâm, nhưng con đã có người yêu và con trân trọng mối quan hệ này. Xin gia đình tôn trọng sự lựa chọn của con."*
+  - **Với người yêu hiện tại:** Tập trung 100% năng lượng để vun đắp tình cảm, không phân tán tâm trí. Muốn cây đơm hoa kết trái, phải tưới nước vào một gốc cây duy nhất.
+
+### 🔹 Project 4.3.1: `Financial-Alignment` (Minh Bạch & Đồng Thuận Tài Chính Gia Đình)
 - **Tài chính là xương sống của hôn nhân hạnh phúc:**
   - Tình yêu lãng mạn chỉ thăng hoa khi không bị bóp nghẹt bởi nỗi lo cơm áo gạo tiền.
   - Thẳng thắn chia sẻ tầm nhìn tài sản 3 tầng: Đệm an toàn 50tr, Quỹ cưới 100tr của ba, dòng tiền tích lũy và kế hoạch mua nhà/tổ ấm.
   - Thiết lập "Nguyên tắc đồng thuận chi tiêu": Các khoản chi lớn trên 5-10 triệu đều có sự bàn bạc, thống nhất giữa hai người.
 
-### 🔹 Project 4.3.2: `Sacred-Marriage-Roadmap` (Lộ Trình Tiến Đến Hôn Nhân 2028 – 2029)
-- **Năm 1 (2026 – 2027):** Xây dựng sự gắn kết an toàn, thấu hiểu giá trị sống của nhau, giới thiệu người yêu với mẹ và anh hai trong sự ấm áp, tôn trọng.
-- **Năm 2 (2027 – 2028):** Đạt mốc thu nhập 35-40tr/tháng, củng cố tài chính vững vàng; lên kế hoạch cầu hôn lãng mạn, tinh tế mang đậm dấu ấn riêng của hai người.
-- **Năm 3 (2028 – 2029):** Đám cưới ấm cúng, chính thức xây dựng tổ ấm gia đình; sử dụng Quỹ cưới 100tr của ba một cách thiêng liêng và chuẩn mực.
+### 🔹 Project 4.3.2: `Sacred-Marriage-Roadmap` (Lộ Trình Tiến Đến Hôn Nhân Quý 2/2028)
+- **Năm 2026:** Xây dựng sự gắn kết an toàn, thấu cảm sâu sắc, duy trì các nghi thức yêu thương vi mô hàng ngày.
+- **Năm 2027 (Năm Gắn Kết & Trải Nghiệm Chung):**
+  - Dành nhiều thời gian chất lượng bên nhau: Lên kế hoạch các chuyến du lịch ý nghĩa, trải nghiệm cuộc sống cùng nhau.
+  - Thường xuyên thăm hỏi, tạo dựng mối quan hệ gắn bó, chân thành với gia đình hai bên.
+  - Củng cố tài chính vững vàng (thu nhập chạm mốc 35 - 50tr/tháng), chuẩn bị nền tảng tổ ấm.
+- **Năm 2028 (Hôn Nhân Thiêng Liêng):**
+  - **Quý 1/2028:** Cầu hôn lãng mạn và chuẩn bị lễ cưới chu đáo.
+  - **Quý 2/2028:** **TỔ CHỨC ĐÁM CƯỚI CHÍNH THỨC**, sử dụng Quỹ cưới 100tr của ba thiêng liêng và ý nghĩa.
+  - Chính thức bước vào giai đoạn xây dựng tổ ấm hạnh phúc vững bền.
 
 ### 🔹 Project 4.3.3: `Life-Long-Sanctuary` (Văn Hóa Gia Đình & Chăm Sóc Song Thân)
 - **Xây dựng tổ ấm là nơi bình an nhất thế gian:**

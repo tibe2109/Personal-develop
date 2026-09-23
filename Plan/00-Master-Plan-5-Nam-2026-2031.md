@@ -8,14 +8,14 @@
 ## 🎯 BỨC TRANH ĐÍCH — NĂM 2031 (THE 5-YEAR DESTINATION)
 
 Khi chạm ngưỡng tuổi 40 vào **tháng 09/2031**, tôi nhìn lại và tự hào khẳng định:
-1. **Tài chính & Tự do:** Tổng thu nhập bền vững **> 70 – 100 triệu VNĐ/tháng** (Lương Global + Doanh thu Tech Studio ngoài giờ + Cổ tức/Thu nhập thụ động). Danh mục Crypto tích sản đạt **> 50,000 – 100,000 USD** (BTC/ETH). Đệm an toàn tài chính 100% giúp tôi tự chủ, không bao giờ bị phụ thuộc hay lo sợ sếp ép.
-2. **Vị thế Sự nghiệp IT:** Từ một dev bình thường không bằng ĐH, tôi đã trở thành **AI Solution Architect / Tech Consultant** có uy tín thực chiến, sở hữu chứng chỉ quốc tế **PSM I** và các sản phẩm tự động hóa kiểm thử (**Playwright AI Automation**) được thị trường công nhận.
-3. **Thần kinh & Sinh học Thể chất:** Đã chấm dứt hoàn toàn các thói quen nghiện dopamine rác (Porn, thuốc lá, lướt web vô thức, nhậu nhẹt). Cơ thể săn chắc, tráng kiện nhờ duy trì Gym 3-4 buổi/tuần. Hệ thần kinh điềm tĩnh, tĩnh tại và vững vàng trước mọi sóng gió.
-4. **Mối quan hệ & Gia đình:** Đã thanh lọc toàn bộ bạn bè chém gió vô bổ; xây dựng mạng lưới đối tác tinh hoa (mô hình *The Builder & The Hustler*). Là chỗ dựa kinh tế và tinh thần vững chắc cho mẹ, anh hai và xây dựng gia đình nhỏ hạnh phúc, an yên.
+1. **Tài chính & Tự do:** Hoàn toàn tự do tài chính với dòng thu nhập thụ động bền vững **> 1,000 USD/tháng (~25 – 26 triệu VNĐ/tháng)**. Danh mục tích sản Crypto tăng trưởng từ 20,000 USD lên **> 300,000 USD** nhờ kết hợp chu kỳ thị trường và dòng tiền DCA kỷ luật từ sự nghiệp IT bứt phá. Tổng thu nhập chủ động **> 70 – 100 triệu VNĐ/tháng**. Đệm an toàn tài chính 100% giúp tôi tự chủ, không bao giờ bị phụ thuộc hay lo sợ bất kỳ ai.
+2. **Vị thế Sự nghiệp & Lãnh đạo IT:** Từ một dev bình thường không bằng ĐH, tôi đã trở thành **Giám đốc Trung tâm / Program & Portfolio Director / Co-founder Công nghệ**, có năng lực lãnh đạo điều hành đội ngũ **50 – 100 nhân sự** chuyên nghiệp. Làm chủ kiến trúc phần mềm, ứng dụng AI-Driven SDLC số hóa quy trình kinh doanh doanh nghiệp, sở hữu chứng chỉ quốc tế **PSM I** và bộ công cụ tự động hóa kiểm thử chuẩn công nghiệp được thị trường săn đón.
+3. **Thần kinh & Sinh học Thể chất:** Đã chấm dứt hoàn toàn các thói quen nghiện dopamine rác (Porn, thuốc lá, lướt web vô thức, nhậu nhẹt). Cơ thể săn chắc, tráng kiện, đề kháng mạnh mẽ nhờ duy trì Gym tối thiểu 3 buổi/tuần ("Never miss twice"). Hệ thần kinh điềm tĩnh, làm chủ phản xạ dừng 5-10s và vững vàng trước mọi sóng gió.
+4. **Mối quan hệ & Gia đình:** Đã tổ chức đám cưới thiêng liêng vào **Quý 2/2028** với người yêu, xây dựng gia đình nhỏ hạnh phúc, an yên. Giữ vững sự chính trực quân tử, độc lập phán xét, là chỗ dựa kinh tế và tinh thần vững chắc cho mẹ, anh hai và vợ con.
 
 ---
 
-## 🏛️ KIẾN TRÚC QUẢN TRỊ 3 PORTFOLIO LỚN
+## 🏛️ KIẾN TRÚC QUẢN TRỊ 4 PORTFOLIO LỚN
 
 ```
                                        ┌─────────────────────────────────────────────────────────┐

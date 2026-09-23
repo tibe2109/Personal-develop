@@ -19,27 +19,33 @@
 
 ```
 PORTFOLIO 2: THỰC CHỨNG NĂNG LỰC IT & VŨ KHÍ AI-DRIVEN
-├── PROGRAM 2.1: BẬC THẦY AI AUTOMATION TESTING (DỰ ÁN FTI-AM)
-│   ├── Project 2.1.1: FTI-AM-Automation-Skill (Chuẩn hóa AI Skill Playwright)
-│   ├── Project 2.1.2: Demo-2-Internal-Adoption (Phổ biến công cụ cho toàn team)
+├── PROGRAM 2.1: BẬC THẦY AI AUTOMATION TESTING & QUY TRÌNH SDLC CHUYÊN NGHIỆP
+│   ├── Project 2.1.1: AI-URD-To-Industrial-Automation (Bộ Skill chuyển URD thành Test-Cases Automation chuẩn công nghiệp - OKR Q4/2026)
+│   ├── Project 2.1.2: Demo-2-Internal-Adoption (Phổ biến công cụ cho toàn team & chuẩn hóa SDLC)
 │   └── Project 2.1.3: 5-Stage-AI-OS (Vận hành hệ điều hành phát triển bằng AI)
-└── PROGRAM 2.2: CHUẨN HÓA NĂNG LỰC TOÀN CẦU & THƯƠNG HIỆU CHUYÊN GIA
-    ├── Project 2.2.1: PSM-I-Mastery (Luyện thi & Đỗ chứng chỉ Scrum Master quốc tế)
-    ├── Project 2.2.2: Inbound-Authority (Xây dựng LinkedIn & Portfolio thực chứng)
-    └── Project 2.2.3: Global-Transition (Ứng tuyển vị trí Senior PM / AI Tech Lead 35-40tr)
+├── PROGRAM 2.2: CHUẨN HÓA NĂNG LỰC TOÀN CẦU & THƯƠNG HIỆU CHUYÊN GIA
+│   ├── Project 2.2.1: PSM-I-Mastery (Luyện thi & Đỗ chứng chỉ Scrum Master quốc tế)
+│   ├── Project 2.2.2: Inbound-Authority (Xây dựng LinkedIn & Portfolio thực chứng)
+│   └── Project 2.2.3: Global-Transition (Ứng tuyển vị trí Senior PM / AI Tech Lead 35-40tr)
+└── PROGRAM 2.3: LÃNH ĐẠO ĐỘI NHÓM, KIẾN TRÚC PHẦN MỀM & SỐ HÓA DOANH NGHIỆP (LEADERSHIP & ARCHITECTURE)
+    ├── Project 2.3.1: Enterprise-Architecture-AI-SDLC (Kiến trúc hệ thống & Ứng dụng AI số hóa quy trình kinh doanh)
+    ├── Project 2.3.2: Persuasion-Influence-Leadership (Rèn luyện giao tiếp, thuyết phục, dẫn dắt & truyền cảm hứng)
+    └── Project 2.3.3: Large-Scale-Department-Leadership (Lộ trình năng lực quản lý phòng ban 50 - 100 nhân sự / Giám đốc Trung tâm / Khởi nghiệp)
 ```
 
 ---
 
 ## III. CHI TIẾT CÁC PROJECTS THỰC THI
 
-### 🔹 Project 2.1.1: `FTI-AM-Automation-Skill` (Đóng Gói Kỹ Năng Kiểm Thử AI)
-- **Mục tiêu:** Xây dựng framework Playwright E2E testing kết hợp AI có khả năng chạy mượt mà trên mọi môi trường và bắt bug tự động.
+### 🔹 Project 2.1.1: `AI-URD-To-Industrial-Automation` (Bộ Skill Chuyển URD Sang Test Automation Chuẩn Công Nghiệp - OKR Q4/2026)
+- **Mục tiêu:** Xây dựng giải pháp AI tự động hóa phân tích tài liệu đặc tả yêu cầu nghiệp vụ (URD), trích xuất và chuyển đổi thành bộ Test-Case Automation chuẩn công nghiệp, bảo đảm 100% phần mềm đúng nghiệp vụ chức năng.
 - **Thực thi:**
-  - Kế thừa thành công từ Seminar #1 (24/07), đóng gói toàn bộ luồng tạo testcase từ URD, sinh kịch bản Playwright và tự động fix bug khi test fail thành một bộ Skill độc lập.
-  - Tích hợp mock data và real API mode chuẩn kiến trúc FTI-AM.
+  - *Module 1 (URD Distiller):* Bóc tách URD, chuẩn hóa quy tắc nghiệp vụ, bảng quyết định (decision tables), edge cases.
+  - *Module 2 (Industrial Test Generator):* Tự động sinh kịch bản Playwright E2E & API test theo cấu trúc Page Object Model (POM), data-driven testing.
+  - *Module 3 (SDLC Quality Gate):* Tích hợp quy trình kiểm thử tự động vào CI/CD pipeline, tạo báo cáo chất lượng trực quan.
+- **Cột mốc:** Đạt nghiệm thu hoàn chỉnh và ứng dụng thực tế trong Quý 4/2026.
 
-### 🔹 Project 2.1.2: `Demo-2-Internal-Adoption` (Phổ Biến Cho Đội Ngũ FTI-AM)
+### 🔹 Project 2.1.2: `Demo-2-Internal-Adoption` (Phổ Biến Cho Đội Ngũ FTI-AM & Dự Án Mới)
 - **Mục tiêu:** Biến sản phẩm cá nhân thành tài sản của công ty, xác lập vị thế chuyên gia kỹ thuật không thể thay thế.
 - **Thực thi:**
   - Soạn thảo tài liệu hướng dẫn sử dụng 1 trang (One-page Quickstart) siêu dễ hiểu cho dev và QA trong team.
@@ -94,6 +100,27 @@ PORTFOLIO 2: THỰC CHỨNG NĂNG LỰC IT & VŨ KHÍ AI-DRIVEN
   3. *Băm thành các task ≤ 2 giờ mỗi task.*
   4. *Đặt deadline cụ thể cho task đầu tiên (trong vòng 48 giờ).*
   5. *Tìm người accountability (Coach Anh) báo cáo tiến độ.*
+
+### 🔹 Project 2.3.1: `Enterprise-Architecture-AI-SDLC` (Kiến Trúc Hệ Thống & Ứng Dụng AI Số Hóa Doanh Nghiệp)
+- **Mục tiêu:** Nâng tầm tư duy từ một developer viết code đơn thuần thành một Kỹ sư giải pháp / Kiến trúc sư phần mềm (Solution Architect), có năng lực thiết kế hệ thống và số hóa quy trình kinh doanh.
+- **Thực thi:**
+  - *Domain-Driven Design (DDD) & Modular Monolith / Microservices:* Nắm vững cách bóc tách ranh giới nghiệp vụ (Bounded Contexts) cho các bài toán quản lý doanh nghiệp, tài sản, camera, IoT.
+  - *AI-Driven SDLC:* Ứng dụng AI vào toàn bộ chu trình phát triển phần mềm (từ URD ➔ Phân tích ➔ Kiến trúc ➔ Sinh mã ➔ Automation Testing ➔ CI/CD ➔ Monitoring).
+
+### 🔹 Project 2.3.2: `Persuasion-Influence-Leadership` (Rèn Luyện Giao Tiếp, Thuyết Phục & Dẫn Dắt)
+- **Mục tiêu:** Xây dựng phong thái lãnh đạo điềm đạm, uy tín, có khả năng truyền cảm hứng và tạo ảnh hưởng tích cực lên đội ngũ.
+- **Thực thi:**
+  - *Nghệ thuật dừng 5 - 10 giây (Micro-Pause):* Không phản ứng theo cảm xúc bản năng. Dừng lại, hít thở, quan sát trước khi đưa ra phản hồi.
+  - *Thuyết phục bằng sự đồng thuận & Dữ liệu (Fact-based Persuasion):* Không dùng quyền lực ép buộc. Trình bày vấn đề bằng số liệu thực tế, giải pháp win-win và góc nhìn lợi ích của toàn team.
+  - *Nghệ thuật lắng nghe tích cực (Active Listening):* Lắng nghe trọn vẹn không ngắt lời, tóm tắt lại ý của đối phương trước khi đưa ra giải pháp ("Theo tôi hiểu, mối bận tâm lớn nhất của bạn là X...").
+
+### 🔹 Project 2.3.3: `Large-Scale-Department-Leadership` (Lộ Trình Năng Lực Quản Lý Phòng Ban 50 - 100 Người)
+- **Mục tiêu:** Xây dựng nền tảng tư duy và quy trình quản trị để có thể điều hành một phòng ban công nghệ 50 - 100 nhân sự hoặc làm Giám đốc Trung tâm / Co-founder khởi nghiệp.
+- **Bản đồ 4 cấp độ mở rộng quy mô (Scale-up Ladder):**
+  1. *Level 1 (Lead Yourself - Hiện tại):* Làm chủ cảm xúc, kỷ luật cá nhân, hoàn thành xuất sắc các cam kết A1.
+  2. *Level 2 (Lead a Pod 3 - 5 người):* Scrum Master / Tech Lead nhóm nhỏ, tối ưu hiệu suất bằng AI và Automation.
+  3. *Level 3 (Lead Multiple Teams 15 - 30 người):* Chuẩn hóa quy trình SDLC, đào tạo các Tech Lead kế cận, quản trị dự án theo chuẩn Agile/Scrum.
+  4. *Level 4 (Director / Department Head 50 - 100 người):* Quản trị danh mục (Portfolio Management), hoạch định chiến lược kinh doanh - công nghệ, xây dựng văn hóa đội ngũ tự chủ (Autonomous Teams) và tối ưu ngân sách vận hành.
 
 ---
 
