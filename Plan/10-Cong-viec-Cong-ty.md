@@ -35,6 +35,14 @@ Tài liệu này giúp **Coach Anh** và chính bạn nhìn thấy **toàn bộ 
 | **Cơ hội rèn luyện Leadership & EQ** | Trung bình — Vùng an toàn (Comfort Zone). | **Cực cao** — Thao trường rèn luyện năng lực thuyết phục, dẫn dắt và tạo ảnh hưởng từ số 0. |
 | **Độ phù hợp với OKR Q4/2026** | **Tối ưu:** Giúp có dư địa năng lượng để hoàn thiện bộ AI Automation Skill. | Thách thức: Tải trọng cao có thể làm phân tán thời gian đóng gói skill nếu không quản lý ranh giới tốt. |
 
+### 4. 🏆 Chiến dịch thi đua cấp Tập đoàn & Khối: **CUỘC THI "AI THỰC CHIẾN TUYẾN ĐẦU 2026" (TỔNG GIẢI THƯỞNG 115 TRIỆU)**
+- **Chi tiết kế hoạch tác chiến:** Tham khảo tài liệu chuyên đề [`Plan/Chien-dich-AI-Thuc-Chien-FTEL-2026.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/Chien-dich-AI-Thuc-Chien-FTEL-2026.md).
+- **Mục tiêu giật giải:**
+  - *Chặng 1 (Hạn 18/10):* Đạt giải Cá nhân/Nhóm xuất sắc Chi nhánh (chia quỹ 50M) + Vé AI Tech Lead Đội tuyển Khu vực.
+  - *Chặng 2 (Tháng 10 - 11):* Vận hành mô hình The Builder & The Hustler, dẫn dắt đội tuyển vào TOP 4 toàn quốc.
+  - *Chặng 3 (Đầu tháng 12):* Chinh phục **QUÁN QUÂN VÔ ĐỊCH 30.000.000 VNĐ** tại Hackathon 48H + Nhận bảo trợ đưa giải pháp vào vận hành thực tế toàn hệ thống FTEL.
+- **Tính cộng hưởng (Synergy):** Tận dụng toàn bộ kinh nghiệm thực chiến từ FTI-AM và bộ công cụ AI URD/Automation để đóng gói thành bài dự thi chất lượng cao, đè bẹp mặc cảm bằng cấp và xác lập vị thế chuyên gia kỹ thuật hàng đầu.
+
 ---
 
 ## III. NGUYÊN TẮC RÈN LUYỆN EQ & NĂNG LỰC TẠO ẢNH HƯỞNG TẠI DỰ ÁN MỚI
@@ -51,5 +59,9 @@ Tài liệu này giúp **Coach Anh** và chính bạn nhìn thấy **toàn bộ 
 | :---: | :--- | :---: |
 | **Tối 23/09/2026** | **🚀 Deploy FTI-AM & Ăn Mừng Hoàn Thành** | `[ACTIVE / TONIGHT]` |
 | **24/09 – 02/10/2026** | **Phân định & Tiếp nhận dự án mới (BMS hoặc Camera)** | `[IN PLANNING]` |
+| **01/10 – 18/10/2026** | **🎯 Nộp bài dự thi Chặng 1 Cuộc thi "AI Thực Chiến Tuyến Đầu 2026" (Săn giải Chi nhánh & Vé Khu vực)** | `[STRATEGIC GOAL]` |
 | **Tháng 10 – 12/2026** | **Xây dựng & Đóng gói Bộ AI URD-to-Automation Skill** | `[OKR Q4/2026]` |
+| **Tháng 10 – 11/2026** | **Chặng 2: Tranh tài khu vực cuộc thi AI & Workshop chia sẻ toàn quốc** | `[CHALLENGE]` |
+| **Đầu Tháng 12/2026** | **Chặng 3: 48H Hackathon Offline tại HO (Mục tiêu Quán quân 30 Triệu)** | `[GRAND FINAL]` |
 | **Ngày 10 hàng tháng** | **Đón dòng tiền 26tr FTI-AM, trích lập đệm an toàn & DCA Crypto** | `[ROUTINE]` |
+

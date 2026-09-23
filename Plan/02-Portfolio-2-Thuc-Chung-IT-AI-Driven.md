@@ -22,8 +22,10 @@ PORTFOLIO 2: THỰC CHỨNG NĂNG LỰC IT & VŨ KHÍ AI-DRIVEN
 ├── PROGRAM 2.1: BẬC THẦY AI AUTOMATION TESTING & QUY TRÌNH SDLC CHUYÊN NGHIỆP
 │   ├── Project 2.1.1: AI-URD-To-Industrial-Automation (Bộ Skill chuyển URD thành Test-Cases Automation chuẩn công nghiệp - OKR Q4/2026)
 │   ├── Project 2.1.2: Demo-2-Internal-Adoption (Phổ biến công cụ cho toàn team & chuẩn hóa SDLC)
-│   └── Project 2.1.3: 5-Stage-AI-OS (Vận hành hệ điều hành phát triển bằng AI)
+│   ├── Project 2.1.3: 5-Stage-AI-OS (Vận hành hệ điều hành phát triển bằng AI)
+│   └── Project 2.1.4: AI-Thuc-Chien-FTEL-2026-Contest (Chiến dịch Chinh Phục Giải Thưởng AI Thực Chiến Tuyến Đầu 2026 FTEL)
 ├── PROGRAM 2.2: CHUẨN HÓA NĂNG LỰC TOÀN CẦU & THƯƠNG HIỆU CHUYÊN GIA
+
 │   ├── Project 2.2.1: PSM-I-Mastery (Luyện thi & Đỗ chứng chỉ Scrum Master quốc tế)
 │   ├── Project 2.2.2: Inbound-Authority (Xây dựng LinkedIn & Portfolio thực chứng)
 │   └── Project 2.2.3: Global-Transition (Ứng tuyển vị trí Senior PM / AI Tech Lead 35-40tr)
@@ -61,6 +63,17 @@ PORTFOLIO 2: THỰC CHỨNG NĂNG LỰC IT & VŨ KHÍ AI-DRIVEN
   4. *Stage 4: Playwright Quality Gates:* Tự động chạy test E2E kiểm chứng chất lượng trước khi commit.
   5. *Stage 5: Portfolio Assetization:* Đóng gói các giải pháp hay thành bài viết/tài liệu lưu trữ.
 - **Giao thức Anti-Panic Rollback:** Khi gặp bug khó, tuyệt đối không hoảng loạn nhồi prompt liên tục. Dừng lại ➔ `git stash` hoặc `git revert` về bản stable ➔ bóc tách thành bài toán nguyên tử (atomic) để debug.
+
+### 🔹 Project 2.1.4: `AI-Thuc-Chien-FTEL-2026-Contest` (Chinh Phục Giải Thưởng AI Thực Chiến Tuyến Đầu 2026)
+- **Tài liệu tác chiến:** Chi tiết tại [`Plan/Chien-dich-AI-Thuc-Chien-FTEL-2026.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/Chien-dich-AI-Thuc-Chien-FTEL-2026.md).
+- **Mục tiêu cốt lõi:**
+  - Giật giải thưởng Chi nhánh (quỹ 50M) & Chinh phục **QUÁN QUÂN 30.000.000 VNĐ** tại Chung kết Hackathon 48H.
+  - Nhận bảo trợ cấp ngân sách và đưa giải pháp thành sản phẩm Production chạy thật tại 100% chi nhánh FTEL.
+  - Biến giải thưởng thành Proof-of-Work đè bẹp mặc cảm bằng cấp trước toàn thể Ban Điều Hành FTEL và Tập đoàn FPT.
+- **Lộ trình 3 Chặng:**
+  - *Chặng 1 (Hạn 18/10/2026):* Nộp hồ sơ chuẩn 100 điểm với Use Case "AI Thẩm Định Phụ Lục Hợp Đồng/Quy Trình" + Video Demo 3 phút sắc sảo ➔ Giành giải Chi nhánh & Vé AI Tech Lead Đội tuyển Khu vực.
+  - *Chặng 2 (Tháng 10 - 11/2026):* Dẫn dắt đội tuyển vượt qua các bài toán tuần từ 4 Pool Data bảo mật ➔ Lọt vào TOP 4 Toàn Quốc.
+  - *Chặng 3 (Đầu tháng 12/2026):* Tranh tài Hackathon 48H Offline tại HO ➔ Vô địch Quán Quân.
 
 ### 🔹 Project 2.2.1: `PSM-I-Mastery` (Chứng Chỉ Scrum Master Quốc Tế)
 - **Mục tiêu:** Đỗ chứng chỉ Professional Scrum Master I (Scrum.org) với số điểm > 90%.

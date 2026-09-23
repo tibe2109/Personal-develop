@@ -21,6 +21,7 @@
 4. **Toán học Tài chính:** Đòn bẩy đưa Crypto 20k -> 300k USD & Tự do tài chính 1000$ là tăng thu nhập IT lên 50-70-100tr để DCA 38-63tr/tháng.
 5. **Dự án Tâm lý Tình cảm Q4/2026 (Project 4.1.4):** Giải mã tâm lý người yêu (đồng nghiệp sinh năm 2002, lệch 10 tuổi, giả thuyết ISTJ & DISC C), xây dựng chiến lược "Quyến rũ tĩnh lặng", tạo bình an tuyệt đối và kích hoạt cảm xúc bền vững.
 6. **Ranh giới Quân tử:** Dứt khoát loại bỏ suy nghĩ mập mờ với bạn gái thời thơ ấu để bảo vệ sự chính trực và người yêu hiện tại.
+7. **Chiến dịch Cuộc thi AI Thực Chiến Tuyến Đầu FTEL 2026:** Kích hoạt Project 2.1.4 với mục tiêu săn giải Chi nhánh & Chinh phục Quán Quân 30.000.000 VNĐ, xây dựng Proof-of-Work đè bẹp mặc cảm bằng cấp.
 
 ---
 
@@ -64,6 +65,7 @@
 - [ ] Quyết định dự án mới: BMS vs Camera sau buổi deploy tối nay.
 - [ ] Thiết lập ranh giới dứt khoát với bạn gái thời thơ ấu (dừng hẹn hò riêng tư).
 - [ ] Bắt đầu nghiên cứu kiến trúc bộ AI Skill URD-to-Automation cho Quý 4.
+- [ ] Chốt ý tưởng Use Case nộp bài Chặng 1 Cuộc thi "AI Thực Chiến Tuyến Đầu 2026" (Hạn 18/10).
 
 ---
 
