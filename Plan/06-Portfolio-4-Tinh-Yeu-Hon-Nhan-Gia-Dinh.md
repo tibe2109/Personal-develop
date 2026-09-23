@@ -33,7 +33,8 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
 ├── PROGRAM 4.1: NGHỆ THUẬT YÊU ĐƯƠNG TINH TẾ & BẤT NGỜ HÀNG NGÀY (DAILY SPARK)
 │   ├── Project 4.1.1: Micro-Love-Rituals (Nghi thức yêu thương vi mô mỗi ngày)
 │   ├── Project 4.1.2: Weekly-Romantic-Date (Hẹn hò sáng tạo & Storytelling)
-│   └── Project 4.1.3: The-Quiet-Charm (Nghệ thuật quyến rũ từ sự tĩnh lặng & tinh tế)
+│   ├── Project 4.1.3: The-Quiet-Charm (Nghệ thuật quyến rũ từ sự tĩnh lặng & tinh tế)
+│   └── Project 4.1.4: Partner-Profiling-And-Quiet-Seduction (Giải mã MBTI/DISC & Chiến lược quyến rũ tĩnh lặng nàng 2002 - OKR Q4/2026)
 ├── PROGRAM 4.2: GẮN KẾT AN TOÀN & LÀM CHỦ KHÔNG GIAN CẢM XÚC (SECURE ATTACHMENT)
 │   ├── Project 4.2.1: Emotional-Space-24h (Quy tắc không gian thở & 24h tĩnh lặng)
 │   └── Project 4.2.2: Radical-Empathy-NVC (Lắng nghe thấu cảm & Giao tiếp trắc ẩn)
@@ -66,6 +67,29 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
 - **Thẩm mỹ cá nhân & Nam tính cuốn hút:**
   - Giữ cơ thể săn chắc nhờ tập Gym; chăm sóc mùi hương tinh tế, trang phục lịch lãm, sạch sẽ.
   - Vận dụng "Sức mạnh của sự tĩnh lặng": Không ba hoa khoác lác, không cần chứng tỏ mình giỏi. Đôi mắt ấm áp, giọng nói trầm tĩnh, nụ cười thong dong chính là thứ bùa mê quyến rũ nhất.
+
+### 🔹 Project 4.1.4: `Partner-Profiling-And-Quiet-Seduction` (Chiến Dịch Giải Mã MBTI/DISC & Quyến Rũ Nàng 2002 - OKR Q4/2026)
+- **Hồ sơ hiện trạng & Bối cảnh đặc thù:**
+  - *Độ tuổi & Thế hệ:* Nàng sinh năm **2002** (24 tuổi, Gen Z) — Em sinh năm **1992** (34 tuổi, Millennials). Chênh lệch 10 tuổi.
+  - *Mối quan hệ:* Là **đồng nghiệp cùng công ty**.
+  - *Giả thuyết tâm lý:* Thiên hướng **ISTJ** (The Logistician / Người trách nhiệm, chuẩn mực) & **DISC: Compliance (C - Tuân thủ, cẩn trọng, chính xác)**.
+  - *Biểu hiện thực tế:* Khá ít bộc lộ cảm xúc ra ngoài, kín đáo, điềm đạm, có ranh giới tự vệ cao.
+- **Giải mã bản chất tâm lý học thần kinh (Tại sao nàng ít thể hiện tình cảm?):**
+  1. *Ranh giới đồng nghiệp công sở (Workplace Shield):* Là cấp dưới/đồng nghiệp trẻ tuổi hơn 10 tuổi, nàng có phản xạ tự vệ bản năng để bảo vệ sự chuyên nghiệp, tránh tin đồn công sở hoặc bị đánh giá là thiếu nghiêm túc trong công việc. Sự kín đáo này là biểu hiện của **lòng tự trọng và sự thông minh**.
+  2. *Cấu trúc nhận thức ISTJ (Si-Te-Fi-Ne):* Cảm xúc (Fi) là chức năng bậc 3, ẩn sâu bên trong lớp vỏ bọc logic và trách nhiệm (Te). Ngôn ngữ tình yêu của nàng là **Hành động phụng sự (Acts of Service)** và **Sự hiện diện đáng tin cậy (Quality Time)** chứ KHÔNG PHẢI lời nói đường mật (Words of Affirmation).
+  3. *Tâm lý tuổi 24 đối diện người đàn ông 34 tuổi:* Nàng cần thời gian quan sát để chắc chắn em là người đàn ông vững chãi, an toàn, không chơi bời hay áp đặt.
+- **Khung 4 câu hỏi & Quan sát vi mô tự nhiên (Micro-Observation Framework):**
+  - *Trục I vs E (Nạp năng lượng):* Sau giờ làm, nàng thích về nhà nghỉ ngơi yên tĩnh, đọc sách, xem phim (I) hay thích tụ tập bạn bè đông đúc (E)?
+  - *Trục S vs N (Thu nhận thông tin):* Khi nói chuyện, nàng chú ý đến chi tiết thực tế, món ăn ngon, đồ dùng cụ thể (S) hay thích triết lý, tưởng tượng viển vông (N)?
+  - *Trục T vs F (Ra quyết định):* Khi gặp sự cố công việc, nàng phân tích đúng/sai theo quy trình (T) hay để cảm xúc và các mối quan hệ chi phối (F)?
+  - *Trục J vs P (Phong cách sống):* Nàng thích mọi thứ có kế hoạch, đúng giờ, ngăn nắp (J/C) hay linh hoạt, ngẫu hứng, tùy cơ ứng biến (P)?
+- **Chiến lược Quyến rũ Tĩnh lặng & Kích hoạt Cảm xúc (Quiet Seduction Playbook):**
+  - **Quy tắc 1: Đáng tin cậy và Nhất quán tuyệt đối (Extreme Consistency):** Với người nhóm C và ISTJ, không gì quyến rũ hơn một người đàn ông **nói là làm, đúng giờ, chuẩn mực, ổn định trong cảm xúc**. Không hứa hão, không thất hứa dù là việc nhỏ nhất.
+  - **Quy tắc 2: Tôn trọng tuyệt đối ranh giới công sở:** Ở công ty đối xử lịch lãm, giữ thể diện và vị thế chuyên nghiệp cho nàng. Sự tinh tế này sẽ làm nàng cảm thấy được tôn trọng và an toàn 100%.
+  - **Quy tắc 3: Chăm sóc bằng hành vi vi mô thực tế (Acts of Service):** Một ly nước ấm khi trời lạnh, chiếc áo khoác khi đi mưa, hỗ trợ gỡ rối logic kỹ thuật khi nàng cần mà không tỏ vẻ "dạy đời".
+  - **Quy tắc 4: Mở khóa trái tim (Unlocking her Inner Fi):**
+    - ❌ *CẤM:* Hỏi dồn dập: "Sao em lạnh lùng thế?", "Sao em ít thể hiện tình cảm?". Điều này sẽ khiến nàng kích hoạt cơ chế phòng vệ và đóng chặt cửa lòng.
+    - ✅ *ĐÚNG:* Tạo "Không gian an toàn tuyệt đối" (Psychological Safety). Tự mình chia sẻ những cảm xúc chân thành, ấm áp trước mà không đòi hỏi nàng phải đáp lại ngay. Khi cảm nhận được sự vững chãi và kiên nhẫn của em, nàng sẽ tự nhiên mở lòng và bộc lộ sự dịu dàng sâu kín nhất.
 
 ### 🔹 Project 4.2.1: `Emotional-Space-24h` (Làm Chủ Nhịp Độ & Không Gian Thở)
 - **Quy tắc không gian thở (Emotional Space):**
