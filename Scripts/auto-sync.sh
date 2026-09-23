@@ -24,19 +24,18 @@ C_CYAN='\033[0;36m'
 C_BOLD='\033[1m'
 
 install_cron() {
-    local cron_cmd="*/30 * * * * /bin/bash \"$SCRIPT_DIR/auto-sync.sh\" run-once >> \"$LOG_FILE\" 2>&1"
-    if crontab -l 2>/dev/null | grep -F "auto-sync.sh run-once" >/dev/null 2>&1; then
-        echo -e "${C_YELLOW}⚠️ Crontab tự động đồng bộ 30 phút đã tồn tại sẵn.${C_RESET}"
-    else
-        (crontab -l 2>/dev/null; echo "$cron_cmd") | crontab -
-        echo -e "${C_GREEN}✅ Đã cài đặt Cron Job tự động đồng bộ định kỳ 30 phút/lần thành công!${C_RESET}"
-        echo -e "   - Lệnh: ${C_CYAN}$cron_cmd${C_RESET}"
+    local cron_cmd="*/30 * * * * /bin/bash \"$SCRIPT_DIR/auto-sync.sh\" cron >/dev/null 2>&1"
+    if crontab -l 2>/dev/null | grep -F "auto-sync.sh" >/dev/null 2>&1; then
+        crontab -l 2>/dev/null | grep -v -F "auto-sync.sh" | crontab -
     fi
+    (crontab -l 2>/dev/null; echo "$cron_cmd") | crontab -
+    echo -e "${C_GREEN}✅ Đã cài đặt Cron Job tự động đồng bộ định kỳ 30 phút/lần thành công!${C_RESET}"
+    echo -e "   - Lệnh: ${C_CYAN}$cron_cmd${C_RESET}"
 }
 
 uninstall_cron() {
-    if crontab -l 2>/dev/null | grep -F "auto-sync.sh run-once" >/dev/null 2>&1; then
-        crontab -l 2>/dev/null | grep -v -F "auto-sync.sh run-once" | crontab -
+    if crontab -l 2>/dev/null | grep -F "auto-sync.sh" >/dev/null 2>&1; then
+        crontab -l 2>/dev/null | grep -v -F "auto-sync.sh" | crontab -
         echo -e "${C_GREEN}🛑 Đã gỡ bỏ Cron Job tự động đồng bộ khỏi crontab.${C_RESET}"
     else
         echo -e "${C_YELLOW}⚠️ Không tìm thấy Cron Job auto-sync.sh trong crontab.${C_RESET}"
@@ -54,11 +53,21 @@ is_running() {
     return 1
 }
 
-
 # Hàm thực hiện 1 chu kỳ kiểm tra và đồng bộ
 do_sync_tick() {
     local now
     now="$(date '+%Y-%m-%d %H:%M:%S')"
+    export GIT_TERMINAL_PROMPT=0
+
+    # Giới hạn dung lượng file log tối đa 5MB (chống tràn ổ đĩa)
+    if [ -f "$LOG_FILE" ]; then
+        local log_sz
+        log_sz=$(stat -c%s "$LOG_FILE" 2>/dev/null || echo 0)
+        if [ "$log_sz" -gt 5242880 ]; then
+            tail -n 500 "$LOG_FILE" > "$LOG_FILE.tmp" 2>/dev/null && mv "$LOG_FILE.tmp" "$LOG_FILE"
+        fi
+    fi
+
     export GIT_TERMINAL_PROMPT=0
 
     # 1. Kiểm tra kết nối và kéo cập nhật từ remote (nếu có)
@@ -245,13 +254,13 @@ case "$ACTION" in
     daemon-loop)
         daemon_loop "$INTERVAL"
         ;;
+    cron)
+        do_sync_tick
+        ;;
     run-once)
         echo -e "${C_BLUE}🔄 Đang thực thi 1 chu kỳ kiểm tra và đồng bộ ngay lập tức...${C_RESET}"
         do_sync_tick
         echo -e "${C_GREEN}✅ Hoàn tất chu kỳ đồng bộ!${C_RESET}"
-        if [ -f "$LOG_FILE" ]; then
-            tail -n 3 "$LOG_FILE"
-        fi
         ;;
     *)
         echo -e "${C_YELLOW}Cách sử dụng: $0 {start [phút]|stop|restart [phút]|status|run-once|install-cron|uninstall-cron}${C_RESET}"
