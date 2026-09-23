@@ -6,10 +6,21 @@
 
 ## I. NỀN TẢNG TRIẾT LÝ: TÌNH YÊU CỦA NGƯỜI ĐÀN ÔNG BẢN LĨNH
 
-1. **Bản chất của sự Quyến rũ và Hạnh phúc Bền vững:**
+1. **Nhận Thức Cốt Lõi Về Tình Yêu & Sự Nghiệp:**
+   > *"Mối quan hệ tốt không cứu được một cuộc đời thiếu định hướng. Nhưng một cuộc đời có định hướng và bản lĩnh sẽ tự nhiên thu hút và nuôi dưỡng một mối quan hệ tuyệt vời. Phát triển bản thân KHÔNG PHẢI là cách bỏ bê người yêu, mà là cách trở thành người đàn ông xứng đáng để người phụ nữ của mình trao gửi cả cuộc đời."*
+
+2. **Bản chất của sự Quyến rũ và Hạnh phúc Bền vững:**
    - Hạnh phúc trong tình yêu không đến từ việc "ăn xin tình cảm", bám víu (clinging) hay kiểm soát. Phụ nữ khao khát một người đàn ông có **thế giới nội tâm vững chãi, độc lập, có lý tưởng sống** và biến sự hiện diện của mình thành một **bến đỗ an toàn, ấm áp và bình yên**.
    - Căn tính INFP của em mang trái tim của một chàng hiệp sĩ lãng mạn, sự tinh tế vi mô và lòng trắc ẩn bao la (Đạo đức 15/20, Tưởng tượng 14/20). Khi kết hợp phẩm chất này với **Kỷ luật thép và Sự điềm đạm nam tính**, em sẽ tạo ra một sức hút không thể cưỡng lại và một tình yêu thăng hoa suốt đời.
-2. **Chữa lành Phong cách Gắn kết (Attachment Healing):**
+
+3. **Nhận Diện 5 Điểm Yếu Cần Khắc Phục Khi Yêu (INFP Blind Spots):**
+   - ⚠️ *Đầu tư cảm xúc quá nhanh:* Dễ xúc động mãnh liệt và kỳ vọng lớn ngay từ đầu khi chưa hiểu thấu đáo về đối phương.
+   - ⚠️ *Sợ bị bỏ rơi nên bám quá chặt (Hold on too tight):* Nỗi sợ vô thức khiến em muốn kiểm soát hoặc đòi hỏi sự hiện diện liên tục, làm đối phương ngột ngạt.
+   - ⚠️ *Không nói thẳng nhu cầu mà bắt đối phương tự đoán:* Giấu kín suy nghĩ, mong người yêu tự hiểu, khi không được đáp ứng thì âm thầm thất vọng. Phải học cách chia sẻ điềm đạm, rõ ràng.
+   - ⚠️ *Đặt nhu cầu người yêu lên trên nhu cầu bản thân:* Chiều chuộng quá mức đến mức bỏ bê thể chất, tài chính và ranh giới cá nhân, dẫn đến kiệt sức và bất mãn ngầm.
+   - ⚠️ *Tìm kiếm sự công nhận (Validation) từ tình cảm khi bản thân chưa ổn định:* Dùng tình yêu làm "phao cứu sinh" cho sự tự ti và lo âu. Chữa lành bản thân trước thì tình yêu mới thực sự khỏe mạnh.
+
+4. **Chữa lành Phong cách Gắn kết (Attachment Healing):**
    - Chấm dứt hoàn toàn các hành vi phản kháng (Protest Behaviors): Không nói dối tâng bốc bản thân, không dìm người khác để nâng mình lên, không hờn dỗi hay khủng bố tin nhắn khi cảm thấy bất an.
    - Chuyển dịch từ **Gắn kết Lo âu (Anxious Attachment)** sang **Gắn kết An toàn (Secure Attachment)**: Tự tin vào giá trị của mình, tôn trọng không gian thở (Emotional Space) của đối phương và làm chủ nhịp độ cảm xúc.
 

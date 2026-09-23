@@ -76,12 +76,35 @@ PORTFOLIO 3: THỊNH VƯỢNG TÀI CHÍNH & LIÊN DANH BỨT PHÁ
   - SME thường tốn 25 – 30 triệu/tháng cho tester thủ công (300 – 360 triệu/năm) mà vẫn sót bug.
   - Gói Playwright AI Automation trọn gói giúp tự động hóa 80% luồng kiểm thử: Định giá **40 – 60 triệu VNĐ trọn gói** + Phí bảo trì hàng tháng 5 – 10 triệu VNĐ.
 
-### 🔹 Project 3.2.3: `Scale-To-70M` (Hợp Lực Chạm Mốc Thu Nhập > 70 Triệu/Tháng)
-- **Cấu trúc dòng tiền năm thứ 3 – 5 (2028 – 2031):**
-  - Lương vị trí Senior / Tech Lead cty Global: **35 – 45 triệu VNĐ/tháng**.
-  - Lợi nhuận từ các hợp đồng tư vấn B2B cùng Hustler: **20 – 30 triệu VNĐ/tháng**.
-  - Dòng tiền thụ động từ đầu tư Crypto / sản phẩm số: **10 – 15 triệu VNĐ/tháng**.
-  - **TỔNG THU NHẬP: 70,000,000 – 90,000,000 VNĐ / THÁNG!**
+### 🔹 Project 3.1.5: `Budget-Allocation-Rules` (Phân Bổ Ngân Sách 4 Quỹ & 3 Sai Lầm Cần Tránh)
+- **Cơ Cấu Phân Bổ Ngân Sách Hiện Tại (Lương 26.000.000 VND/tháng):**
+  ```
+  Tổng thu nhập: 26,000,000 VND
+  ├── 1. Chi tiêu sinh hoạt thiết yếu: 12,000,000 (46%) ← Tiền nhà, ăn uống, điện nước, xăng xe (Trần: 150k-200k/ngày)
+  ├── 2. Quỹ Dự phòng & Bảo hiểm:      5,000,000 (19%) ← Đệm tiền mặt 50tr & nộp bảo hiểm 12tr
+  ├── 3. Tích sản Crypto (DCA):        6,000,000 (23%) ← DCA BTC & ETH cố định ngày 10, không ngắm chart
+  └── 4. Quỹ Phát triển Bản thân:      3,000,000 (12%) ← Sách, lệ phí thi PSM I, khóa học công nghệ
+  ```
+- **Cơ Cấu Khi Thu Nhập Tăng Lên (35.000.000 – 40.000.000 VND/tháng):**
+  - Chi tiêu sinh hoạt: 13,000,000 (34% — tăng nhẹ chất lượng sống).
+  - Tích sản Crypto: 10,000,000 (26% — tăng mạnh).
+  - Quỹ Side Project & Tech Studio: 5,000,000 (13% — vốn công nghệ).
+  - Quỹ Tiết kiệm / Hôn nhân: 7,000,000 (18%).
+  - Quỹ Phát triển bản thân: 3,000,000 (9%).
+- **3 Sai Lầm Tài Chính Chết Người Cần Tránh Ngay:**
+  1. ❌ *Bán Crypto khi thị trường sụp đổ vì hoảng loạn.*
+  2. ❌ *Tăng tiền mua đuổi đỉnh khi thị trường đang bùng nổ (FOMO).*
+  3. ❌ *Rút tiền sinh hoạt hoặc quỹ đệm an toàn để bắt đáy hoặc đánh đòn bẩy Margin/Futures.*
+
+### 🔹 Project 3.2.4: `Problem-First & Anti-Delusion Framework` (Tư Duy Side Project Thực Chiến)
+- **Framework "Problem First, Product Second":**
+  - *Câu hỏi đúng:* "Doanh nghiệp SME hay dev/QA đang gặp nỗi đau, sự ức chế gì mà mình có thể giải quyết nhanh hơn, rẻ hơn bằng AI?"
+  - *Câu hỏi sai cần dẹp bỏ:* "Tôi muốn xây cái gì trông thật ngầu và phức tạp?"
+- **Đập Tan 4 Ảo Tưởng Chết Người Khi Làm Dự Án Ngoài:**
+  1. ❌ *"Tôi cần ý tưởng hoàn hảo mới bắt đầu"* ➔ Sự thật: Ý tưởng hoàn hảo chỉ xuất hiện trong quá trình làm, không xuất hiện khi ngồi nghĩ.
+  2. ❌ *"Tôi cần có đủ tiền và rảnh rỗi mới làm"* ➔ Sự thật: Bắt đầu ngay khi đang bận và thiếu thốn mới rèn luyện được tính tinh gọn.
+  3. ❌ *"Sản phẩm phải cực tốt mới dám ra mắt"* ➔ Sự thật: **Phiên bản xấu xí nhưng giải quyết được việc vẫn tốt hơn gấp ngàn lần một ý tưởng nằm trên giấy.**
+  4. ❌ *"Tôi phải tự làm từ đầu đến cuối một mình"* ➔ Sự thật: Hợp tác với The Hustler (chia 30-50% doanh thu) = nhân đôi sức mạnh, loại bỏ điểm yếu giao tiếp.
 
 ---
 

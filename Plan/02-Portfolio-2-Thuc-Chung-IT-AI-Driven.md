@@ -77,6 +77,24 @@ PORTFOLIO 2: THỰC CHỨNG NĂNG LỰC IT & VŨ KHÍ AI-DRIVEN
   - Rèn luyện kỹ năng phỏng vấn tình huống (STAR format) bằng tiếng Anh và tiếng Việt.
   - Đàm phán lương dựa trên giá trị giải pháp mang lại, không tự ti về xuất phát điểm.
 
+### 🔹 Project 2.2.4: `Assertive-Communication & Salary-Negotiation Playbook`
+- **Bộ Mẫu Câu Giao Tiếp Quyết Đoán (Assertive Communication) Công Sở:**
+  - *Trong cuộc họp:* Lên tiếng nêu quan điểm trước khi người khác kết luận.
+  - *Với sếp:* Thay vì *"Dạ, em làm theo sếp"* ➔ Đổi thành: *"Tôi nghĩ cách tiếp cận A sẽ tối ưu hơn cho dự án vì giải quyết được rủi ro X, tiết kiệm Y giờ kiểm thử và đảm bảo đúng tiến độ Z."*
+  - *Với đồng nghiệp đùn đẩy việc:* Thay vì im lặng nhận ➔ Đổi thành: *"Tôi không thể nhận thêm task này trong tuần này vì đang dồn toàn lực hoàn thành mục tiêu A1 của sprint. Chúng ta có thể thảo luận lại vào tuần sau."*
+- **Kịch Bản Đàm Phán Lương 5 Bước ("Career Development Meeting"):**
+  1. *Bước 1 (Nghiên cứu thị trường):* Khảo sát mức lương Senior PM / AI Tech Lead (35-45tr) trên ITviec / LinkedIn.
+  2. *Bước 2 (Xây dựng Value Case):* Liệt kê số liệu: Dự án FTI-AM tiết kiệm bao nhiêu giờ test? AI Skill giảm bao nhiêu % bug lọt vào production?
+  3. *Bước 3 (Đặt lịch họp):* Đặt lịch 30 phút: *"Tôi muốn có một buổi thảo luận về định hướng phát triển sự nghiệp (Career Development) của tôi tại công ty"* (Tuyệt đối không nói "họp tăng lương").
+  4. *Bước 4 (Đề xuất giá trị):* Bắt đầu bằng sự cảm kích ➔ Trình bày giá trị tạo ra ➔ Đề xuất con số cụ thể dựa trên thị trường (35-40tr).
+  5. *Bước 5 (Xử lý phản hồi):* Nếu đồng ý ➔ Hoàn hảo. Nếu từ chối ➔ Điềm tĩnh hỏi tiêu chí cần đạt, đồng thời kích hoạt nộp CV sang công ty Global ngay.
+- **Hệ Thống 5 Bước Biến Ý Tưởng Thành Kết Quả (Idea to Execution):**
+  1. *Viết ý tưởng ra giấy/markdown* (5 phút).
+  2. *Xác định kết quả đo lường được:* "Thành công = khi nào/cái gì xảy ra cụ thể?".
+  3. *Băm thành các task ≤ 2 giờ mỗi task.*
+  4. *Đặt deadline cụ thể cho task đầu tiên (trong vòng 48 giờ).*
+  5. *Tìm người accountability (Coach Anh) báo cáo tiến độ.*
+
 ---
 
 ## IV. TIÊU CHÍ ĐO LƯỜNG HOÀN THÀNH (PORTFOLIO KPI)

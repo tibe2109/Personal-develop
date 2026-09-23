@@ -75,6 +75,31 @@ PORTFOLIO 1: HỒI SINH HỆ THẦN KINH & BẢN LĨNH NỘI TÂM
   - *"Cảm ơn anh em đã rủ, nhưng đợt này sức khỏe và công việc của tôi đang cần tập trung cao độ, tôi xin phép không tham gia được nhé!"*
   - Nếu bị khích bác ("sao dạo này chảnh thế / sợ vợ à"): Mỉm cười, nhìn thẳng vào mắt và nói: *"Đúng rồi, đợt này tôi đang ưu tiên sức khỏe và sự nghiệp. Hẹn anh em dịp khác phù hợp hơn."*
 
+### 🔹 Project 1.1.4: `Atomic-Habit-Stacking` (Hệ Thống Thói Quen Đánh Bại Ý Chí)
+> **💡 INSIGHT CỐT LÕI TỪ THỰC TẾ:**  
+> *"Bạn không thiếu ý chí. Bạn chỉ thiếu hệ thống giúp ý chí không cần thiết phải vận dụng nhiều. **Habit beats willpower — luôn luôn.**"*
+
+- **4 Nguyên Tắc Thiết Kế Thói Quen Cho INFP (Neuroticism 87):**
+  1. *Bắt đầu siêu nhỏ:* 2 phút là đủ để bắt đầu, làm cho việc bắt đầu dễ đến mức não bộ không thể viện cớ từ chối.
+  2. *Gắn với thói quen có sẵn (Habit Stacking):* Không tạo khung giờ mới toanh mà gắn liền vào hành vi cố định.
+  3. *70% hoàn thành tốt hơn 0% hoàn hảo:* Chấp nhận làm ở mức khá/được, dẹp bỏ chủ nghĩa hoàn hảo làm tê liệt hành động.
+  4. *Tối đa 3 thói quen cùng lúc:* Không ôm đồm thêm thói quen mới trước khi thói quen cũ đã duy trì trên 21 ngày.
+- **Morning Habit Stack (15 phút đầu ngày):**
+  ```
+  Thức dậy ➔ Uống 1 ly nước ấm 500ml để sẵn ở bàn
+  Sau khi uống nước ➔ 5 phút viết ra đúng 1 mục tiêu Con Ếch A1 hôm nay
+  Sau khi viết xong ➔ 5 phút đọc lại sứ mệnh & đích đến 2031
+  Trước khi ra khỏi nhà ➔ Kiểm tra lịch trình & bảo vệ Morning Shield
+  ```
+- **Evening 3-Question Stack (10 phút cuối ngày sau khi tắm):**
+  ```
+  Ngồi trước sổ/máy tính trả lời 3 câu hỏi:
+    1. Điều tốt nhất hôm nay tôi đã làm được là gì?
+    2. Tôi đã học được bài học gì sâu sắc hôm nay?
+    3. Ngày mai tôi sẽ làm khác đi điều gì để tiến bộ hơn?
+  ```
+- **The 5-Second Rule (Quy tắc 5 Giây):** Khi có xung động lười biếng hoặc chần chừ: Đếm ngược **5 - 4 - 3 - 2 - 1** và đứng dậy hành động ngay trước khi não bộ kịp đưa ra lý do ngụy biện!
+
 ---
 
 ## IV. TIÊU CHÍ ĐO LƯỜNG HOÀN THÀNH (PORTFOLIO KPI)
