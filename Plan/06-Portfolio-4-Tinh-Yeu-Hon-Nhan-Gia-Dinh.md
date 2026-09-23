@@ -83,6 +83,19 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
   - *Trục S vs N (Thu nhận thông tin):* Khi nói chuyện, nàng chú ý đến chi tiết thực tế, món ăn ngon, đồ dùng cụ thể (S) hay thích triết lý, tưởng tượng viển vông (N)?
   - *Trục T vs F (Ra quyết định):* Khi gặp sự cố công việc, nàng phân tích đúng/sai theo quy trình (T) hay để cảm xúc và các mối quan hệ chi phối (F)?
   - *Trục J vs P (Phong cách sống):* Nàng thích mọi thứ có kế hoạch, đúng giờ, ngăn nắp (J/C) hay linh hoạt, ngẫu hứng, tùy cơ ứng biến (P)?
+- **Chiến Lược Ma Trận 50 – 30 – 20 Thông Minh & Tự Nhiên (Smart Multi-Moment Matrix):**
+  *Nguyên tắc tối cao: Tuyệt đối không tra khảo, không biến buổi hẹn thành bài kiểm tra trắc nghiệm, để cô ấy luôn thoải mái và là chính mình.*
+  1. **50% — Quan Sát Tĩnh Lặng Thường Nhật (Ambient Natural Observation):**
+     - *Bối cảnh:* Giờ làm việc, lúc ăn trưa cùng team, lúc tan sở, cách sắp xếp bàn làm việc, phản xạ với các sự cố bất ngờ ở công ty.
+     - *Cách thực thi:* "Vô hình & Tinh tế" — Quan sát mà như không quan sát. Để ý cách cô ấy giải quyết deadline, thái độ với quy trình (C), phản ứng khi kế hoạch thay đổi (J vs P), và sự kín đáo khi tương tác với đồng nghiệp (I).
+  2. **30% — Đối Thoại Chất Lượng Trong Không Gian An Toàn (Safe-Space Quality Dialogue):**
+     - *Bối cảnh:* Những buổi hẹn riêng tư cuối tuần, lúc ngồi sau xe máy chở nhau đi dạo, lúc uống cà phê góc vắng, cuộc gọi đêm ngắn.
+     - *Kỹ thuật "Gài mồi câu chuyện" (Story Baiting):* Không hỏi kiểu phỏng vấn ("Em là người thế nào?"). Hãy chủ động chia sẻ một câu chuyện ngắn của bản thân trước để gợi mở tự nhiên:
+       - *Ví dụ:* *"Hôm nay dự án FTI-AM deploy xong anh mới thấy nhẹ nhõm. Đôi lúc việc dồn dập làm anh phải dừng lại thở sâu vài giây. Thường những lúc công việc quá tải, em hay làm gì để giải tỏa bớt nặng đầu?"* ➔ Lắng nghe cách nàng xả stress (I hay E, S hay N).
+  3. **20% — Trải Nghiệm Hành Động Chung & Phản Chiếu Gương (Shared Co-Action & Vulnerability Mirroring):**
+     - *Bối cảnh:* Cùng nhau làm một việc cụ thể: Cùng đi siêu thị mua sắm, cùng nấu ăn, cùng giải quyết một tình huống (tìm đường khi kẹt xe), hoặc cùng chơi một boardgame/trò chơi giải đố nhẹ.
+     - *Sức mạnh tâm lý học:* Khi cùng tập trung vào một *hành động thực tế*, lớp áo giáp phòng thủ ý thức (conscious defense) tạm thời hạ xuống. Tính cách thật (cẩn thận so sánh giá, tuân thủ công thức nấu ăn từng gram, bình tĩnh mở map xem đường) sẽ bộc lộ tự nhiên 100% mà không cần nói một lời gượng gạo nào!
+     - *Vulnerability Mirroring (Phản chiếu chân thành):* Em chủ động kể một lỗi ngốc nghếch ngày xưa của mình với nụ cười nhẹ. Người nhóm C rất sợ phạm sai lầm; khi thấy em bình thản chấp nhận sự không hoàn hảo, nàng sẽ cảm thấy được "cho phép" thả lỏng và bộc lộ sự vụng về đáng yêu của mình.
 - **Chiến lược Quyến rũ Tĩnh lặng & Kích hoạt Cảm xúc (Quiet Seduction Playbook):**
   - **Quy tắc 1: Đáng tin cậy và Nhất quán tuyệt đối (Extreme Consistency):** Với người nhóm C và ISTJ, không gì quyến rũ hơn một người đàn ông **nói là làm, đúng giờ, chuẩn mực, ổn định trong cảm xúc**. Không hứa hão, không thất hứa dù là việc nhỏ nhất.
   - **Quy tắc 2: Tôn trọng tuyệt đối ranh giới công sở:** Ở công ty đối xử lịch lãm, giữ thể diện và vị thế chuyên nghiệp cho nàng. Sự tinh tế này sẽ làm nàng cảm thấy được tôn trọng và an toàn 100%.
