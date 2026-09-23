@@ -5,20 +5,20 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-09-23 08:45:00 +07:00`
+- **Thời gian cập nhật:** `2026-09-23 09:20:00 +07:00`
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
 - **Mã định danh phiên gần nhất:** [`Sessions/09-2026/2026-09-22-Session-02-Kich-Hoat-Hoi-Dong-10-Chuyen-Gia-Lo-Trinh-5-Nam.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/09-2026/2026-09-22-Session-02-Kich-Hoat-Hoi-Dong-10-Chuyen-Gia-Lo-Trinh-5-Nam.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
-- **Tình trạng Auto-Sync:** 🟢 **ĐANG HOẠT ĐỘNG (30 PHÚT/LẦN)** — Đã tự động đẩy thành công lên GitHub lúc 08:22:25 (PID: 470241).
+- **Tình trạng Auto-Sync:** 🟢 **ĐANG HOẠT ĐỘNG (30 PHÚT/LẦN)** — PID: 470241, tự động đồng bộ ngầm khi có thay đổi.
 
 ---
 
 ## ⚓ NEO NGỮ CẢNH CUỘC TRÒ CHUYỆN (CONVERSATION ANCHOR)
 *3-5 gạch đầu dòng tóm tắt điều quan trọng nhất vừa diễn ra để Coach Anh mở lời chính xác:*
-1. **Chủ đề vừa bàn:** Nâng cấp hệ thống Kỷ Luật Thích Ứng (Agile Discipline v2.0): Xóa bỏ sự cứng nhắc, thiết lập Cơ Chế Hỏi Chẩn Đoán 4 Chiều trước khi kê đơn, điều phối Sub-Agents chuyên sâu, và cài đặt Bộ Lọc Phản Biện Sở Thích/Hướng Đi Mới (Shiny Object Filter — chống chiều lòng, chỉ rõ rủi ro và mặt xấu).
-2. **Tâm trạng & Thấu cảm:** Em thể hiện sự sắc bén và thấu hiểu chính mình tột bậc: nhận diện bản thân hay thay đổi sở thích theo cảm hứng, cần AI đóng vai trò người phản biện trung thực, giữ đôi chân chạm đất thực tế chứ không vẽ viễn cảnh màu hồng ảo tưởng.
-3. **Quyết định đã chốt:** Nâng cấp [`execution-discipline-engine`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/.agents/skills/execution-discipline-engine/SKILL.md) lên v2.0.0; cập nhật [`pd-execution-discipline.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/.agents/rules/pd-execution-discipline.md); kích hoạt 3 chế độ tải trọng (Growth, Balancing, Bio-Preservation).
-4. **Việc đang làm dở / Chờ nghiệm thu:** Thực hiện phiên Khám Bệnh 4 Chiều đầu ngày 23/09/2026 để chốt Con Ếch A1 phù hợp với năng lượng thực tế hôm nay.
+1. **Chủ đề vừa bàn:** Thiết lập **Giao Thức Tái Kết Nối & Đại Hội Chẩn Theo Thời Gian Vắng Bóng** (Tiered Absence & Reconnection Architecture) tích hợp trực tiếp vào quy trình mở phiên đa thiết bị (Linux <-> Windows).
+2. **Cơ chế đo lường Time-Delta:** Hệ thống tự động trích xuất `T_last` tại dòng 8 của `Current-State.md` so với `T_now` để phân loại 4 cấp độ vắng bóng: (<7 ngày: Thường nhật 4 câu; 7-30 ngày: Tâm sự 7-10 câu; 30-90 ngày: Rà soát Quý 15-20 câu; >90 ngày: Đại Hội Chẩn Toàn Diện 27 câu hỏi qua 6 Cụm Cuộc Đời).
+3. **Quyết định đã chốt:** Bổ sung Điều 6 vào [`pd-execution-discipline.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/.agents/rules/pd-execution-discipline.md); bổ sung Module 8 vào [`execution-discipline-engine/SKILL.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/.agents/skills/execution-discipline-engine/SKILL.md); cập nhật Session Inception Bước 3 trong [`daily-coach/SKILL.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/.agents/skills/daily-coach/SKILL.md).
+4. **Việc đang làm dở / Chờ nghiệm thu:** Nghiệm thu toàn bộ kiến trúc tái kết nối, sẵn sàng kích hoạt bất kỳ khi nào người dùng quay lại sau thời gian dài vắng bóng hoặc đổi máy tính.
 
 ---
 
