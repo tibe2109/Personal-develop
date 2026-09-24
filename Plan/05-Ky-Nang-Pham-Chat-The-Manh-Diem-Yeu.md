@@ -29,16 +29,26 @@
 
 ---
 
-## 🦁 2. NHỮNG PHẨM CHẤT TÍNH CÁCH CẦN RÈN LUYỆN (CHARACTER TRAITS)
+## 🦁 2. NHỮNG PHẨM CHẤT TÍNH CÁCH & 7 PHẨM HẠNH CẦN RÈN LUYỆN (CHARACTER TRAITS & 7 VIRTUES)
 
-1. **Sự Kiên Cường (Grit & Resilience):**
-   - Khả năng kiên trì đi xuyên qua sự buồn tẻ, nhàm chán của kỷ luật lặp đi lặp lại mỗi ngày mà không bỏ cuộc. Không bị lung lay bởi cảm xúc nhất thời.
-2. **Chính Trực Cực Đoan (Radical Honesty):**
-   - Luôn trung thực tuyệt đối với chính mình: Dám thừa nhận lỗi lầm, dám nhìn thẳng vào điểm yếu, không bao giờ nói dối tâng bốc bản thân hay dìm người khác để tìm kiếm sự công nhận rẻ tiền.
-3. **Sự Quyết Đoán & Ranh Giới Thép (Assertiveness & Boundaries):**
-   - Biết nói "KHÔNG" dứt khoát trước những lời rủ rê nhậu nhẹt, những việc vô bổ và những đòi hỏi vô lý. Sẵn sàng đứng độc lập mà không sợ bị phán xét.
-4. **Sự Tĩnh Lặng Vững Chãi (Grounded & Calm Presence):**
-   - Giữ tâm thế bình thản trước biến cố (bug hệ thống, sếp cằn nhằn, thị trường giảm). Không rên rỉ than vãn, hành động chính xác và điềm đạm như một mỏ neo an toàn cho gia đình.
+1. **Khiêm Nhường & Biết Ơn (Humility vs. Pride):**
+   - Thấy mình nhỏ bé trước vũ trụ, buông bỏ ảo tưởng vĩ đại và tự mãn. Mở lòng lắng nghe chân thành, học hỏi từ mọi người, tôn trọng và yêu thương kết nối.
+2. **Rộng Lượng & Chính Trực (Generosity vs. Greed):**
+   - Biết sẻ chia và nhường nhịn cả về vật chất lẫn tinh thần. Quản lý tiền bạc khoa học, chi tiêu tiết kiệm, không tham lam tranh giành thứ không thuộc về mình.
+3. **Thanh Khiết & Chung Thủy (Purity vs. Lust):**
+   - Giữ gìn tư tưởng thanh khiết, tôn trọng vẻ đẹp thiêng liêng của tình yêu thể xác trong khuôn khổ hôn nhân và tình yêu chân chính. Chung thủy trọn vẹn, không biến ai thành công cụ khoái lạc.
+4. **Bình An Nội Tâm & Từ Bi Hỉ Xả (Patience vs. Wrath):**
+   - Xây dựng tấm khiên cảm xúc vững chắc trước nghịch cảnh, mỉm cười nhẫn nhịn trước điều trái ý, kiềm chế lời nói sát thương, không nuôi lòng thù hận hay cay nghiệt.
+5. **Tiết Độ & Sinh Hoạt Lành Mạnh (Temperance vs. Gluttony):**
+   - Ăn uống chừng mực, từ chối chất kích thích/bia rượu và các cuộc vui sa đọa; tôn trọng cơ thể như đền thờ thiêng liêng và dồn năng lượng cho việc giá trị cao.
+6. **Tâm Tùy Hỉ & Tôn Vinh Tha Nhân (Kindness vs. Envy):**
+   - Biết vui cho niềm vui và thành công của người khác; triệt tiêu thói tự ái, ghen ghét đố kỵ và gièm pha; học cách khen ngợi chân thành và tôn trọng giá trị độc bản của mỗi người.
+7. **Tinh Tấn, Nhiệt Huyết & Trách Nhiệm (Diligence vs. Sloth):**
+   - Vượt qua sự lười biếng, chây ì và tự ti; siêng năng lao động, học tập rèn luyện; chú tâm nuôi dưỡng đời sống tâm linh thiện lành và chịu trách nhiệm 100% với vận mệnh bản thân.
+8. **Chính Trực Cực Đoan (Radical Honesty):**
+   - Luôn trung thực tuyệt đối với chính mình: Dám nhìn thẳng vào điểm tối, không bao giờ nói dối tâng bốc bản thân hay dìm người khác để tìm kiếm sự công nhận rẻ tiền.
+9. **Sự Tĩnh Lặng Vững Chãi (Grounded & Calm Presence):**
+   - Giữ tâm thế bình thản trước biến cố. Không rên rỉ than vãn, hành động chính xác và điềm đạm như một mỏ neo an toàn cho gia đình.
 
 ---
 
@@ -57,36 +67,47 @@
 
 ---
 
-## ⚔️ 4. BẢNG HÓA GIẢI ĐIỂM YẾU CHÍ MẠNG & CHIẾN LƯỢC PHỐI HỢP
+## ⚔️ 4. BẢNG HÓA GIẢI ĐIỂM YẾU CHÍ MẠNG & 7 CẠM BẪY BẢN NGÃ (SHADOW MASTERY)
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                             CHIẾN LƯỢC HÓA GIẢI ĐIỂM YẾU CHÍ MẠNG                                │
-├──────────────────────────┬─────────────────────────────────────┬─────────────────────────────────┤
-│ Điểm Yếu Chí Mạng        │ Cơ Chế & Điểm Mù Cần Nhận Diện      │ Chiến Lược Hóa Giải / Liên Danh │
-├──────────────────────────┼─────────────────────────────────────┼─────────────────────────────────┤
-│ 1. Lười biếng & Nghiện   │ Thụ thể Dopamine D2 trơ lì do Porn, │ • Áp dụng Dopamine Reset 21 ngày│
-│    dopamine rác (Porn,   │ thuốc lá, lướt điện thoại. Não bộ   │ • Khóa điện thoại sau 22:30     │
-│    thuốc, lướt mạng).    │ trốn tránh task khó để tìm khoái lạc│ • Micro-Momentum: làm 5 phút đầu│
-│                          │ tức thời.                           │ • Gym "Never miss twice".       │
-├──────────────────────────┼─────────────────────────────────────┼─────────────────────────────────┤
-│ 2. Ngại từ chối, kết bạn │ Nhu cầu tìm cảm giác thuộc về và    │ • Cắt đứt êm thấm (Ghosting nhẹ)│
-│    xấu, ham nhậu nhẹt.   │ sợ bị bỏ rơi (Agreeableness 72/100).│ • Chuẩn bị sẵn câu từ chối lịch │
-│                          │ Không dám nói "Không".              │   sự nhưng không nhượng bộ.     │
-│                          │                                     │ • Chuyển trọng tâm vào sự nghiệp│
-├──────────────────────────┼─────────────────────────────────────┼─────────────────────────────────┤
-│ 3. Giao tiếp xã hội kém, │ Bản tính INFP hướng nội, sợ xung    │ • LIÊN DANH THE BUILDER & HUSTLER│
-│    ngại bán hàng, đàm    │ đột, ghét nịnh bợ luồn cúi.         │ • Em làm lõi kỹ thuật/AI        │
-│    phán và ngoại giao.   │                                     │ • Đối tác lo sales/chốt deal    │
-│                          │                                     │ • Chia 30-50% doanh thu cho họ. │
-├──────────────────────────┼─────────────────────────────────────┼─────────────────────────────────┤
-│ 4. Tự ti tuổi tác &      │ Imposter Syndrome bùng phát khi so  │ • LẤY PROOF-OF-WORK ĐÈ BẰNG CẤP │
-│    mặc cảm không bằng    │ sánh với người khác; dòng tiền mặt  │ • Hoàn thiện Playwright AI Skill│
-│    đại học IT.           │ mỏng kích hoạt nỗi sợ sinh tồn.     │ • Thi chứng chỉ quốc tế PSM I   │
-│                          │                                     │ • Tích đệm tiền mặt an toàn 50tr│
-├──────────────────────────┼─────────────────────────────────────┼─────────────────────────────────┤
-│ 5. Thiếu tập trung cho   │ Ôm đồm quá nhiều việc, thiếu ranh   │ • Quy tắc 1 Con Ếch A1 mỗi sáng │
-│    công việc, lan man.   │ giới, để thông báo gây xao nhãng.   │ • 5-Stage AI OS chuẩn quy trình │
-│                          │                                     │ • Kỷ luật Morning Shield 90 phút│
-└──────────────────────────┴─────────────────────────────────────┴─────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                      CHIẾN LƯỢC HÓA GIẢI 7 CẠM BẪY BẢN NGÃ & ĐIỂM YẾU CHÍ MẠNG                         │
+├──────────────────────────┬──────────────────────────────────────────┬──────────────────────────────────┤
+│ Cạm Bẫy / Điểm Yếu       │ Cơ Chế Tâm Lý & Điểm Mù Cần Nhận Diện    │ Chiến Lược Hóa Giải & Chuyển Hóa │
+├──────────────────────────┼──────────────────────────────────────────┼──────────────────────────────────┤
+│ 1. Kiêu ngạo, tự mãn,    │ Ảo tưởng vĩ đại, nghĩ mình là trung tâm, │ • Thực hành khiêm nhường sâu sắc │
+│    coi mình là trung tâm │ khinh chê người khác, không chịu lắng    │ • Lắng nghe trước, phản hồi sau  │
+│    (Pride)               │ nghe và ảo tưởng không cần ai.           │ • Hạ mình học hỏi từ mọi người   │
+├──────────────────────────┼──────────────────────────────────────────┼──────────────────────────────────┤
+│ 2. Hà tiện, tham lam,    │ Tâm lý thiếu thốn (Scarcity mindset),    │ • Thực hành sẻ chia, nhường nhịn │
+│    ích kỷ & ky bo bủn    │ chỉ muốn gom vén cho mình, đòi hỏi quá   │ • Quản lý tài sản chính trực     │
+│    xỉn (Greed)           │ đáng, tranh giành thứ không thuộc về mình│ • Chi tiêu tiết kiệm & giúp đỡ   │
+├──────────────────────────┼──────────────────────────────────────────┼──────────────────────────────────┤
+│ 3. Dâm dục, thỏa mãn khoái│ Dùng tình dục và khoái lạc thể xác làm   │ • Giữ gìn tư tưởng thanh khiết   │
+│    lạc vượt khuôn khổ    │ "công cụ giảm stress" (Firefighters IFS),│ • Tôn trọng sự thiêng liêng      │
+│    hôn nhân (Lust)       │ biến bản thân/người khác thành công cụ.  │ • Chung thủy trọn vẹn tình cảm   │
+├──────────────────────────┼──────────────────────────────────────────┼──────────────────────────────────┤
+│ 4. Hờn giận, mất kiểm    │ Amygdala phản ứng bột phát khi bị chạm tự│ • Xây tấm khiên bình an nội tâm  │
+│    soát, cay nghiệt &    │ ái; lòng thù hận làm mờ lý trí, gây bạo  │ • Quy tắc dừng 10s & thở 4-7-8   │
+│    trả thù (Wrath)       │ lực ngôn từ/hành vi sát thương người khác│ • Nuôi dưỡng từ bi hỉ xả, bao dung│
+├──────────────────────────┼──────────────────────────────────────────┼──────────────────────────────────┤
+│ 5. Ham mê ăn uống, chất  │ Thèm khát dopamine rẻ tiền từ bia rượu,  │ • Ăn uống chừng mực (no 80%)     │
+│    kích thích, sa đọa &  │ ăn nhậu sa đọa, mê tín dị đoan, tiêu tốn │ • Cự tuyệt cuộc nhậu vô bổ       │
+│    lãng phí (Gluttony)   │ nguyên khí và tiền bạc vào cuộc vui vô bổ│ • Dành năng lượng cho việc lớn   │
+├──────────────────────────┼──────────────────────────────────────────┼──────────────────────────────────┤
+│ 6. Tự ái, yếu hèn, ghen  │ So sánh xã hội (Social comparison), mặc  │ • Nuôi dưỡng tâm tùy hỉ (vui vẻ  │
+│    ghét đố kỵ trước hạnh │ cảm thua kém dẫn đến u sầu, gièm pha và  │   cho hạnh phúc của người khác)  │
+│    phúc của người (Envy) │ tìm cách hạ bệ người khác để đỡ bất an.  │ • Khen ngợi chân thành 1 lần/ngày│
+├──────────────────────────┼──────────────────────────────────────────┼──────────────────────────────────┤
+│ 7. Lười biếng, chây ì, tự│ Sợ thất bại, sợ vất vả, trốn tránh trách │ • Quy tắc 5 Giây bẻ gãy trì hoãn │
+│    ti, bỏ bê tâm hồn &   │ nhiệm; bỏ bê nuôi dưỡng đời sống tâm     │ • Con Ếch A1 trong Morning Shield│
+│    tâm linh (Sloth)      │ linh, tín ngưỡng khiến tâm hồn cằn cỗi.  │ • Nuôi dưỡng đức tin thiện lành  │
+├──────────────────────────┼──────────────────────────────────────────┼──────────────────────────────────┤
+│ 8. Giao tiếp xã hội kém, │ Bản tính INFP hướng nội, sợ xung đột,    │ • LIÊN DANH THE BUILDER & HUSTLER│
+│    ngại bán hàng, đàm    │ ghét nịnh bợ luồn cúi.                   │ • Em làm lõi kỹ thuật/AI         │
+│    phán và ngoại giao    │                                          │ • Đối tác lo sales/chốt deal     │
+├──────────────────────────┼──────────────────────────────────────────┼──────────────────────────────────┤
+│ 9. Tự ti không bằng cấp  │ Imposter Syndrome bùng phát khi so sánh; │ • LẤY PROOF-OF-WORK ĐÈ BẰNG CẤP  │
+│    IT & áp lực tuổi 35   │ dòng tiền mỏng kích hoạt nỗi sợ.         │ • Playwright AI + Chứng chỉ PSM I│
+└──────────────────────────┴──────────────────────────────────────────┴──────────────────────────────────┘
 ```

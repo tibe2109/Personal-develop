@@ -23,10 +23,19 @@ PORTFOLIO 1: HỒI SINH HỆ THẦN KINH & BẢN LĨNH NỘI TÂM
 ├── PROGRAM 1.1: DOPAMINE RESET & THỂ CHẤT CHIẾN BINH
 │   ├── Project 1.1.1: Zero-Shadow-21 (Cai nghiện Dopamine rác 21 ngày)
 │   ├── Project 1.1.2: Iron-Vessel (Kỷ luật Gym kháng lực xả Cortisol)
-│   └── Project 1.1.3: Circadian-Shield (Nhịp sinh học & Giấc ngủ sâu)
-└── PROGRAM 1.2: CHỮA LÀNH ĐỨA TRẺ BÊN TRONG & THIẾT LẬP RANH GIỚI
-    ├── Project 1.2.1: Inner-Father (Nuôi dưỡng Người Cha Nội Tâm & Diệt Toxic Shame)
-    └── Project 1.2.2: Boundary-Mastery (Thanh lọc bạn bè xấu & Nghệ thuật từ chối)
+│   ├── Project 1.1.3: Circadian-Shield (Nhịp sinh học & Giấc ngủ sâu)
+│   └── Project 1.1.4: Atomic-Habit-Stacking (Hệ thống thói quen đánh bại ý chí)
+├── PROGRAM 1.2: CHỮA LÀNH ĐỨA TRẺ BÊN TRONG & THIẾT LẬP RANH GIỚI
+│   ├── Project 1.2.1: Inner-Father (Nuôi dưỡng Người Cha Nội Tâm & Diệt Toxic Shame)
+│   └── Project 1.2.2: Boundary-Mastery (Thanh lọc bạn bè xấu & Nghệ thuật từ chối)
+└── PROGRAM 1.3: 7 PHÉP TU DƯỠNG TÂM THỨC & CHUYỂN HÓA BẢN NGÃ (7 NOBLE VIRTUES & MORAL SHIELD)
+    ├── Project 1.3.1: Khiêm Nhường & Thấu Hiểu Giới Hạn (Humility vs. Pride)
+    ├── Project 1.3.2: Rộng Lượng, Tiết Kiệm & Quản Trị Tài Sản Chính Trực (Generosity vs. Greed)
+    ├── Project 1.3.3: Thanh Khiết, Chung Thủy & Tôn Trọng Sự Thiêng Liêng (Purity vs. Lust)
+    ├── Project 1.3.4: Bình An Nội Tâm, Nhẫn Nhịn & Tấm Khiên Từ Bi (Patience vs. Wrath)
+    ├── Project 1.3.5: Tiết Độ, Sinh Hoạt Lành Mạnh & Năng Lượng Cống Hiến (Temperance vs. Gluttony)
+    ├── Project 1.3.6: Tâm Tùy Hỉ, Khen Ngợi Chân Thành & Tôn Trọng Giá Trị (Kindness vs. Envy)
+    └── Project 1.3.7: Tinh Tấn, Nhiệt Huyết & Nuôi Dưỡng Tâm Hồn Trách Nhiệm (Diligence vs. Sloth)
 ```
 
 ---
@@ -102,12 +111,73 @@ PORTFOLIO 1: HỒI SINH HỆ THẦN KINH & BẢN LĨNH NỘI TÂM
 
 ---
 
+### 🔹 PROGRAM 1.3: 7 PHÉP TU DƯỠNG TÂM THỨC & BẢO VỆ NỘI TÂM (7 NOBLE VIRTUES & MORAL SHIELD)
+> **Triết lý nền tảng:** *"Gốc rễ vững thì cành lá mới sum suê, tâm hồn thanh sạch thì sự nghiệp và tài chính mới trường tồn."* Nhận thức trần trụi 7 cạm bẫy bản ngã và thực hành chuyển hóa thành 7 phẩm hạnh cao quý là khiên chắn tối thượng bảo vệ vận mệnh của người đàn ông bản lĩnh 2026 – 2031.
+
+#### 1. Project 1.3.1: Khiêm Nhường & Thấu Hiểu Giới Hạn (Humility vs. Pride)
+- **Nhận thức cội nguồn:** Nhận diện sự kiêu ngạo, tự mãn thái quá, ảo tưởng về sự vĩ đại của bản thân, thói khinh chê người khác, không chịu lắng nghe và nghĩ rằng mình không cần đến ai.
+- **Mục tiêu cốt lõi:** Nuôi dưỡng tâm khiêm nhường sâu sắc, thấu hiểu mình thật nhỏ bé và yếu đuối trước vũ trụ; học cách yêu thương, tôn trọng và kết nối chân thành với mọi người.
+- **Kế hoạch Dài hạn (5 năm):** Trở thành nhà lãnh đạo mang phẩm chất Servant Leadership (Lãnh đạo phục vụ) — uy tín và sức ảnh hưởng đến từ sự khiêm nhường, lòng thấu cảm và năng lực nâng đỡ đội ngũ 50 – 100 người, không phải từ việc áp đặt cái tôi.
+- **Kế hoạch Trung hạn (1 năm / Q4/2026 – 2027):** Trong mọi cuộc họp dự án (FTI-AM, dự án mới), thực hành nguyên tắc "Lắng nghe trước – Phản hồi sau". Tuyệt đối không ngắt lời, hạ mình học hỏi từ cả những bạn trẻ hơn; thừa nhận sai sót ngay khi phát hiện.
+- **Kế hoạch Ngắn hạn (Tuần & Ngày):** Mỗi ngày tự nhắc nhở bản thân về những điểm mình còn thiếu sót; chủ động hỏi xin góc nhìn hoặc lắng nghe chân thành ít nhất 1 người mỗi ngày mà không phán xét.
+
+#### 2. Project 1.3.2: Rộng Lượng, Tiết Kiệm & Quản Trị Tài Sản Chính Trực (Generosity vs. Greed)
+- **Nhận thức cội nguồn:** Nhận diện sự hà tiện, tham lam, ích kỷ chỉ muốn cho riêng mình, ham muốn quá đáng bộc phát vượt giới hạn cho phép, tranh giành, trộm cắp những thứ không thuộc về mình, tính ky bo bủn xỉn.
+- **Mục tiêu cốt lõi:** Chuyển hóa tư duy từ gom vén sang sẻ chia và nhường nhịn; quản lý tiền bạc và tài sản hiệu quả, đúng mục đích, chi tiêu tiết kiệm nhưng hào sảng đúng chỗ.
+- **Kế hoạch Dài hạn (5 năm):** Xây dựng nền tảng tài chính thịnh vượng bền vững trên sự chính trực: hoàn thành đệm an toàn, đạt tự do tài chính >1000$/tháng, bảo bọc gia đình và trích quỹ chia sẻ nâng đỡ những hoàn cảnh khó khăn.
+- **Kế hoạch Trung hạn (1 năm / Q4/2026 – 2027):** Giữ vững cấu trúc tài sản 3 tầng (Đệm 50tr + 100tr tiền cưới + DCA Crypto kỷ luật). Tuyệt đối không dính vào các thủ thuật gian lận, không tranh giành lợi ích không thuộc về mình. Sẵn sàng mời nước, tặng quà nhỏ hoặc hỗ trợ đồng đội mà không tính toán so đo.
+- **Kế hoạch Ngắn hạn (Tuần & Ngày):** Thực hành nhường nhịn khi tham gia giao thông, khi xếp hàng, khi chia sẻ tài nguyên trong công việc; duy trì trần chi tiêu cá nhân 150k/ngày, làm ít nhất 1 hành động hào phóng vô điều kiện mỗi tuần.
+
+#### 3. Project 1.3.3: Thanh Khiết, Chung Thủy & Tôn Trọng Sự Thiêng Liêng (Purity vs. Lust)
+- **Nhận thức cội nguồn:** Nhận diện sự dâm dục, thỏa mãn dục vọng tầm thường vượt ngoài khuôn khổ của tình yêu và hôn nhân đích thực; thói quen tự biến bản thân hoặc người khác thành công cụ thỏa mãn khoái lạc ích kỷ.
+- **Mục tiêu cốt lõi:** Giữ gìn tư tưởng thanh khiết, tôn trọng vẻ đẹp và ý nghĩa thiêng liêng của tình yêu thể xác, giữ trọn sự chung thủy son sắt và sâu sắc trong các mối quan hệ tình cảm.
+- **Kế hoạch Dài hạn (5 năm):** Kiến tạo tổ ấm hôn nhân thiêng liêng và bền vững vào Quý 2/2028 với người yêu, giữ trọn lời thề chung thủy một vợ một chồng trọn đời.
+- **Kế hoạch Trung hạn (1 năm / Q4/2026 – 2027):** Triệt tiêu hoàn toàn sự lệ thuộc vào Porn/Web đen. Thiết lập ranh giới dứt khoát: không mập mờ tìm hiểu, không tìm kiếm khoái lạc bên ngoài, không coi bất kỳ người phụ nữ nào là công cụ thỏa mãn dục vọng.
+- **Kế hoạch Ngắn hạn (Tuần & Ngày):** Áp dụng "Quy tắc 1 giây": Lập tức rời mắt khỏi mọi hình ảnh khêu gợi trên mạng xã hội. Dứt khoát giữ ranh giới quân tử với bạn gái thời thơ ấu; dồn trọn vẹn sự quan tâm chân thành và tinh tế cho người yêu hiện tại.
+
+#### 4. Project 1.3.4: Bình An Nội Tâm, Nhẫn Nhịn & Tấm Khiên Từ Bi Hỉ Xả (Patience vs. Wrath)
+- **Nhận thức cội nguồn:** Nhận diện sự hờn giận, tức giận mất kiểm soát, lòng thù hận, cay nghiệt và mong muốn trả thù làm mờ lý trí, dẫn đến bạo lực trong lời nói hoặc hành động và phá vỡ các mối quan hệ quý giá.
+- **Mục tiêu cốt lõi:** Xây dựng tấm khiên bảo vệ nội tâm, thực hành nhẫn nhịn, mỉm cười và lạc quan trước nghịch cảnh; kiềm chế tuyệt đối lời nói sát thương; nâng cao nhận thức và nuôi dưỡng lòng từ bi hỉ xả.
+- **Kế hoạch Dài hạn (5 năm):** Đạt tới sự tĩnh tại của người đàn ông bản lĩnh: bất biến giữa dòng đời vạn biến, không để bất kỳ biến cố ngoại cảnh nào làm lung lay sự điềm đạm và bao dung nội tại.
+- **Kế hoạch Trung hạn (1 năm / Q4/2026 – 2027):** Vận hành triệt để "Fact-Based Shield" tại công sở: không tranh cãi cảm xúc, đối diện với phản hồi tiêu cực hay sự đay nghiến bằng nụ cười điềm đạm và dữ liệu thực tế. Áp dụng quy tắc 24h Cooldown trước mọi bất đồng lớn.
+- **Kế hoạch Ngắn hạn (Tuần & Ngày):** Khi cơn giận nổi lên: Kích hoạt quy tắc "Dừng 10 giây" (ngậm miệng, hít thở sâu 4-7-8), tuyệt đối không gõ phím hay phát ngôn khi tim đang đập nhanh. Tối về thực hành quán chiếu tha thứ (Loving-kindness).
+
+#### 5. Project 1.3.5: Tiết Độ, Sinh Hoạt Lành Mạnh & Năng Lượng Cống Hiến (Temperance vs. Gluttony)
+- **Nhận thức cội nguồn:** Nhận diện sự ham mê ăn uống quá mức cần thiết, lạm dụng chất kích thích, bia rượu gây hại sức khỏe; mất thời gian, sức khỏe và tiền bạc vào các cuộc vui ăn chơi sa đọa; ham mê của lạ, tranh giành, ngu muội, mê tín dị đoan gây thừa mứa và lãng phí.
+- **Mục tiêu cốt lõi:** Thực hành lối sống chừng mực, ăn uống vừa đủ chất, duy trì sinh hoạt lành mạnh, bảo vệ cơ thể như một đền thờ thiêng liêng, hướng năng lượng vào những việc có giá trị cao và giúp đỡ người khác.
+- **Kế hoạch Dài hạn (5 năm):** Duy trì cơ thể tráng kiện, tinh thần minh mẫn ở tuổi 40; hoàn toàn miễn nhiễm với các thói hư tật xấu ăn chơi sa đọa.
+- **Kế hoạch Trung hạn (1 năm / Q4/2026 – 2027):** Thiết lập ranh giới thép với bia rượu: tối đa 1–2 ly giao tiếp lịch sự trong các buổi tiệc công ty, cự tuyệt 100% các cuộc nhậu thâu đêm suốt sáng. Duy trì chế độ ăn lành mạnh, nhiều rau xanh, hạn chế đồ dầu mỡ/đường.
+- **Kế hoạch Ngắn hạn (Tuần & Ngày):** Ăn no 80%, không ăn đêm sau 21:00; uống đủ 2 lít nước ấm mỗi ngày; đi ngủ trước 23:00; dùng trọn vẹn năng lượng cho việc học tập, rèn luyện thể thao và công việc có ích.
+
+#### 6. Project 1.3.6: Tâm Tùy Hỉ, Khen Ngợi Chân Thành & Tôn Trọng Giá Trị (Kindness vs. Envy)
+- **Nhận thức cội nguồn:** Nhận diện tính dễ tự ái, yếu hèn, hay ghen ghét, đố kỵ trước thành công, tài năng hay hạnh phúc của người khác; khiến bản thân hèn mọn, ủ rũ, u sầu, tiêu cực, muộn phiền, lo âu, dẫn đến việc thiếu công nhận, gièm pha thị phi và tìm cách hạ bệ người khác.
+- **Mục tiêu cốt lõi:** Nuôi dưỡng tâm tùy hỉ — biết vui cho niềm vui và thành tựu của người khác; học cách khen ngợi chân thành, công nhận giá trị và vẻ đẹp tâm hồn của mọi người, đồng thời nhận ra giá trị độc bản của chính mình.
+- **Kế hoạch Dài hạn (5 năm):** Trở thành một người đàn ông có trái tim hào sảng, quy tụ được những người tài ba hơn mình cùng đồng hành, được đối tác và đồng nghiệp kính trọng vì sự nâng đỡ chân thành.
+- **Kế hoạch Trung hạn (1 năm / Q4/2026 – 2027):** Khi thấy đồng nghiệp, bạn bè thăng chức, tăng lương hay có hạnh phúc mới: lập tức gửi lời chúc mừng chân thành, triệt tiêu ngay suy nghĩ so sánh hơn thua. Thấu hiểu rằng mỗi người có một chiếc đồng hồ số phận riêng.
+- **Kế hoạch Ngắn hạn (Tuần & Ngày):** Thực hành khen ngợi chân thành ít nhất 1 đồng nghiệp hoặc người thân mỗi ngày (chỉ ra điểm tốt cụ thể của họ). Khi cảm giác ghen tị chớm xuất hiện: thầm niệm chúc phúc cho họ phát triển hơn nữa.
+
+#### 7. Project 1.3.7: Tinh Tấn, Nhiệt Huyết & Nuôi Dưỡng Tâm Hồn Trách Nhiệm (Diligence vs. Sloth)
+- **Nhận thức cội nguồn:** Nhận diện sự lười biếng, chây ì, lười nhát, e dè, tự ti về cả thể xác lẫn tinh thần; lười lao động, học tập và rèn luyện; trốn tránh trách nhiệm; bỏ bê chú tâm nuôi dưỡng đời sống tâm linh, tín ngưỡng và chăm sóc tâm hồn.
+- **Mục tiêu cốt lõi:** Thắp sáng ngọn lửa nhiệt huyết, kiên trì tinh tấn, chăm chỉ học tập và lao động; vượt qua vùng an toàn; nuôi dưỡng đời sống tâm linh thiện lành và chịu trách nhiệm 100% với thân thể, tâm hồn và vận mệnh của mình.
+- **Kế hoạch Dài hạn (5 năm):** Đạt tới sự tự chủ toàn diện: làm việc hăng say với tinh thần phụng sự, tâm hồn an lạc, đức tin thiện lành vững vàng, là chỗ dựa kinh tế và tinh thần bất khả lay chuyển cho gia đình.
+- **Kế hoạch Trung hạn (1 năm / Q4/2026 – 2027):** Hoàn thành xuất sắc các mục tiêu sự nghiệp: FTI-AM, thi đỗ PSM I, giải thưởng AI FTEL 2026. Dành thời gian mỗi tuần để đọc sách triết học/tâm linh, tĩnh tâm quán chiếu và nuôi dưỡng đức tin thiện lành.
+- **Kế hoạch Ngắn hạn (Tuần & Ngày):** Bắt đầu ngày mới với Con Ếch A1 trong Morning Shield; áp dụng quy tắc 5 Giây đè bẹp sự trì hoãn; dành 10 phút cuối ngày soi tâm và tạ ơn.
+
+---
+
 ## IV. TIÊU CHÍ ĐO LƯỜNG HOÀN THÀNH (PORTFOLIO KPI)
 
-| Chỉ Số Đánh Giá | Khởi Điểm | Mục Tiêu 30 Ngày | Mục Tiêu 90 Ngày | Mục Tiêu 1 Năm |
-| :--- | :---: | :---: | :---: | :---: |
-| **Số ngày sạch Porn/Web đen** | 0 ngày | 21 ngày streak | 60 ngày streak | Hoàn toàn làm chủ |
-| **Tiêu thụ thuốc lá** | Thường xuyên | Giảm 80% (chỉ khi cực bực) | Cắt hẳn hoàn toàn | Không hút thuốc |
-| **Kỷ luật Gym (buổi/tuần)** | Bập bõm | 3 buổi/tuần | 3-4 buổi/tuần | Thói quen tự nhiên |
-| **Giờ đi ngủ trung bình** | > 00:00 | Trước 23:30 | Trước 23:00 | Trước 23:00 |
-| **Tần suất nhậu nhẹt vô bổ** | 2-3 lần/tuần | < 1 lần/tháng | 0 lần với bạn xấu | Chỉ đi với đối tác chất lượng |
+| Nhóm Chỉ Số | Chỉ Số Đánh Giá | Khởi Điểm | Mục Tiêu 30 Ngày | Mục Tiêu 90 Ngày | Mục Tiêu 1 Năm |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| **Thể chất & Cai nghiện** | Số ngày sạch Porn/Web đen | 0 ngày | 21 ngày streak | 60 ngày streak | Hoàn toàn làm chủ |
+| | Tiêu thụ thuốc lá | Thường xuyên | Giảm 80% (chỉ khi cực bực) | Cắt hẳn hoàn toàn | Không hút thuốc |
+| | Kỷ luật Gym (buổi/tuần) | Bập bõm | 3 buổi/tuần | 3-4 buổi/tuần | Thói quen tự nhiên |
+| | Giờ đi ngủ trung bình | > 00:00 | Trước 23:30 | Trước 23:00 | Trước 23:00 |
+| | Tần suất nhậu nhẹt vô bổ | 2-3 lần/tuần | < 1 lần/tháng | 0 lần với bạn xấu | Chỉ đi với đối tác chất lượng |
+| **Tu dưỡng Tâm thức** | Thực hành Lắng nghe & Khiêm nhường | Hiếm khi | 1 lần/ngày | Phản xạ tự nhiên | Phong cách lãnh đạo |
+| | Quản trị tài sản đúng mục đích | Thiếu kỷ luật | Chi <150k/ngày, không ky bo | Đệm an toàn 35tr | Đệm 50tr + sẻ chia |
+| | Giữ gìn Thanh khiết & Ranh giới | Ranh giới yếu | Rời mắt quy tắc 1s | Cắt liên hệ mập mờ | Chung thủy tuyệt đối |
+| | Làm chủ Cơn giận (Dừng 10s) | Dễ bộc phát | Áp dụng khi căng thẳng | Không phát ngôn sát thương | Điềm tĩnh quân tử |
+| | Tâm Tùy Hỉ & Khen ngợi chân thành | Dễ ghen tị | Khen 2 lần/tuần | Khen 1 lần/ngày | Chân thành chúc phúc |
+| | Tinh tấn vượt ngưỡng & Nuôi dưỡng tâm | Hay chây ì | Con Ếch A1 mỗi sáng | 30p học PSM I mỗi ngày | Đời sống tâm linh vững vàng |
+

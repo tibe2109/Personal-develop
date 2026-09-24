@@ -32,8 +32,8 @@ Khi chạm ngưỡng tuổi 40 vào **tháng 09/2031**, tôi nhìn lại và t�
 │   & Thể Chất Chiến Binh         │ │   Automation (FTI-AM Playwright)│ │   & Cấu Trúc Tài Sản 3 Tầng     │ │   Đương & Bất Ngờ Hàng Ngày     │
 │ • Program 1.2: Chữa Lành Đứa    │ │ • Program 2.2: Chuẩn Hóa Năng   │ │ • Program 3.2: Tech Consulting  │ │ • Program 4.2: Gắn Kết An Toàn  │
 │   Trẻ Bên Trong & Ranh Giới EQ  │ │   Lực Toàn Cầu (PSM I, CV Inb)  │ │   Studio (The Builder & Hustler)│ │   & Không Gian Thở 24h          │
-│                                 │ │                                 │ │                                 │ │ • Program 4.3: Hôn Nhân Bền Vững│
-│                                 │ │                                 │ │                                 │ │   & Đồng Thuận Tổ Ấm Suốt Đời   │
+│ • Program 1.3: 7 Phép Tu Dưỡng  │ │                                 │ │                                 │ │ • Program 4.3: Hôn Nhân Bền Vững│
+│   Tâm Thức & Chuyển Hóa Bản Ngã │ │                                 │ │                                 │ │   & Đồng Thuận Tổ Ấm Suốt Đời   │
 └─────────────────────────────────┘ └─────────────────────────────────┘ └─────────────────────────────────┘ └─────────────────────────────────┘
 ```
 
