@@ -68,41 +68,37 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
   - Giữ cơ thể săn chắc nhờ tập Gym; chăm sóc mùi hương tinh tế, trang phục lịch lãm, sạch sẽ.
   - Vận dụng "Sức mạnh của sự tĩnh lặng": Không ba hoa khoác lác, không cần chứng tỏ mình giỏi. Đôi mắt ấm áp, giọng nói trầm tĩnh, nụ cười thong dong chính là thứ bùa mê quyến rũ nhất.
 
-### 🔹 Project 4.1.4: `Partner-Profiling-And-Quiet-Seduction` (Chiến Dịch Giải Mã MBTI/DISC & Quyến Rũ Nàng 2002 - OKR Q4/2026)
+### 🔹 Project 4.1.4: `Partner-Profiling-And-Quiet-Seduction` (Chiến Dịch Giải Mã MBTI/DISC & Thu Phục Nàng Mèo Hoang ISTP/C - OKR Q4/2026)
 - **Hồ sơ hiện trạng & Bối cảnh đặc thù:**
   - *Độ tuổi & Thế hệ:* Nàng sinh năm **2002** (24 tuổi, Gen Z) — Em sinh năm **1992** (34 tuổi, Millennials). Chênh lệch 10 tuổi.
   - *Mối quan hệ:* Là **đồng nghiệp cùng công ty**.
-  - *Giả thuyết tâm lý:* Thiên hướng **ISTJ** (The Logistician / Người trách nhiệm, chuẩn mực) & **DISC: Compliance (C - Tuân thủ, cẩn trọng, chính xác)**.
-  - *Biểu hiện thực tế:* Khá ít bộc lộ cảm xúc ra ngoài, kín đáo, điềm đạm, có ranh giới tự vệ cao.
-- **Giải mã bản chất tâm lý học thần kinh (Tại sao nàng ít thể hiện tình cảm?):**
-  1. *Ranh giới đồng nghiệp công sở (Workplace Shield):* Là cấp dưới/đồng nghiệp trẻ tuổi hơn 10 tuổi, nàng có phản xạ tự vệ bản năng để bảo vệ sự chuyên nghiệp, tránh tin đồn công sở hoặc bị đánh giá là thiếu nghiêm túc trong công việc. Sự kín đáo này là biểu hiện của **lòng tự trọng và sự thông minh**.
-  2. *Cấu trúc nhận thức ISTJ (Si-Te-Fi-Ne):* Cảm xúc (Fi) là chức năng bậc 3, ẩn sâu bên trong lớp vỏ bọc logic và trách nhiệm (Te). Ngôn ngữ tình yêu của nàng là **Hành động phụng sự (Acts of Service)** và **Sự hiện diện đáng tin cậy (Quality Time)** chứ KHÔNG PHẢI lời nói đường mật (Words of Affirmation).
-  3. *Tâm lý tuổi 24 đối diện người đàn ông 34 tuổi:* Nàng cần thời gian quan sát để chắc chắn em là người đàn ông vững chãi, an toàn, không chơi bời hay áp đặt.
-- **Khung 4 câu hỏi & Quan sát vi mô tự nhiên (Micro-Observation Framework):**
-  - *Trục I vs E (Nạp năng lượng):* Sau giờ làm, nàng thích về nhà nghỉ ngơi yên tĩnh, đọc sách, xem phim (I) hay thích tụ tập bạn bè đông đúc (E)?
-  - *Trục S vs N (Thu nhận thông tin):* Khi nói chuyện, nàng chú ý đến chi tiết thực tế, món ăn ngon, đồ dùng cụ thể (S) hay thích triết lý, tưởng tượng viển vông (N)?
-  - *Trục T vs F (Ra quyết định):* Khi gặp sự cố công việc, nàng phân tích đúng/sai theo quy trình (T) hay để cảm xúc và các mối quan hệ chi phối (F)?
-  - *Trục J vs P (Phong cách sống):* Nàng thích mọi thứ có kế hoạch, đúng giờ, ngăn nắp (J/C) hay linh hoạt, ngẫu hứng, tùy cơ ứng biến (P)?
+  - *Nhận diện tính cách chuẩn xác:* **ISTP (The Virtuoso / Nhà Chế Tác — Ti-Se-Ni-Fe)** kết hợp **DISC: Compliance (C - Cẩn trọng, chuẩn mực, ranh giới cao)**.
+  - *Biểu hiện thực tế:* Giỡn cười sặc sụa với đồng nghiệp (Se bộc phát vui vẻ thực tế), nhưng với em thì cộc lốc, không muốn tỏ ra cần tình cảm (Ti-dom tự chủ cực đoan, Fe-inferior sợ sến súa/áp lực).
+- **Giải mã bản chất tâm lý học thần kinh nữ ISTP/C:**
+  1. *Ti-Dominant (Tự chủ tối thượng):* Cực ghét bị kiểm soát, không muốn tỏ ra yếu đuối hay dựa dẫm vào ai. Sợ bị biến thành "kẻ phụ thuộc cảm xúc".
+  2. *Se-Auxiliary (Giác quan hiện tại):* Kết nối thế giới bằng tiếng cười sảng khoái, ăn ngon, đi dạo, trải nghiệm thực tế.
+  3. *Fe-Inferior (Tử huyệt cảm xúc vụng về):* Rất lúng túng khi phải nói lời ngọt ngào. Khi bị đòi hỏi tình cảm hoặc đối phương tỏ ra u uất/lụy tình, nàng sẽ cảm thấy ngột ngạt và phản xạ tự vệ duy nhất là **bật gai nhím, cộc lốc và trốn chạy**.
 - **Chiến Lược Ma Trận 50 – 30 – 20 Thông Minh & Tự Nhiên (Smart Multi-Moment Matrix):**
-  *Nguyên tắc tối cao: Tuyệt đối không tra khảo, không biến buổi hẹn thành bài kiểm tra trắc nghiệm, để cô ấy luôn thoải mái và là chính mình.*
-  1. **50% — Quan Sát Tĩnh Lặng Thường Nhật (Ambient Natural Observation):**
-     - *Bối cảnh:* Giờ làm việc, lúc ăn trưa cùng team, lúc tan sở, cách sắp xếp bàn làm việc, phản xạ với các sự cố bất ngờ ở công ty.
-     - *Cách thực thi:* "Vô hình & Tinh tế" — Quan sát mà như không quan sát. Để ý cách cô ấy giải quyết deadline, thái độ với quy trình (C), phản ứng khi kế hoạch thay đổi (J vs P), và sự kín đáo khi tương tác với đồng nghiệp (I).
-  2. **30% — Đối Thoại Chất Lượng Trong Không Gian An Toàn (Safe-Space Quality Dialogue):**
-     - *Bối cảnh:* Những buổi hẹn riêng tư cuối tuần, lúc ngồi sau xe máy chở nhau đi dạo, lúc uống cà phê góc vắng, cuộc gọi đêm ngắn.
-     - *Kỹ thuật "Gài mồi câu chuyện" (Story Baiting):* Không hỏi kiểu phỏng vấn ("Em là người thế nào?"). Hãy chủ động chia sẻ một câu chuyện ngắn của bản thân trước để gợi mở tự nhiên:
-       - *Ví dụ:* *"Hôm nay dự án FTI-AM deploy xong anh mới thấy nhẹ nhõm. Đôi lúc việc dồn dập làm anh phải dừng lại thở sâu vài giây. Thường những lúc công việc quá tải, em hay làm gì để giải tỏa bớt nặng đầu?"* ➔ Lắng nghe cách nàng xả stress (I hay E, S hay N).
-  3. **20% — Trải Nghiệm Hành Động Chung & Phản Chiếu Gương (Shared Co-Action & Vulnerability Mirroring):**
-     - *Bối cảnh:* Cùng nhau làm một việc cụ thể: Cùng đi siêu thị mua sắm, cùng nấu ăn, cùng giải quyết một tình huống (tìm đường khi kẹt xe), hoặc cùng chơi một boardgame/trò chơi giải đố nhẹ.
-     - *Sức mạnh tâm lý học:* Khi cùng tập trung vào một *hành động thực tế*, lớp áo giáp phòng thủ ý thức (conscious defense) tạm thời hạ xuống. Tính cách thật (cẩn thận so sánh giá, tuân thủ công thức nấu ăn từng gram, bình tĩnh mở map xem đường) sẽ bộc lộ tự nhiên 100% mà không cần nói một lời gượng gạo nào!
-     - *Vulnerability Mirroring (Phản chiếu chân thành):* Em chủ động kể một lỗi ngốc nghếch ngày xưa của mình với nụ cười nhẹ. Người nhóm C rất sợ phạm sai lầm; khi thấy em bình thản chấp nhận sự không hoàn hảo, nàng sẽ cảm thấy được "cho phép" thả lỏng và bộc lộ sự vụng về đáng yêu của mình.
-- **Chiến lược Quyến rũ Tĩnh lặng & Kích hoạt Cảm xúc (Quiet Seduction Playbook):**
-  - **Quy tắc 1: Đáng tin cậy và Nhất quán tuyệt đối (Extreme Consistency):** Với người nhóm C và ISTJ, không gì quyến rũ hơn một người đàn ông **nói là làm, đúng giờ, chuẩn mực, ổn định trong cảm xúc**. Không hứa hão, không thất hứa dù là việc nhỏ nhất.
-  - **Quy tắc 2: Tôn trọng tuyệt đối ranh giới công sở:** Ở công ty đối xử lịch lãm, giữ thể diện và vị thế chuyên nghiệp cho nàng. Sự tinh tế này sẽ làm nàng cảm thấy được tôn trọng và an toàn 100%.
-  - **Quy tắc 3: Chăm sóc bằng hành vi vi mô thực tế (Acts of Service):** Một ly nước ấm khi trời lạnh, chiếc áo khoác khi đi mưa, hỗ trợ gỡ rối logic kỹ thuật khi nàng cần mà không tỏ vẻ "dạy đời".
-  - **Quy tắc 4: Mở khóa trái tim (Unlocking her Inner Fi):**
-    - ❌ *CẤM:* Hỏi dồn dập: "Sao em lạnh lùng thế?", "Sao em ít thể hiện tình cảm?". Điều này sẽ khiến nàng kích hoạt cơ chế phòng vệ và đóng chặt cửa lòng.
-    - ✅ *ĐÚNG:* Tạo "Không gian an toàn tuyệt đối" (Psychological Safety). Tự mình chia sẻ những cảm xúc chân thành, ấm áp trước mà không đòi hỏi nàng phải đáp lại ngay. Khi cảm nhận được sự vững chãi và kiên nhẫn của em, nàng sẽ tự nhiên mở lòng và bộc lộ sự dịu dàng sâu kín nhất.
+  1. *50% Quan Sát Tĩnh Lặng:* Tinh tế để ý phản xạ công việc, deadline, cách nàng ăn uống, thói quen tự lập mà không soi xét.
+  2. *30% Trò Chuyện Chất Lượng:* Dùng "Gài mồi câu chuyện" (Story Baiting), không phỏng vấn tra khảo, để nàng tự nhiên mở lời.
+  3. *20% Hành Động Chung & Tấm Gương Chân Thành:* Cùng nấu ăn, cùng giải quyết tình huống, em bộc lộ sự không hoàn hảo để nàng thấy an toàn.
+- **Lộ Trình 4 Giai Đoạn "Thu Phục Nàng Mèo Hoang ISTP" (The Wild Cat Taming Roadmap):**
+  - **Giai đoạn 1 (Tháng 10/2026 - 30 Ngày): Dọn Sạch Áp Lực & Thiết Lập Lãnh Địa An Bình (De-Pressurization & Safe Territory):**
+    - Chấm dứt vĩnh viễn tâm thế "kẻ đi xin xỏ". Rủ hẹn theo phong cách "Take it or leave it" (Em có kế hoạch riêng, mở lời mời nàng đi cùng; nàng từ chối thì thong thả đi làm việc khác).
+    - Không gặng hỏi: "Sao em cộc thế?", không ép nàng phải ngọt ngào.
+    - Thiết lập "Sự im lặng đồng hành" (Companionable Silence): Cùng ngồi làm việc/uống cà phê mà không cần bắt chuyện liên tục.
+    - Giữ vững kỷ luật Gym 3 buổi/tuần, phát triển sự nghiệp để tỏa ra năng lượng nam tính độc lập.
+  - **Giai đoạn 2 (Tháng 11/2026 - 60 Ngày): Kích Hoạt Giác Quan (Se) & Đồng Minh Thực Chiến (Sensory Bonding):**
+    - Hẹn hò kiểu Se: Dẫn nàng đi ăn những món ngon thực tế, chở đi dạo mát ngắm phố, tạo tiếng cười nhẹ nhõm, không sến súa.
+    - Đồng minh công sở tinh tế: Gỡ rối logic kỹ thuật cho nàng khi cần nhưng không tỏ vẻ dạy đời. Bảo vệ nàng ngầm nơi công sở.
+    - Trêu đùa tinh nghịch (Playful Teasing): Chọc nhẹ sự cộc lốc của nàng bằng nụ cười bao dung ("Nhìn mặt cọc thấy cưng ghê"), kéo nàng ra khỏi sự căng thẳng.
+  - **Giai đoạn 3 (Tháng 12/2026 - 90 Ngày): Mở Khóa Tử Huyệt Cảm Xúc Fe & Sự Yếu Đuối An Toàn (Unlocking Vulnerability):**
+    - Chăm sóc âm thầm không cần xin phép (Silent Acts of Service): Ly trà gừng khi ốm, chiếc áo mưa khi trời mưa, làm xong mỉm cười nhẹ không kể công.
+    - Hiệu ứng tấm gương chân thành: Kể chuyện ngây ngô thời trẻ của em để nàng thấy ở bên em được phép không hoàn hảo.
+    - Thưởng nóng khi nàng chủ động: Khi nàng nhắn tin hoặc rủ rê, đáp lại bằng sự nồng nhiệt, ấm áp để khích lệ.
+  - **Giai đoạn 4 (Năm 2027 - Bứt Phá): Trở Thành Mỏ Neo Không Thể Rời Xa (The Irreplaceable Anchor):**
+    - Nàng nhận ra trên đời không có ai cho nàng cả sự tự do, sự an toàn và thấu hiểu như em.
+    - Chú mèo hoang tự nguyện cuộn tròn trong lòng em, gắn kết sâu sắc hướng tới đám cưới Quý 2/2028.
 
 ### 🔹 Project 4.2.1: `Emotional-Space-24h` (Làm Chủ Nhịp Độ & Không Gian Thở)
 - **Quy tắc không gian thở (Emotional Space):**
