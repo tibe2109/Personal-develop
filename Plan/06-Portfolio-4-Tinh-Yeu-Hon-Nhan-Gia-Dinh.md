@@ -72,12 +72,12 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
 - **Hồ sơ hiện trạng & Bối cảnh đặc thù:**
   - *Độ tuổi & Thế hệ:* Nàng sinh năm **2002** (24 tuổi, Gen Z) — Em sinh năm **1992** (34 tuổi, Millennials). Chênh lệch 10 tuổi.
   - *Mối quan hệ:* Là **đồng nghiệp cùng công ty**.
-  - *Nhận diện tính cách chuẩn xác:* **ISTP (The Virtuoso / Nhà Chế Tác — Ti-Se-Ni-Fe)** kết hợp **DISC: Compliance (C - Cẩn trọng, chuẩn mực, ranh giới cao)**.
-  - *Biểu hiện thực tế:* Giỡn cười sặc sụa với đồng nghiệp (Se bộc phát vui vẻ thực tế), nhưng với em thì cộc lốc, không muốn tỏ ra cần tình cảm (Ti-dom tự chủ cực đoan, Fe-inferior sợ sến súa/áp lực).
-- **Giải mã bản chất tâm lý học thần kinh nữ ISTP/C:**
-  1. *Ti-Dominant (Tự chủ tối thượng):* Cực ghét bị kiểm soát, không muốn tỏ ra yếu đuối hay dựa dẫm vào ai. Sợ bị biến thành "kẻ phụ thuộc cảm xúc".
-  2. *Se-Auxiliary (Giác quan hiện tại):* Kết nối thế giới bằng tiếng cười sảng khoái, ăn ngon, đi dạo, trải nghiệm thực tế.
-  3. *Fe-Inferior (Tử huyệt cảm xúc vụng về):* Rất lúng túng khi phải nói lời ngọt ngào. Khi bị đòi hỏi tình cảm hoặc đối phương tỏ ra u uất/lụy tình, nàng sẽ cảm thấy ngột ngạt và phản xạ tự vệ duy nhất là **bật gai nhím, cộc lốc và trốn chạy**.
+  - *Nhận diện tính cách chuẩn xác:* **ISTP (Thực tế - Logic - Độc lập — Ti-Se-Ni-Fe)** kết hợp **DISC: D - C (Dominance & Compliance: Quyết đoán - Trách nhiệm - Chuẩn mực - Hướng mục tiêu)**.
+  - *Biểu hiện thực tế:* Giỡn cười sặc sụa với đồng nghiệp (Se bộc phát vui vẻ thực tế), nhưng rất thẳng thắn, quyết liệt, có ranh giới cao (D); làm việc trách nhiệm, chuẩn mực, kỷ luật (C); với em thì cộc lốc khi bị đòi hỏi cảm xúc (Ti-dom tự chủ cực đoan, Fe-inferior sợ sến súa/áp lực).
+- **Giải mã bản chất tâm lý học thần kinh nữ ISTP kết hợp D-C (Nữ Chiến Binh Độc Lập):**
+  1. *Ti-Dominant & Yếu Tố D (Quyết đoán & Tự chủ tối thượng):* Cực ghét bị kiểm soát, ghét sự lụy tình, ủy mị hay nói lòng vòng. Nàng tôn sùng năng lực thực tế, bản lĩnh và sự quyết đoán.
+  2. *Se-Auxiliary (Giác quan hiện tại):* Kết nối thế giới bằng tiếng cười sảng khoái, ăn ngon, đi dạo, hành động thực tế.
+  3. *DISC C & Fe-Inferior (Chuẩn mực nhưng vụng về cảm xúc):* Rất nghiêm túc trong trách nhiệm, giữ uy tín, nhưng cực kỳ lúng túng khi phải nói lời ngọt ngào. Nàng thể hiện tình yêu bằng **Trách nhiệm, Sự đồng hành và Hành động bảo vệ** chứ không qua lời đường mật.
 - **Chiến Lược Ma Trận 50 – 30 – 20 Thông Minh & Tự Nhiên (Smart Multi-Moment Matrix):**
   1. *50% Quan Sát Tĩnh Lặng:* Tinh tế để ý phản xạ công việc, deadline, cách nàng ăn uống, thói quen tự lập mà không soi xét.
   2. *30% Trò Chuyện Chất Lượng:* Dùng "Gài mồi câu chuyện" (Story Baiting), không phỏng vấn tra khảo, để nàng tự nhiên mở lời.
