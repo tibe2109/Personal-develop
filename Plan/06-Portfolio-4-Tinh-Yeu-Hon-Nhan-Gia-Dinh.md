@@ -99,6 +99,21 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
   - **Giai đoạn 4 (Năm 2027 - Bứt Phá): Trở Thành Mỏ Neo Không Thể Rời Xa (The Irreplaceable Anchor):**
     - Nàng nhận ra trên đời không có ai cho nàng cả sự tự do, sự an toàn và thấu hiểu như em.
     - Chú mèo hoang tự nguyện cuộn tròn trong lòng em, gắn kết sâu sắc hướng tới đám cưới Quý 2/2028.
+- **Hồ Sơ Quan Sát Vi Mô & Cẩm Nang Chăm Sóc Thực Chiến (Cập Nhật 13/10/2026):**
+  - *Tư duy công cụ & Thẩm mỹ chuẩn mực (Ti + Se + C):*
+    - Chọn túi đựng vợt đa năng (laptop + giày + vợt cầu lông): Tối ưu hóa công năng tối đa để tiện đi làm xong đi đánh cầu lông ngay.
+    - Thích balo đứng form, vuông vức, để xuống đất đứng vững, màu xám/beige: Minh chứng 100% cho nhu cầu trật tự, vững chãi, chuyên nghiệp, ghét sự èo uột xộc xệch của nhóm C và Ti.
+  - *Sở thích & Tâm hồn:*
+    - Chơi Rubik khi rảnh: Biểu hiện kinh điển của Ti-dom (thích giải đố logic không gian, sự chính xác cơ học).
+    - Đồ thủ công nhỏ nhắn đáng yêu trên bàn: Góc mềm mại, dịu dàng của chức năng Fe tiềm ẩn — chiếc "chìa khóa" tâm hồn được cất kín.
+    - Thích máy ảnh chụp cảnh đẹp, thích ngắm pháo hoa: Trải nghiệm thị giác sống động trong hiện tại (Se).
+    - Thể thao (cầu lông), chiều đặt nước cùng team, thích quán cà phê cũ quen thuộc: Thích sự vận động thực tế, giao lưu nhẹ nhàng và sự ổn định an toàn (C).
+  - *Đặc điểm thể chất & "Tử huyệt sức khỏe" cần nâng niu:*
+    - Chiều cao 1m67, nặng 65 – 68kg, thể hình khỏe khoắn thể thao, làn da mịn màng trắng nhẹ.
+    - Kinh nguyệt: Dễ nổi mụn trước kỳ; ngày đầu tiên đau bụng kinh dữ dội (Dysmenorrhea, gần đây nặng hơn): Cơ hội vàng để em thể hiện tình yêu qua **Hành động thực tế (Acts of Service)** — chủ động chuẩn bị túi chườm ấm, trà gừng nóng, không ép ăn/uống hay đi chơi khi nàng đau.
+  - *Chuyển biến cảm xúc tích cực lớn:*
+    - Nàng đang **tự giác tập nói chuyện nhẹ nhàng lại** sau khi em góp ý: Chứng minh nàng rất có trách nhiệm (C) và thực lòng trân trọng mối quan hệ này.
+    - Nhăn trán khi em quá tình cảm nhưng cố kìm nén để không làm em buồn: Fe của nàng đang cố gắng hòa hợp với em, không hề có ác ý.
 
 ### 🔹 Project 4.2.1: `Emotional-Space-24h` (Làm Chủ Nhịp Độ & Không Gian Thở)
 - **Quy tắc không gian thở (Emotional Space):**
