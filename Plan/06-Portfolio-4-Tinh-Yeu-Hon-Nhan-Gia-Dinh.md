@@ -114,6 +114,24 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
   - *Chuyển biến cảm xúc tích cực lớn:*
     - Nàng đang **tự giác tập nói chuyện nhẹ nhàng lại** sau khi em góp ý: Chứng minh nàng rất có trách nhiệm (C) và thực lòng trân trọng mối quan hệ này.
     - Nhăn trán khi em quá tình cảm nhưng cố kìm nén để không làm em buồn: Fe của nàng đang cố gắng hòa hợp với em, không hề có ác ý.
+  - *Dữ liệu Thực chứng Nhật ký Chat Messenger (Cập nhật 23/10/2026 - Đánh giá 8.5/10):*
+    - **Thực tế khách quan:** Thùy Linh chủ động mở lòng rất lớn: chia sẻ album ảnh thời thơ ấu, kể chuyện gia đình (cháu Min Min), chủ động nhắn tin khi về quê/ngủ dậy, đùa chuyện đua xe đạp, tâm sự kết quả KSK (kiêng cữ), kể chuyện đánh cầu lông chi tiết.
+    - **Ngôn ngữ cảm xúc:** Tràn ngập từ ngữ dịu dàng (*"anb ưi", "khum", "heheee", "baiii anh"*), thả tim đỏ `[❤️]` liên tục, không hề né tránh hay cộc cằn.
+    - **Điểm mù Hoàng Anh cần triệt tiêu:**
+      1. *Hội chứng "Thức đợi":* Tuyệt đối không thức đợi khi nàng đang upcode/làm việc kỹ thuật (tạo nợ cảm xúc).
+      2. *Than thở yếu đuối qua chat:* Giữ vững sự kiên cường của người đàn ông; để dành sự ngọt ngào khi gặp trực tiếp.
+      3. *Chính ngữ & Tâm thức:* Giữ gìn miệng lưỡi thanh tịnh, cự tuyệt việc phán xét/chê bai phụ nữ sau lưng.
+  - *10 Tư Duy Quyến Rũ Tự Nhiên & Nghệ Thuật Yêu Thương (Khung Ngọn Núi - The Mountain Frame):*
+    1. *Sự Hiện Diện Không Đòi Hỏi (Zero-Expectation Giving):* Chăm sóc hào sảng, không đính kèm mong cầu đền đáp.
+    2. *Tách Biệt Cảm Xúc (Emotional Decoupling):* Tâm trạng nàng không phải nhiệt kế đo giá trị của em. Điềm tĩnh trước mọi cơn cộc tính.
+    3. *Sứ Mệnh Cao Quý Là Số 1 (Purpose Over Pleasure):* Không bỏ Gym, không bỏ IT để chờ tin nhắn. Đàn ông có mục tiêu mới có sức hút tối thượng.
+    4. *Nghệ Thuật Quyến Rũ Tĩnh Lặng (Depth Over Chatter):* Nói ít, quan sát sâu, hành động nhiều hơn lời nói.
+    5. *Khoảng Dừng Kim Cương (The Power of Restraint):* Nhìn sâu 3 giây mỉm cười rồi quay đi; chủ động buông cái ôm trước khi tạm biệt.
+    6. *Dẫn Dắt Điềm Đạm (Calm Decisive Leadership):* Chủ động chọn quán ăn ngon, gánh vác việc ra quyết định vi mô cho nàng.
+    7. *Nguyên Lý Chú Mèo Hoang (The Wild Cat Freedom):* Cho nàng tự do 100% trong không gian riêng, nàng sẽ tự khắc muốn neo đậu.
+    8. *Lời Khen Thực Chứng (Fact-Based Praise):* Khen ngợi năng lực, logic nghiệp vụ, phản xạ cầu lông và sự chỉn chu đứng form.
+    9. *Tinh Nghịch Nhẹ Nhàng (Playful Teasing):* Trêu đùa dí dỏm, mang lại tiếng cười giải phóng Dopamine.
+    10. *Bến Đỗ Không Phán Xét (The Unshakable Safe Haven):* Luôn là nơi an toàn nhất thế gian khi nàng mệt mỏi hay thất bại.
 
 ### 🔹 Project 4.2.1: `Emotional-Space-24h` (Làm Chủ Nhịp Độ & Không Gian Thở)
 - **Quy tắc không gian thở (Emotional Space):**

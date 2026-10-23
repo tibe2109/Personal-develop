@@ -25,15 +25,15 @@ Tài liệu này giúp **Coach Anh** và chính bạn nhìn thấy **toàn bộ 
 - **Mục tiêu chiến lược (OKR Q4/2026):** Hoàn thành bộ skill AI hỗ trợ chuyển đổi đặc tả nghiệp vụ chức năng (URD) thành bộ test-case automation test chuẩn công nghiệp và quy trình phát triển phần mềm chuyên nghiệp, bảo đảm 100% chất lượng phần mềm đúng nghiệp vụ.
 - **Giá trị Proof-of-Work:** Đây chính là tài sản kỹ thuật lõi để xây dựng Portfolio kiến trúc sư phần mềm (AI Solution Architect) và đè bẹp mặc cảm bằng cấp.
 
-### 3. ⚖️ Bàn cờ chuyển giao dự án mới (Tuần này & Tuần sau): **BMS vs. CAMERA**
-
-| Tiêu Chí Đánh Giá | Dự Án BMS (Building Management System) | Dự Án CAMERA (AI Surveillance / Vision) |
-| :--- | :--- | :--- |
-| **Nhân sự & Môi trường** | Có người quen, môi trường thân thuộc, ít áp lực chính trị. | Toàn người mới làm việc chung, văn hóa mới, dễ phát sinh xung đột quan điểm. |
-| **Độ khó & Thách thức** | Trung bình, quen luồng nghiệp vụ. | Cao, đòi hỏi xử lý luồng dữ liệu thời gian thực, tích hợp phần cứng/AI vision. |
-| **Áp lực hệ thần kinh** | Thấp — Dễ thở, an toàn cho Amygdala. | Cao — Cần lá chắn cảm xúc và kỹ năng giải quyết mâu thuẫn. |
-| **Cơ hội rèn luyện Leadership & EQ** | Trung bình — Vùng an toàn (Comfort Zone). | **Cực cao** — Thao trường rèn luyện năng lực thuyết phục, dẫn dắt và tạo ảnh hưởng từ số 0. |
-| **Độ phù hợp với OKR Q4/2026** | **Tối ưu:** Giúp có dư địa năng lượng để hoàn thiện bộ AI Automation Skill. | Thách thức: Tải trọng cao có thể làm phân tán thời gian đóng gói skill nếu không quản lý ranh giới tốt. |
+### 3. 🎯 Dự án Trọng điểm Quốc gia Đang Thực Hiện: **CAM2G (Smart Camera — Khảo sát Vị trí Lắp Camera cho Bộ Công An)**
+- **Nghiệp vụ cốt lõi:** Số hóa và tối ưu quy trình khảo sát vị trí lắp đặt camera giám sát an ninh trật tự cho phía **Bộ Công An**.
+- **Hiện trạng tiến độ (Cập nhật 23/10/2026):**
+  - ✅ **Phiên bản v1.0:** Đã hoàn thành xuất sắc và nghiệm thu!
+  - 🚀 **Lộ trình kế tiếp:** Đang tiếp tục triển khai các phiên bản **v1.1, v1.2, v1.3** với lộ trình kéo dài từ nay đến hết **Quý 1/2027**.
+- **Ý nghĩa chiến lược & Giá trị Proof-of-Work:**
+  - *Sức nặng Portfolio:* Dự án cấp Bộ (Bộ Công An) mang tính chất sống còn về an ninh, bảo mật và nghiệp vụ chuẩn mực. Đây là "chứng chỉ vàng" thực tế chứng minh năng lực Tech Lead / Senior PM / Solution Architect đè bẹp bất kỳ mặc cảm nào về bằng cấp.
+  - *Ổn định dòng tiền & Vị thế:* Bảo đảm chắc chắn trạm ATM 26tr/tháng và vị thế nòng cốt trong tổ chức đến hết Q1/2027.
+  - *Cơ hội Hợp lực (Synergy):* Áp dụng trực tiếp bộ **AI Automation Skill & Playwright** vào việc kiểm thử tự động quy trình khảo sát cam2g, vừa nâng cao chất lượng dự án công ty vừa hoàn thiện sản phẩm cá nhân.
 
 ### 4. 🏆 Chiến dịch thi đua cấp Tập đoàn & Khối: **CUỘC THI "AI THỰC CHIẾN TUYẾN ĐẦU 2026" (TỔNG GIẢI THƯỞNG 115 TRIỆU)**
 - **Chi tiết kế hoạch tác chiến:** Tham khảo tài liệu chuyên đề [`Plan/Chien-dich-AI-Thuc-Chien-FTEL-2026.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/Chien-dich-AI-Thuc-Chien-FTEL-2026.md).
