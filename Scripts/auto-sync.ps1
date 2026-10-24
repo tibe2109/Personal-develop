@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
     🔄 PERSONAL-DEVELOP AUTO-SYNC DAEMON (POWERSHELL / WINDOWS)
     Tự động hóa kiểm tra, commit, pull và push định kỳ 15-30 phút khi có thay đổi.
