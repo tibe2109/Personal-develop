@@ -132,6 +132,25 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
     8. *Lời Khen Thực Chứng (Fact-Based Praise):* Khen ngợi năng lực, logic nghiệp vụ, phản xạ cầu lông và sự chỉn chu đứng form.
     9. *Tinh Nghịch Nhẹ Nhàng (Playful Teasing):* Trêu đùa dí dỏm, mang lại tiếng cười giải phóng Dopamine.
     10. *Bến Đỗ Không Phán Xét (The Unshakable Safe Haven):* Luôn là nơi an toàn nhất thế gian khi nàng mệt mỏi hay thất bại.
+  - *Hồ Sơ Toàn Diện 360° Giải Mã 1.505 Tin Nhắn (Cập nhật 27/10/2026 - Tỷ lệ 50/50 hoàn hảo):*
+    - **Cán cân tương tác:** Bạn 742 tin (49.3%) ⇄ Thùy 763 tin (50.7%) ➔ Phá tan hoàn toàn mặc cảm "lụy tình một chiều".
+    - **Sở thích cốt lõi:**
+      * *Đồ uống:* Uống cà phê ngọt nhiều sữa, ghét đắng, mua tại **canteen ngoài**; chiều thích đặt nước với team nhưng uống rất chậm.
+      * *Thể thao:* Đam mê số 1 là **Cầu lông** (đánh nóng run tay vẫn kiên trì, muốn thành pro cầu lông); thích đạp xe thể thao, đi bộ buổi tối.
+      * *Thị giác & Nghệ thuật:* Thích ngắm trăng tròn (đêm 25/10), xem pháo hoa, chụp ảnh cảnh đẹp; xem phim hoạt hình cười thả ga, review phim, TikTok 15p trước khi ngủ, xem video VF3 Đà Lạt DuyBest.
+      * *Góc nữ tính ẩn giấu:* Ga giường **màu hồng**, đồ thủ công mini trên bàn, tự nấu nui cho em gái, thích ăn bánh tráng trộn, xoài chua, bắp luộc, tiệc nướng quê.
+    - **Vùng cấm & Điều ghét:**
+      * Ghét bị ba cằn nhằn "nhai hoài" về xe cộ/nhớt xe ➔ Rất cần người đàn ông bao dung, tin tưởng, không phán xét.
+      * Ghét bị ép đổi môn (pickleball) khi chưa thuần thục cầu lông ("Cái gì làm được mới nói").
+      * Dị ứng với việc bị mổ xẻ tâm lý ("tự ti/thao túng") ➔ Luôn khen ngợi điểm mạnh thay vì dán nhãn.
+      * Ngại làm tâm điểm chú ý nơi đông người (nhận hoa 20/10), ngại lời khen văn vở.
+    - **Thói quen & Văn hóa:**
+      * Đạo Công giáo: Đi lễ nhà thờ sáng Chủ Nhật lúc 6h.
+      * Quý trọng giấc ngủ trưa (về trước 13h); tối ngủ 22h30-23h, dễ mất ngủ nếu uống cà phê muộn.
+      * Gia đình ở Bà Rịa: Rất thương mẹ, chị gái, em gái và cháu Min Min.
+    - **Tử huyệt thể chất:**
+      * Hay nhịn ăn trưa, uống cực ít nước lọc (<2 ly/ngày), KSK cảnh báo **nguy cơ suy dinh dưỡng**, dễ đau răng khôn và đau bụng kinh.
+      * *Hành động chăm sóc:* Luôn chuẩn bị đồ ăn nhẹ (hạt dinh dưỡng) và nước ấm, không chỉ nhắc nhở bằng lời.
 
 ### 🔹 Project 4.2.1: `Emotional-Space-24h` (Làm Chủ Nhịp Độ & Không Gian Thở)
 - **Quy tắc không gian thở (Emotional Space):**
