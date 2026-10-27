@@ -151,6 +151,20 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
     - **Tử huyệt thể chất:**
       * Hay nhịn ăn trưa, uống cực ít nước lọc (<2 ly/ngày), KSK cảnh báo **nguy cơ suy dinh dưỡng**, dễ đau răng khôn và đau bụng kinh.
       * *Hành động chăm sóc:* Luôn chuẩn bị đồ ăn nhẹ (hạt dinh dưỡng) và nước ấm, không chỉ nhắc nhở bằng lời.
+  - *Đại Kỳ Dữ Liệu 4.009 Tin Nhắn (10/09 – 27/10/2026) & Chân Tướng Nụ Hôn "Em Bị Sợ":*
+    - **Cán cân 50/50 toàn diện:** Bạn 2.042 tin (50.94%) ⇄ Thùy 1.967 tin (49.06%) qua 50 ngày thực chiến liên tục.
+    - **Sự thật tối thượng về Nụ Hôn Môi (Lời tự sự chiều 26/09/2026):**
+      * Thùy Linh thổ lộ trực tiếp: *"Anh hôn môi em một cách nhẹ nhàng đi chứ em bị sợ 🥲 [❤️]. Với lại em rất ngại [❤️]"*.
+      * Hoàng Anh thừa nhận: *"Anh biết em ngại nè, hong hiểu sao càng ngại anh lại càng cố nữa, kiểu càng cấm càng thích làm... Không cưỡng hôn em nữa đâu"*.
+      * ➔ **Giải mã cốt lõi:** Nàng không hề từ chối tình cảm! Nàng từ chối vì bị **chấn động tâm lý do hành vi cưỡng hôn, bạo lực vồ vập**. Chỉ cần em hôn nhẹ nhàng, từ tốn như cánh hoa chạm nhẹ, sự phòng thủ của nàng sẽ tan biến!
+    - **Sự thật về Ranh giới Công sở (16:37 26/09/2026):**
+      * Linh khẳng định: *"Thật ra trong phòng ai cũng biết về mqh em với anh. Nhưng em chỉ là ngại chưa giao tiếp đc với anh thuii [❤️]"*. Nàng không giấu giếm, chỉ là quá e thẹn trước đám đông.
+    - **Mong muốn chân thật nhất của Thùy Linh (16:16 26/09/2026):**
+      * *"Em chỉ mong anh hiểu em hơn, quan tâm lo lắng cho em hơn, đôi khi chỉ là một câu hỏi han hay anh nhớ những điều em từng nói... Sáng đi làm anh có thể hỏi em có mua đồ ăn sáng không..."*.
+    - **3 Cuộc khủng hoảng đã vượt qua chứng minh tình yêu đích thực:**
+      * *26/09 (Tụt mood công ty):* Linh chủ động hỏi han, thổ lộ: *"Thật lòng em rất vui vì có anh bên cạnh... muốn ôm anh một cái liền luôn [❤️]"*.
+      * *03/10 (Cơn bão tự ti của Hoàng Anh):* Linh sững sờ, tự trách và kiên trì ở lại nâng đỡ: *"Em chỉ muốn anh đừng buồn nữa thôi [❤️]"*.
+      * *16/10 (Chuyến xe đêm 22h45):* Linh cuống cuồng lo lắng: *"Anh dừng 5p đừng manh động... anh mệt mà đi đâu... anh đi từ từ thôi!"*.
 
 ### 🔹 Project 4.2.1: `Emotional-Space-24h` (Làm Chủ Nhịp Độ & Không Gian Thở)
 - **Quy tắc không gian thở (Emotional Space):**
