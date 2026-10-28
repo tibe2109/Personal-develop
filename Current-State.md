@@ -20,6 +20,7 @@
 3. **Chuyển Hóa Thành "The Grounded Mountain Frame":** Người đàn ông vững chãi, không bị dao động bởi sự cộc lốc của đối phương, tập trung rèn luyện Gym 17:30 chiều nay, làm chủ dự án FTI-AM và thi chứng chỉ PSM I.
 4. **Hành Động Chăm Sóc Thực Tế (Nudge):** Tinh tế để hạt dinh dưỡng, chuẩn bị nước ấm, tặng không gian thở, khen ngợi thực chứng và tôn trọng đức tin Công giáo của nàng.
 5. **Chuẩn Hóa Hồ Sơ Thùy Linh (Dev FE & Mobile):** Nàng là **Developer chuyên về Front-End (FE) & Mobile**, làm dự án khác tại FTI (không làm dự án cam2g). Cặp đôi công nghệ kinh điển: Backend Lead x FE/Mobile Dev!
+6. **Hóa Giải Nghịch Lý Khoảng Cách & Thang Máy:** Bóc trần điểm mù "nàng phản kháng nhưng em hôn thì hôn thôi tại em thích" là nguyên nhân nàng giữ khoảng cách vô thức để tự vệ; giải mã vì sao nàng thoải mái với đồng nghiệp nam (zero áp lực thể xác). Ghi nhận Linh đã biết buồn và tự giác điều chỉnh bớt giỡn sau khi em nhắc nhở.
 
 ---
 
