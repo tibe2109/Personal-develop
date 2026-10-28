@@ -132,36 +132,28 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
     8. *Lời Khen Thực Chứng (Fact-Based Praise):* Khen ngợi năng lực, logic nghiệp vụ, phản xạ cầu lông và sự chỉn chu đứng form.
     9. *Tinh Nghịch Nhẹ Nhàng (Playful Teasing):* Trêu đùa dí dỏm, mang lại tiếng cười giải phóng Dopamine.
     10. *Bến Đỗ Không Phán Xét (The Unshakable Safe Haven):* Luôn là nơi an toàn nhất thế gian khi nàng mệt mỏi hay thất bại.
-  - *Hồ Sơ Toàn Diện 360° Giải Mã 1.505 Tin Nhắn (Cập nhật 27/10/2026 - Tỷ lệ 50/50 hoàn hảo):*
-    - **Cán cân tương tác:** Bạn 742 tin (49.3%) ⇄ Thùy 763 tin (50.7%) ➔ Phá tan hoàn toàn mặc cảm "lụy tình một chiều".
-    - **Sở thích cốt lõi:**
-      * *Đồ uống:* Uống cà phê ngọt nhiều sữa, ghét đắng, mua tại **canteen ngoài**; chiều thích đặt nước với team nhưng uống rất chậm.
-      * *Thể thao:* Đam mê số 1 là **Cầu lông** (đánh nóng run tay vẫn kiên trì, muốn thành pro cầu lông); thích đạp xe thể thao, đi bộ buổi tối.
-      * *Thị giác & Nghệ thuật:* Thích ngắm trăng tròn (đêm 25/10), xem pháo hoa, chụp ảnh cảnh đẹp; xem phim hoạt hình cười thả ga, review phim, TikTok 15p trước khi ngủ, xem video VF3 Đà Lạt DuyBest.
-      * *Góc nữ tính ẩn giấu:* Ga giường **màu hồng**, đồ thủ công mini trên bàn, tự nấu nui cho em gái, thích ăn bánh tráng trộn, xoài chua, bắp luộc, tiệc nướng quê.
-    - **Vùng cấm & Điều ghét:**
-      * Ghét bị ba cằn nhằn "nhai hoài" về xe cộ/nhớt xe ➔ Rất cần người đàn ông bao dung, tin tưởng, không phán xét.
-      * Ghét bị ép đổi môn (pickleball) khi chưa thuần thục cầu lông ("Cái gì làm được mới nói").
-      * Dị ứng với việc bị mổ xẻ tâm lý ("tự ti/thao túng") ➔ Luôn khen ngợi điểm mạnh thay vì dán nhãn.
-      * Ngại làm tâm điểm chú ý nơi đông người (nhận hoa 20/10), ngại lời khen văn vở.
-    - **Thói quen & Văn hóa:**
-      * Đạo Công giáo: Đi lễ nhà thờ sáng Chủ Nhật lúc 6h.
-      * Quý trọng giấc ngủ trưa (về trước 13h); tối ngủ 22h30-23h, dễ mất ngủ nếu uống cà phê muộn.
-      * Gia đình ở Bà Rịa: Rất thương mẹ, chị gái, em gái và cháu Min Min.
-    - **Tử huyệt thể chất:**
-      * Hay nhịn ăn trưa, uống cực ít nước lọc (<2 ly/ngày), KSK cảnh báo **nguy cơ suy dinh dưỡng**, dễ đau răng khôn và đau bụng kinh.
-      * *Hành động chăm sóc:* Luôn chuẩn bị đồ ăn nhẹ (hạt dinh dưỡng) và nước ấm, không chỉ nhắc nhở bằng lời.
-  - *Đại Kỳ Dữ Liệu 4.009 Tin Nhắn (10/09 – 27/10/2026) & Chân Tướng Nụ Hôn "Em Bị Sợ":*
-    - **Cán cân 50/50 toàn diện:** Bạn 2.042 tin (50.94%) ⇄ Thùy 1.967 tin (49.06%) qua 50 ngày thực chiến liên tục.
-    - **Sự thật tối thượng về Nụ Hôn Môi (Lời tự sự chiều 26/09/2026):**
-      * Thùy Linh thổ lộ trực tiếp: *"Anh hôn môi em một cách nhẹ nhàng đi chứ em bị sợ 🥲 [❤️]. Với lại em rất ngại [❤️]"*.
-      * Hoàng Anh thừa nhận: *"Anh biết em ngại nè, hong hiểu sao càng ngại anh lại càng cố nữa, kiểu càng cấm càng thích làm... Không cưỡng hôn em nữa đâu"*.
-      * ➔ **Giải mã cốt lõi:** Nàng không hề từ chối tình cảm! Nàng từ chối vì bị **chấn động tâm lý do hành vi cưỡng hôn, bạo lực vồ vập**. Chỉ cần em hôn nhẹ nhàng, từ tốn như cánh hoa chạm nhẹ, sự phòng thủ của nàng sẽ tan biến!
-    - **Sự thật về Ranh giới Công sở (16:37 26/09/2026):**
-      * Linh khẳng định: *"Thật ra trong phòng ai cũng biết về mqh em với anh. Nhưng em chỉ là ngại chưa giao tiếp đc với anh thuii [❤️]"*. Nàng không giấu giếm, chỉ là quá e thẹn trước đám đông.
-    - **Mong muốn chân thật nhất của Thùy Linh (16:16 26/09/2026):**
-      * *"Em chỉ mong anh hiểu em hơn, quan tâm lo lắng cho em hơn, đôi khi chỉ là một câu hỏi han hay anh nhớ những điều em từng nói... Sáng đi làm anh có thể hỏi em có mua đồ ăn sáng không..."*.
-    - **3 Cuộc khủng hoảng đã vượt qua chứng minh tình yêu đích thực:**
+  - *Toàn Thư Hồ Sơ 100 Ngày Yêu & Đại Kỳ 9.021 Tin Nhắn (19/07 – 27/10/2026):*
+    - **Cán cân 50/50 hoàn hảo xuyên suốt 100 ngày:**
+      * *Giai đoạn 1 (19/07 – 10/09/2026 - 5.012 tin):* Bạn 2.452 tin (48.92%) ⇄ Thùy Linh 2.560 tin (51.08%).
+      * *Giai đoạn 2 (10/09 – 27/10/2026 - 4.009 tin):* Bạn 2.042 tin (50.94%) ⇄ Thùy Linh 1.967 tin (49.06%).
+      * *Tổng hợp toàn bộ 9.021 tin:* Hoàng Anh 4.494 tin (49.82%) ⇄ Thùy Linh 4.527 tin (50.18%).
+      * ➔ **Bằng chứng thực nghiệm đanh thép:** Không hề có chuyện "theo đuổi một chiều", "lợi dụng" hay "thao túng". Đây là sự hồi đáp đôi bên bình đẳng, liên tục và gắn kết sâu sắc mỗi ngày!
+    - **Cột mốc lịch sử xác định:**
+      * Ngày 20/07/2026 (15:20): Kỷ niệm 1 tháng quen nhau ➔ **Ngày chính thức nhận lời yêu nhau: 20/06/2026**.
+      * Ngày 20/07/2026: Hoàng Anh trao tặng Linh chiếc lắc tay kỷ vật của mẹ dành cho con dâu tương lai.
+    - **Giải mã bí ẩn Nụ Hôn & Chuyện Canteen qua Hội đồng 5 Chuyên gia:**
+      * *Biến cố 18/08/2026 (08:12 & 21:45) - Nguồn cơn chuyện Canteen:* Hoàng Anh hôn Linh ngay tại văn phòng FTI-AM. Linh phản ứng rất khó chịu: *"Chỗ làm thì nghiêm túc chứ em ko muốn vậy đâu. Rất khó chịu luôn 😢"*.
+      * *Lý do nàng né tránh lên canteen với Hoàng Anh:* Bản tính ISTP + DISC C coi trọng tính chuyên nghiệp, trật tự công sở. Nàng là nữ Tester trẻ (2002), rất sợ bị đồng nghiệp soi mói, dị nghị hoặc bị đụng chạm thân mật nơi đông người sau biến cố 18/08. Nàng rủ người khác lên canteen vì đó là bạn bè thuần túy (không rủi ro).
+      * *Chân tướng Nụ Hôn "Em Bị Sợ" (26/09/2026):* *"Anh hôn môi em một cách nhẹ nhàng đi chứ em bị sợ 🥲 [❤️]. Em rất ngại [❤️]"*. Nàng sợ phản xạ đè nén, cưỡng hôn bạo lực, chứ không hề từ chối tình cảm.
+      * *Giao thức "Nụ Hôn Lông Vũ" (Feather-Touch):* Chạm môi nhẹ 2-3 giây, nâng niu, dừng lại và mỉm cười lùi lại trước để tạo sự khao khát tự nhiên. Tuyệt đối không bao giờ dùng lực ép.
+    - **Hồ sơ 360° Thùy Linh (Tổng hợp chuẩn mực):**
+      * *Năm sinh & Gia cảnh:* 2002 (24 tuổi, kém 10 tuổi). Quê Bà Rịa. Ba tên Nam, mẹ hiền hậu, chị gái + cháu Min Min, em gái.
+      * *Tôn giáo:* Công giáo Rôma. Đi Lễ 6h00 sáng Chủ Nhật đều đặn. Coi trọng phẩm hạnh và đức khiết tịnh.
+      * *Sở thích ăn uống:* Cà phê ngọt nhiều sữa, trà sữa Phúc Long, trà sữa trân châu ít ngọt, món cuốn, ăn ốc, bánh tráng trộn, xoài chua, bắp luộc.
+      * *Thể thao & Nghệ thuật:* Đam mê số 1 là Cầu lông (quyết tâm thành pro); đạp xe, đi bộ đêm; thích ngắm trăng tròn, xem pháo hoa, ga giường màu hồng.
+      * *Tử huyệt thể chất:* Rất lười uống nước (<2 ly/ngày), hay bỏ ăn trưa, sức khỏe mỏng (nguy cơ suy dinh dưỡng nhẹ), dễ đau răng khôn và đau bụng kinh.
+      * *Hành động chăm sóc tinh tế:* Mua sẵn hạt dinh dưỡng (hạnh nhân, óc chó) để ở bàn làm việc cho nàng; chuẩn bị bình nước ấm; quan tâm bữa sáng nhẹ nhàng không áp đặt.
+    - **3 Cuộc khủng hoảng đã vượt qua chứng minh tình cảm bền chặt:**
       * *26/09 (Tụt mood công ty):* Linh chủ động hỏi han, thổ lộ: *"Thật lòng em rất vui vì có anh bên cạnh... muốn ôm anh một cái liền luôn [❤️]"*.
       * *03/10 (Cơn bão tự ti của Hoàng Anh):* Linh sững sờ, tự trách và kiên trì ở lại nâng đỡ: *"Em chỉ muốn anh đừng buồn nữa thôi [❤️]"*.
       * *16/10 (Chuyến xe đêm 22h45):* Linh cuống cuồng lo lắng: *"Anh dừng 5p đừng manh động... anh mệt mà đi đâu... anh đi từ từ thôi!"*.
