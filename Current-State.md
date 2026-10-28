@@ -5,7 +5,7 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-10-28 11:25:00 +07:00` (Trưa Thứ Tư)
+- **Thời gian cập nhật:** `2026-10-28 11:30:00 +07:00` (Trưa Thứ Tư)
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
 - **Mã định danh phiên gần nhất:** [`Sessions/10-2026/2026-10-28-Session-05-Kim-Chi-Nam-Quyen-Ru-Va-Xay-Dung-Hon-Nhan-Ben-Vung.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/10-2026/2026-10-28-Session-05-Kim-Chi-Nam-Quyen-Ru-Va-Xay-Dung-Hon-Nhan-Ben-Vung.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
@@ -19,6 +19,7 @@
 2. **Khóa Chặt 6 Sai Lầm Xương Máu Tuyệt Đối Không Tái Phạm:** (1) Cưỡng ép thể xác / cưỡng hôn bạo lực (26/09); (2) Thân mật thiếu tế nhị tại văn phòng FTI-AM (18/08); (3) Hội chứng "Thức đợi" & Tra khảo kiểu Needy Boy; (4) Đổ bão tự ti và bi lụy lên đầu bạn gái (03/10); (5) Đóng vai cha cằn nhằn / mổ xẻ tâm lý; (6) Thiếu chính trực / "đứng núi này trông núi nọ".
 3. **Chuyển Hóa Thành "The Grounded Mountain Frame":** Người đàn ông vững chãi, không bị dao động bởi sự cộc lốc của đối phương, tập trung rèn luyện Gym 17:30 chiều nay, làm chủ dự án FTI-AM và thi chứng chỉ PSM I.
 4. **Hành Động Chăm Sóc Thực Tế (Nudge):** Tinh tế để hạt dinh dưỡng, chuẩn bị nước ấm, tặng không gian thở, khen ngợi thực chứng và tôn trọng đức tin Công giáo của nàng.
+5. **Chuẩn Hóa Hồ Sơ Thùy Linh (Dev FE & Mobile):** Nàng là **Developer chuyên về Front-End (FE) & Mobile**, làm dự án khác tại FTI (không làm dự án cam2g). Cặp đôi công nghệ kinh điển: Backend Lead x FE/Mobile Dev!
 
 ---
 

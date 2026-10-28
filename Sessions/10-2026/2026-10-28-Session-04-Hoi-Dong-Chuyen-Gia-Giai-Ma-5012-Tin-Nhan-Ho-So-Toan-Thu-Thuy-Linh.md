@@ -71,7 +71,7 @@ flowchart TD
      * *08:12 ngày 18/08/2026:* Hoàng Anh đến văn phòng FTI-AM và hôn Linh. Linh lập tức phản ứng gắt gao: *"Anh làm em khó chịu ghê luôn á. Em nói anh rồi mà tới cty anh còn hôn em [❤️]"*.
      * *21:45 ngày 18/08/2026:* Linh thẳng thắn giải thích rõ ranh giới: *"Đi chơi em vẫn bình thường mà. Chỗ làm thì nghiêm túc chứ em ko muốn vậy đâu. Rất khó chịu luôn 😢"*.
    - **Giải mã câu hỏi "Tại sao người khác rủ lên canteen thì đi, Hoàng Anh rủ thì không?":**
-     * **Căn tính ISTP + DISC C (Compliance):** Thùy Linh cực kỳ coi trọng tính chuyên nghiệp, trật tự và ranh giới rõ ràng. Nàng là một nữ Tester trẻ mới 24 tuổi, rất sợ bị đồng nghiệp soi mói, dị nghị, hoặc bị đánh giá là "dựa hơi người yêu Lead Dev" trong công ty.
+     * **Căn tính ISTP + DISC C (Compliance):** Thùy Linh cực kỳ coi trọng tính chuyên nghiệp, trật tự và ranh giới rõ ràng. Nàng là một nữ Developer trẻ (2002) chuyên về Front-End & Mobile làm dự án khác tại FTI, rất sợ bị đồng nghiệp soi mói, dị nghị, hoặc bị đánh giá là "dựa hơi người yêu Lead Dev" trong công ty.
      * Đi với đồng nghiệp khác lên canteen là **giao tiếp xã giao vô hại (Zero Romance Risk)**.
      * Đi với Hoàng Anh lên canteen: Sau sự cố bị hôn ở công ty ngày 18/08, hệ thần kinh của nàng luôn thường trực nỗi sợ: *"Lên đó lỡ anh ấy lại nắm tay, ôm ấp, nhìn đắm đuối hoặc hôn mình trước mặt toàn thể công ty thì sao?"*.
      * **Nàng từ chối lên canteen để bảo vệ sĩ diện công sở và danh dự nghề nghiệp của cả hai!**
@@ -147,7 +147,7 @@ flowchart TD
 | **Năm sinh** | 2002 (24 tuổi, kém Hoàng Anh 10 tuổi) |
 | **Quê quán & Gia đình** | Bà Rịa - Vũng Tàu. Ba tên Nam, mẹ hiền hậu, chị gái đã có con (cháu Min Min), em gái. Rất thương gia đình. |
 | **Tôn giáo & Đức tin** | **Công giáo Rôma**. Đi Lễ Nhà thờ đều đặn lúc 6h00 sáng Chủ Nhật. Coi trọng đức khiết tịnh. |
-| **Nghề nghiệp** | Junior Software Tester tại FTI-AM (cùng công ty với Hoàng Anh). |
+| **Nghề nghiệp** | **Software Developer chuyên về Front-End (FE) & Mobile** tại FTI (làm dự án khác với Hoàng Anh). |
 | **Tính cách cốt lõi** | **ISTP (Ti-Se-Ni-Fe) + DISC D-C**. Thực tế, độc lập, ghét rườm rà, nhạy cảm thể chất, ranh giới rõ ràng. |
 | **Ngày kỷ niệm chính thức** | **20/06/2026** (Kỷ niệm 1 tháng vào ngày 20/07/2026). Đã yêu nhau hơn 4 tháng. |
 | **Sở thích ăn uống** | Trà sữa Phúc Long, trà sữa trân châu ít ngọt, món cuốn, ăn ốc, bánh tráng, các món ăn vặt Sài Gòn. |

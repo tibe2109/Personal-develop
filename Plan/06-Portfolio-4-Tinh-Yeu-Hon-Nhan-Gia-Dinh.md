@@ -160,7 +160,7 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
       * *16/10 (Chuyến xe đêm 22h45):* Linh cuống cuồng lo lắng: *"Anh dừng 5p đừng manh động... anh mệt mà đi đâu... anh đi từ từ thôi!"*.
     - **Những Điểm Yếu Cốt Lõi Trong Mối Quan Hệ Cần Khắc Phục:**
       * *1. Lệch pha phong cách giao tiếp (INFP x ISTP):* Hoàng Anh cần xác nhận cảm xúc liên tục (validation), dễ overthinking; Linh cộc lốc, thực tế, ngại biểu lộ tình cảm (Fe thấp). ➔ *Giải pháp:* Tách biệt cảm xúc, không suy diễn khi nàng im lặng, để dành sự ngọt ngào khi gặp trực tiếp.
-      * *2. Chênh lệch tuổi tác & Vị thế công sở (Lead Dev 1992 vs. Junior Tester 2002):* Nàng sợ mang tiếng dựa dẫm, sợ bị soi mói tại FTI-AM. ➔ *Giải pháp:* Ranh giới công sở nghiêm túc 100%, bảo vệ uy tín chuyên nghiệp cho nàng.
+      * *2. Chênh lệch tuổi tác & Vị thế công sở (Senior Lead Dev 1992 vs. FE/Mobile Dev 2002, cùng công ty khác dự án):* Nàng là nữ Dev trẻ tuổi có lòng tự trọng nghề nghiệp cao, sợ mang tiếng "yêu đồng nghiệp" làm lu mờ năng lực chuyên môn độc lập của mình. ➔ *Giải pháp:* Ranh giới công sở nghiêm túc 100%, bảo vệ uy tín chuyên nghiệp cho nàng.
       * *3. Bẫy gắn kết Lo âu - Né tránh (Anxious - Avoidant Loop):* Em càng dồn dập giải thích, nàng càng lùi vào "hang động". ➔ *Giải pháp:* Quy tắc 24h không gian thở, không khủng bố tin nhắn.
       * *4. Nhịp sinh học & Sức khỏe chưa tối ưu:* Nàng lười uống nước, hay bỏ bữa trưa; em từng thức khuya đợi tin nhắn. ➔ *Giải pháp:* Cả hai giữ nếp sống lành mạnh, em kiến tạo môi trường hạt dinh dưỡng + nước ấm.
       * *5. Tương tác qua màn hình nhiều hơn đời thực:* Hơn 9.000 tin nhắn dễ sinh ảo ảnh. ➔ *Giải pháp:* Chuyển dịch sang trải nghiệm thực tế (chơi cầu lông, đi dạo, ăn uống ngon, du lịch).

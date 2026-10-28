@@ -125,7 +125,7 @@ flowchart TD
 3. **Sự Quan Tâm Sâu Sắc Đến Gia Đình & Sự Sống Của Nàng:**
    - Biến cố dượng Linh bị tai nạn (26/07), em đã chia sẻ, động viên, quan tâm đến cháu Min Min. Đây là điểm chạm thiêng liêng đối với một cô gái Công giáo nề nếp.
 4. **Trụ Cột Chuyên Môn IT Vững Vàng:**
-   - Là Senior Lead gánh vác phần mềm (cam2g, Playwright AI). Sự am hiểu công nghệ của em là chỗ dựa tri thức khiến nàng (với vai trò Tester) luôn nể phục và tự hào ngầm.
+   - Là Senior Lead gánh vác phần mềm (cam2g, Playwright AI, Backend). Nàng là Developer chuyên về Front-End & Mobile ở một dự án khác. Cả hai cùng là dân lập trình, có chung ngôn ngữ tư duy logic và công nghệ, tạo nên sự thấu hiểu và ngưỡng mộ lẫn nhau.
 5. **Cán Cân Đối Thoại 50/50 Tôn Trọng Tuyệt Đối:**
    - Duy trì sự bình đẳng, không độc đoán, biết đùa giỡn dí dỏm (*xe đạp đua, trêu đùa bánh tráng, trà sữa*) tạo ra bầu không khí nhẹ nhõm, thư thái.
 
