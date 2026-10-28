@@ -143,11 +143,12 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
       * Ngày 20/07/2026: Hoàng Anh trao tặng Linh chiếc lắc tay kỷ vật của mẹ dành cho con dâu tương lai.
     - **Giải mã bí ẩn Nụ Hôn & Chuyện Canteen qua Hội đồng 5 Chuyên gia:**
       * *Biến cố 18/08/2026 (08:12 & 21:45) - Nguồn cơn chuyện Canteen:* Hoàng Anh hôn Linh ngay tại văn phòng FTI-AM. Linh phản ứng rất khó chịu: *"Chỗ làm thì nghiêm túc chứ em ko muốn vậy đâu. Rất khó chịu luôn 😢"*.
-      * *Lý do nàng né tránh lên canteen với Hoàng Anh:* Bản tính ISTP + DISC C coi trọng tính chuyên nghiệp, trật tự công sở. Nàng là nữ Tester trẻ (2002), rất sợ bị đồng nghiệp soi mói, dị nghị hoặc bị đụng chạm thân mật nơi đông người sau biến cố 18/08. Nàng rủ người khác lên canteen vì đó là bạn bè thuần túy (không rủi ro).
+      * *Lý do nàng né tránh lên canteen với Hoàng Anh:* Bản tính ISTP + DISC C coi trọng tính chuyên nghiệp, trật tự công sở. Nàng là nữ Developer trẻ (2002) chuyên về Front-End (FE) & Mobile làm dự án khác tại công ty, rất sợ bị đồng nghiệp soi mói, dị nghị hoặc bị đụng chạm thân mật nơi đông người sau biến cố 18/08. Nàng rủ người khác lên canteen vì đó là bạn bè/đồng nghiệp thuần túy (không rủi ro).
       * *Chân tướng Nụ Hôn "Em Bị Sợ" (26/09/2026):* *"Anh hôn môi em một cách nhẹ nhàng đi chứ em bị sợ 🥲 [❤️]. Em rất ngại [❤️]"*. Nàng sợ phản xạ đè nén, cưỡng hôn bạo lực, chứ không hề từ chối tình cảm.
       * *Giao thức "Nụ Hôn Lông Vũ" (Feather-Touch):* Chạm môi nhẹ 2-3 giây, nâng niu, dừng lại và mỉm cười lùi lại trước để tạo sự khao khát tự nhiên. Tuyệt đối không bao giờ dùng lực ép.
     - **Hồ sơ 360° Thùy Linh (Tổng hợp chuẩn mực):**
-      * *Năm sinh & Gia cảnh:* 2002 (24 tuổi, kém 10 tuổi). Quê Bà Rịa. Ba tên Nam, mẹ hiền hậu, chị gái + cháu Min Min, em gái.
+      * *Năm sinh & Nghề nghiệp:* 2002 (24 tuổi, kém 10 tuổi). **Software Developer chuyên về Front-End (FE) & Mobile** tại FTI (làm dự án độc lập, khác dự án cam2g của Hoàng Anh). Tư duy logic và thẩm mỹ giao diện rất sắc sảo (ISTP Ti-Se).
+      * *Gia cảnh & Quê quán:* Quê Bà Rịa. Ba tên Nam, mẹ hiền hậu, chị gái + cháu Min Min, em gái.
       * *Tôn giáo:* Công giáo Rôma. Đi Lễ 6h00 sáng Chủ Nhật đều đặn. Coi trọng phẩm hạnh và đức khiết tịnh.
       * *Sở thích ăn uống:* Cà phê ngọt nhiều sữa, trà sữa Phúc Long, trà sữa trân châu ít ngọt, món cuốn, ăn ốc, bánh tráng trộn, xoài chua, bắp luộc.
       * *Thể thao & Nghệ thuật:* Đam mê số 1 là Cầu lông (quyết tâm thành pro); đạp xe, đi bộ đêm; thích ngắm trăng tròn, xem pháo hoa, ga giường màu hồng.
