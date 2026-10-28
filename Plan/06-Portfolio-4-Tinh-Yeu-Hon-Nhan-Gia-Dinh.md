@@ -172,6 +172,15 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
       * 🚫 *4. Đổ bão tự ti lên đầu bạn gái (Sự cố 03/10):* Than thở bi lụy, đòi chia tay, bắt bạn gái phải đóng vai "người mẹ dỗ dành". ➔ Chuyển hóa cảm xúc qua Gym, ghi chép và coaching, làm bến đỗ vững chãi cho nàng.
       * 🚫 *5. Đóng vai cha cằn nhằn / Mổ xẻ tâm lý:* Dán nhãn "tự ti/thao túng", cằn nhằn xe cộ/nhớt xe. ➔ Chỉ khen ngợi thực chứng, dùng Nudge và hài hước bao dung.
       * 🚫 *6. Thiếu chính trực / "Đứng núi này trông núi nọ":* Dao động trước hoài niệm quá khứ. ➔ Nhất quán, chung thủy sắt son 100% với một người duy nhất.
+    - **Bộ Quy Chuẩn: Nghệ Thuật Gần Gũi An Toàn & Nhận Lại Yêu Thương Đúng Cách:**
+      * *1. 3 Nấc Thang Gần Gũi Thể Xác Không Kích Hoạt Báo Động:*
+        - *Nấc 1 (Đụng chạm phi tình dục):* Nắm tay khi sang đường, vuốt nhẹ lọn tóc, khoác nhẹ vai khi đi dạo. Kích hoạt Oxytocin mà không có áp lực tình dục.
+        - *Nấc 2 (Cái ôm bến đỗ an lành):* Ôm nàng nhẹ nhàng 5-7 giây để nàng tựa đầu vào ngực, rồi **chủ động buông trước** để tạo khoảng trống ngọt ngào.
+        - *Nấc 3 (Nụ Hôn Lông Vũ - Chỉ ở nơi riêng tư):* Chậm rãi, chạm môi nhẹ 2-3 giây rồi lùi lại mỉm cười. Tuyệt đối không dùng lực cơ bắp hay cưỡng ép.
+      * *2. Nghệ Thuật Để Được Yêu Thương Đúng Cách (Dẫn Dắt Nàng ISTP):*
+        - *Nguyên lý Thưởng Nóng (Positive Reinforcement):* Khen ngợi và cảm ơn rạng rỡ mỗi khi nàng hỏi han, chúc ngủ ngon hoặc nhắc áo mưa. Nàng thấy anh hạnh phúc sẽ tự giác làm nhiều hơn.
+        - *Bản Hướng Dẫn Sử Dụng Trái Tim Em (Vulnerability without Neediness):* Nói rõ nhu cầu cụ thể: "Chỉ cần em mỉm cười và hỏi han anh một câu là anh thấy ấm lòng cả ngày rồi". Không trách móc, không bắt đoán ý.
+        - *Năng Lượng Ngọn Núi (The Mountain):* Khi em vững chãi, không đòi hỏi, không tra khảo, nàng sẽ tự khắc thấy an toàn và chủ động nép vào lòng em.
 
 ### 🔹 Project 4.2.1: `Emotional-Space-24h` (Làm Chủ Nhịp Độ & Không Gian Thở)
 - **Quy tắc không gian thở (Emotional Space):**
