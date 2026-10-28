@@ -5,7 +5,7 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-10-28 14:00:00 +07:00` (Đầu Giờ Chiều Thứ Tư)
+- **Thời gian cập nhật:** `2026-10-28 14:40:00 +07:00` (Chiều Thứ Tư)
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
 - **Mã định danh phiên gần nhất:** [`Sessions/10-2026/2026-10-28-Session-05-Kim-Chi-Nam-Quyen-Ru-Va-Xay-Dung-Hon-Nhan-Ben-Vung.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/10-2026/2026-10-28-Session-05-Kim-Chi-Nam-Quyen-Ru-Va-Xay-Dung-Hon-Nhan-Ben-Vung.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
@@ -22,6 +22,7 @@
 5. **Chuẩn Hóa Hồ Sơ Thùy Linh (Dev FE & Mobile):** Nàng là **Developer chuyên về Front-End (FE) & Mobile**, làm dự án khác tại FTI (không làm dự án cam2g). Cặp đôi công nghệ kinh điển: Backend Lead x FE/Mobile Dev!
 6. **Hóa Giải Nghịch Lý Khoảng Cách & Thang Máy:** Bóc trần điểm mù "nàng phản kháng nhưng em hôn thì hôn thôi tại em thích" là nguyên nhân nàng giữ khoảng cách vô thức để tự vệ; giải mã vì sao nàng thoải mái với đồng nghiệp nam (zero áp lực thể xác). Ghi nhận Linh đã biết buồn và tự giác điều chỉnh bớt giỡn sau khi em nhắc nhở.
 7. **Rà Soát Toàn Diện 6 Dấu Hiệu Vàng Thùy Linh Yêu Hoàng Anh Sâu Sắc:** (1) Thổ lộ tỉnh táo ngày 24/09 & 29/09 ("em cũng thích anh như vậy"); (2) Lời cầu xin nghẹn ngào đêm 03/10 ("mai mốt gặp anh vẫn cười với em cái nha"); (3) Lo lắng an nguy (16/10 "đừng manh động", nhắc chạy xe từ từ, đem áo mưa); (4) Sẵn sàng thay đổi hành vi vì cảm xúc của anh; (5) Báo cáo nhịp sống và chào ngủ ngon [❤️] suốt 100 ngày; (6) Khát khao hòa hợp và "muốn ôm anh 1 cái liền luôn".
+8. **Quy Chuẩn Gần Gũi An Toàn & Nhận Yêu Thương Đúng Cách:** 3 nấc thang đụng chạm thể xác an toàn (phi tình dục -> ôm bến đỗ 5-7s -> nụ hôn lông vũ); cơ chế "Thưởng nóng" và "Bản hướng dẫn trái tim không đòi hỏi" để nàng ISTP tự nguyện chăm sóc và yêu thương em.
 
 ---
 
