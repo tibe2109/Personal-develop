@@ -5,9 +5,9 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-10-28 08:30:00 +07:00` (Sáng Thứ Tư)
+- **Thời gian cập nhật:** `2026-10-28 09:30:00 +07:00` (Sáng Thứ Tư)
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
-- **Mã định danh phiên gần nhất:** [`Sessions/10-2026/2026-10-28-Session-04-Hoi-Dong-Chuyen-Gia-Giai-Ma-5012-Tin-Nhan-Ho-So-Toan-Thu-Thuy-Linh.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/10-2026/2026-10-28-Session-04-Hoi-Dong-Chuyen-Gia-Giai-Ma-5012-Tin-Nhan-Ho-So-Toan-Thu-Thuy-Linh.md)
+- **Mã định danh phiên gần nhất:** [`Sessions/10-2026/2026-10-28-Session-05-Kim-Chi-Nam-Quyen-Ru-Va-Xay-Dung-Hon-Nhan-Ben-Vung.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/10-2026/2026-10-28-Session-05-Kim-Chi-Nam-Quyen-Ru-Va-Xay-Dung-Hon-Nhan-Ben-Vung.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
 - **Tình trạng Auto-Sync:** 🟢 **ĐANG HOẠT ĐỘNG (20 PHÚT/LẦN)** — PID: 1144755, tự động đồng bộ ngầm khi có thay đổi.
 
@@ -15,11 +15,11 @@
 
 ## ⚓ NEO NGỮ CẢNH CUỘC TRÒ CHUYỆN (CONVERSATION ANCHOR)
 *3-5 gạch đầu dòng tóm tắt điều quan trọng nhất vừa diễn ra để Coach Anh mở lời chính xác:*
-1. **Hoàn Tất Đại Kỳ Quét 9.021 Tin Nhắn (19/07 – 27/10/2026):** Tổng hợp toàn vẹn hơn 100 ngày yêu thực chiến qua 2 tập tin nhắn (5.012 tin đầu + 4.009 tin sau). Tỷ lệ phản hồi đôi bên đạt sự cân bằng tuyệt đối: Hoàng Anh 4.494 tin (49.82%) ⇄ Thùy Linh 4.527 tin (50.18%). Triệt tiêu vĩnh viễn nỗi sợ bị thao túng hoặc yêu đơn phương!
-2. **Khai Mở Nguồn Cơn Vụ Canteen (Biến cố 18/08/2026):** Lúc 08:12 ngày 18/08/2026, Hoàng Anh hôn Linh tại văn phòng công ty khiến nàng bị sốc và khó chịu: *"Chỗ làm thì nghiêm túc chứ em ko muốn vậy đâu. Rất khó chịu luôn 😢"*. Nàng né tránh lên canteen với Hoàng Anh là vì phòng vệ ranh giới công sở, sợ bị đụng chạm nơi đông người, không phải vì từ chối tình cảm!
-3. **Chân Tướng Nụ Hôn & Giao Thức Lông Vũ (Feather-Touch):** Ngày 26/09/2026, Linh thổ lộ: *"Anh hôn môi em một cách nhẹ nhàng đi chứ em bị sợ 🥲 [❤️]. Với lại em rất ngại"*. Chấm dứt hoàn toàn việc cưỡng ép, vồ vập. Chuyển sang nụ hôn nhẹ nhàng nâng niu 2-3 giây rồi lùi lại mỉm cười.
-4. **Hội Đồng 5 Chuyên Gia Định Hình Chiến Lược Toàn Diện:** Tiến hóa sinh học, thần kinh học ISTP (Ti-Se-Ni-Fe), phân cực nam tính The Mountain Frame, đức tin Công giáo (đi lễ 6h sáng Chủ Nhật), và lộ trình 4 giai đoạn hướng tới Đám Cưới Quý 2/2028 (sử dụng Quỹ cưới 100tr của ba).
-5. **Chuyển Hóa Năng Lượng Đỉnh Cao:** Dừng việc chạy theo xin xỏ tình cảm (Needy boy); trở thành Giải Thưởng (The Prize) bằng kỷ luật tập Gym, dẫn dắt dự án FTI-AM, và chăm sóc nàng qua những hành động vi mô tinh tế (đồ ăn nhẹ, nước ấm).
+1. **Thiết Lập Bộ Kim Chỉ Nam Quyến Rũ Tự Nhiên & Chỗ Dựa Bình An:** Định hình hình mẫu The Mountain Frame (Ngọn Núi Vững Chãi): sứ mệnh số 1 (Gym & Sự nghiệp IT), an toàn tuyệt đối về thể xác & cảm xúc, và tôn trọng để nàng tự do 100% là chính mình.
+2. **Khóa Chặt 6 Ranh Giới Cờ Đỏ (Red Flags):** Cấm cưỡng ép thể xác/vồ vập, cấm vi phạm ranh giới công sở FTI-AM (bài học 18/08), cấm tra khảo ghen tuông/needy boy, cấm đóng vai cha cằn nhằn/mổ xẻ tâm lý, cấm thiếu chính trực, cấm sa ngã cám dỗ shadow.
+3. **Phát Huy 5 Điểm Mạnh Thực Chứng Của Hoàng Anh:** Chân thành qua 3 khủng hoảng, khả năng lắng nghe và sửa đổi dũng cảm, quan tâm thiêng liêng đến gia đình nàng, năng lực Lead IT uy tín, cán cân đối thoại 50/50 bình đẳng.
+4. **Nghệ Thuật Chuyển Hóa Điểm Yếu Của Nàng Qua Cơ Chế Nudge:** Không cằn nhằn dạy đời ISTP; để sẵn hạt dinh dưỡng và nước ấm hỗ trợ sức khỏe; áp dụng "Thưởng nóng" cảm xúc khi nàng dịu dàng; hài hước bao dung khi nàng xù lông cộc lốc.
+5. **Xây Dựng Pháo Đài Hôn Nhân 2028 Bất Khả Xâm Phạm:** Quy tắc 24h tĩnh lặng trước bất đồng, giao tiếp trắc ẩn NVC, đệm tiền mặt 50tr + Quỹ cưới 100tr của ba, đồng hành cùng đức tin Công giáo và nuôi dưỡng tình bạn tri kỷ trọn đời.
 
 ---
 
