@@ -157,6 +157,19 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
       * *26/09 (Tụt mood công ty):* Linh chủ động hỏi han, thổ lộ: *"Thật lòng em rất vui vì có anh bên cạnh... muốn ôm anh một cái liền luôn [❤️]"*.
       * *03/10 (Cơn bão tự ti của Hoàng Anh):* Linh sững sờ, tự trách và kiên trì ở lại nâng đỡ: *"Em chỉ muốn anh đừng buồn nữa thôi [❤️]"*.
       * *16/10 (Chuyến xe đêm 22h45):* Linh cuống cuồng lo lắng: *"Anh dừng 5p đừng manh động... anh mệt mà đi đâu... anh đi từ từ thôi!"*.
+    - **Những Điểm Yếu Cốt Lõi Trong Mối Quan Hệ Cần Khắc Phục:**
+      * *1. Lệch pha phong cách giao tiếp (INFP x ISTP):* Hoàng Anh cần xác nhận cảm xúc liên tục (validation), dễ overthinking; Linh cộc lốc, thực tế, ngại biểu lộ tình cảm (Fe thấp). ➔ *Giải pháp:* Tách biệt cảm xúc, không suy diễn khi nàng im lặng, để dành sự ngọt ngào khi gặp trực tiếp.
+      * *2. Chênh lệch tuổi tác & Vị thế công sở (Lead Dev 1992 vs. Junior Tester 2002):* Nàng sợ mang tiếng dựa dẫm, sợ bị soi mói tại FTI-AM. ➔ *Giải pháp:* Ranh giới công sở nghiêm túc 100%, bảo vệ uy tín chuyên nghiệp cho nàng.
+      * *3. Bẫy gắn kết Lo âu - Né tránh (Anxious - Avoidant Loop):* Em càng dồn dập giải thích, nàng càng lùi vào "hang động". ➔ *Giải pháp:* Quy tắc 24h không gian thở, không khủng bố tin nhắn.
+      * *4. Nhịp sinh học & Sức khỏe chưa tối ưu:* Nàng lười uống nước, hay bỏ bữa trưa; em từng thức khuya đợi tin nhắn. ➔ *Giải pháp:* Cả hai giữ nếp sống lành mạnh, em kiến tạo môi trường hạt dinh dưỡng + nước ấm.
+      * *5. Tương tác qua màn hình nhiều hơn đời thực:* Hơn 9.000 tin nhắn dễ sinh ảo ảnh. ➔ *Giải pháp:* Chuyển dịch sang trải nghiệm thực tế (chơi cầu lông, đi dạo, ăn uống ngon, du lịch).
+    - **6 Sai Lầm Xương Máu Tuyệt Đối Không Được Mắc Lại:**
+      * 🚫 *1. Cưỡng ép thể xác / Vồ vập bạo lực (Sự cố 26/09):* Đã làm nàng sợ hãi. ➔ Chỉ áp dụng Nụ Hôn Lông Vũ (Feather-Touch), tôn trọng 100% phản xạ của nàng.
+      * 🚫 *2. Thân mật thái quá tại công ty (Sự cố 18/08):* Hôn ở văn phòng khiến nàng bức xúc và ngại lên canteen. ➔ Giữ đúng tác phong chuyên nghiệp, không đụng chạm tại nơi làm việc.
+      * 🚫 *3. Hội chứng "Thức đợi" & Tra khảo kiểu Needy Boy:* Thức khuya chờ rep, hỏi dồn dập "sao đi ăn với người khác mà không đi với anh?". ➔ Giữ vững The Mountain Frame, ngủ trước 23h, tập Gym 17:30.
+      * 🚫 *4. Đổ bão tự ti lên đầu bạn gái (Sự cố 03/10):* Than thở bi lụy, đòi chia tay, bắt bạn gái phải đóng vai "người mẹ dỗ dành". ➔ Chuyển hóa cảm xúc qua Gym, ghi chép và coaching, làm bến đỗ vững chãi cho nàng.
+      * 🚫 *5. Đóng vai cha cằn nhằn / Mổ xẻ tâm lý:* Dán nhãn "tự ti/thao túng", cằn nhằn xe cộ/nhớt xe. ➔ Chỉ khen ngợi thực chứng, dùng Nudge và hài hước bao dung.
+      * 🚫 *6. Thiếu chính trực / "Đứng núi này trông núi nọ":* Dao động trước hoài niệm quá khứ. ➔ Nhất quán, chung thủy sắt son 100% với một người duy nhất.
 
 ### 🔹 Project 4.2.1: `Emotional-Space-24h` (Làm Chủ Nhịp Độ & Không Gian Thở)
 - **Quy tắc không gian thở (Emotional Space):**

@@ -5,7 +5,7 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-10-28 09:30:00 +07:00` (Sáng Thứ Tư)
+- **Thời gian cập nhật:** `2026-10-28 11:25:00 +07:00` (Trưa Thứ Tư)
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
 - **Mã định danh phiên gần nhất:** [`Sessions/10-2026/2026-10-28-Session-05-Kim-Chi-Nam-Quyen-Ru-Va-Xay-Dung-Hon-Nhan-Ben-Vung.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/10-2026/2026-10-28-Session-05-Kim-Chi-Nam-Quyen-Ru-Va-Xay-Dung-Hon-Nhan-Ben-Vung.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
@@ -15,11 +15,10 @@
 
 ## ⚓ NEO NGỮ CẢNH CUỘC TRÒ CHUYỆN (CONVERSATION ANCHOR)
 *3-5 gạch đầu dòng tóm tắt điều quan trọng nhất vừa diễn ra để Coach Anh mở lời chính xác:*
-1. **Thiết Lập Bộ Kim Chỉ Nam Quyến Rũ Tự Nhiên & Chỗ Dựa Bình An:** Định hình hình mẫu The Mountain Frame (Ngọn Núi Vững Chãi): sứ mệnh số 1 (Gym & Sự nghiệp IT), an toàn tuyệt đối về thể xác & cảm xúc, và tôn trọng để nàng tự do 100% là chính mình.
-2. **Khóa Chặt 6 Ranh Giới Cờ Đỏ (Red Flags):** Cấm cưỡng ép thể xác/vồ vập, cấm vi phạm ranh giới công sở FTI-AM (bài học 18/08), cấm tra khảo ghen tuông/needy boy, cấm đóng vai cha cằn nhằn/mổ xẻ tâm lý, cấm thiếu chính trực, cấm sa ngã cám dỗ shadow.
-3. **Phát Huy 5 Điểm Mạnh Thực Chứng Của Hoàng Anh:** Chân thành qua 3 khủng hoảng, khả năng lắng nghe và sửa đổi dũng cảm, quan tâm thiêng liêng đến gia đình nàng, năng lực Lead IT uy tín, cán cân đối thoại 50/50 bình đẳng.
-4. **Nghệ Thuật Chuyển Hóa Điểm Yếu Của Nàng Qua Cơ Chế Nudge:** Không cằn nhằn dạy đời ISTP; để sẵn hạt dinh dưỡng và nước ấm hỗ trợ sức khỏe; áp dụng "Thưởng nóng" cảm xúc khi nàng dịu dàng; hài hước bao dung khi nàng xù lông cộc lốc.
-5. **Xây Dựng Pháo Đài Hôn Nhân 2028 Bất Khả Xâm Phạm:** Quy tắc 24h tĩnh lặng trước bất đồng, giao tiếp trắc ẩn NVC, đệm tiền mặt 50tr + Quỹ cưới 100tr của ba, đồng hành cùng đức tin Công giáo và nuôi dưỡng tình bạn tri kỷ trọn đời.
+1. **Mổ Xẻ 5 Điểm Yếu Cốt Lõi Cần Khắc Phục:** (1) Lệch pha giao tiếp INFP x ISTP; (2) Chênh lệch tuổi tác & vị thế công sở (1992 vs 2002); (3) Bẫy gắn kết Lo âu - Né tránh; (4) Thói quen sức khỏe & nhịp sinh học; (5) Tương tác qua màn hình nhiều hơn đời thực.
+2. **Khóa Chặt 6 Sai Lầm Xương Máu Tuyệt Đối Không Tái Phạm:** (1) Cưỡng ép thể xác / cưỡng hôn bạo lực (26/09); (2) Thân mật thiếu tế nhị tại văn phòng FTI-AM (18/08); (3) Hội chứng "Thức đợi" & Tra khảo kiểu Needy Boy; (4) Đổ bão tự ti và bi lụy lên đầu bạn gái (03/10); (5) Đóng vai cha cằn nhằn / mổ xẻ tâm lý; (6) Thiếu chính trực / "đứng núi này trông núi nọ".
+3. **Chuyển Hóa Thành "The Grounded Mountain Frame":** Người đàn ông vững chãi, không bị dao động bởi sự cộc lốc của đối phương, tập trung rèn luyện Gym 17:30 chiều nay, làm chủ dự án FTI-AM và thi chứng chỉ PSM I.
+4. **Hành Động Chăm Sóc Thực Tế (Nudge):** Tinh tế để hạt dinh dưỡng, chuẩn bị nước ấm, tặng không gian thở, khen ngợi thực chứng và tôn trọng đức tin Công giáo của nàng.
 
 ---
 
