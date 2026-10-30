@@ -5,7 +5,7 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-10-30 16:10:00 +07:00` (Chiều Thứ Sáu)
+- **Thời gian cập nhật:** `2026-10-30 16:50:00 +07:00` (Chiều Thứ Sáu)
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
 - **Mã định danh phiên gần nhất:** [`Sessions/10-2026/2026-10-30-Session-06-Giai-Phong-Con-Nghien-Cam-Xuc-Xe-Bo-Hop-Dong-Ngam-Va-Lay-Lai-Binh-An.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/10-2026/2026-10-30-Session-06-Giai-Phong-Con-Nghien-Cam-Xuc-Xe-Bo-Hop-Dong-Ngam-Va-Lay-Lai-Binh-An.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
@@ -24,6 +24,7 @@
 7. **Hóa Giải Sự Lan Tỏa Tiêu Cực (Affective Spillover) Sang Công Việc & 5 Sở Thích Chữa Lành:** Nhận diện nguyên nhân khi quá tải vì tình cảm, Amygdala phủ lớp lọc xám xịt khiến công việc và đồng nghiệp trở nên đáng ghét. Thiết lập 5 sở thích trị liệu giúp INFP kéo não bộ ra thế giới bên ngoài (Nhiếp ảnh đường phố, Cà phê thủ công Pour-over, Chạy bộ/Đi bộ công viên xanh, Cầu lông CLB mới, Thủy sinh mini).
 8. **Thử Thách Lớn Ngày Sinh Nhật Thùy Linh (30/10/2026):** Hoàng Anh bị tổn thương khi thấy Linh nghi ngờ năng lực, so sánh em với người khác, và thân thiết với đồng nghiệp tại công ty. Hoàng Anh đã thể hiện sự trưởng thành vượt bậc khi tự chủ cảm xúc, không cáu giận để bảo vệ ngày vui của bạn gái. Kích hoạt ngay **The Gentleman Birthday Protocol**: điềm tĩnh, mỉm cười ấm áp chúc mừng, trao cho nàng sự tự do tận hưởng ngày vui, cất bất đồng vào hộp 24h, và giữ vững phẩm giá người đàn ông!
 9. **Chiến Lược Tái Chiếm Vòng Tròn Kiểm Soát (The Dichotomy of Control):** Nhận diện gốc rễ đau khổ là do cố kiểm soát thứ mình có 0% quyền kiểm soát (tâm trạng/phản ứng của bạn gái). Thiết lập bản đồ 4 lĩnh vực Hoàng Anh có 100% quyền kiểm soát: (1) Cơ thể & Hóa sinh (Gym, ngủ trước 23h); (2) Trí tuệ IT (PSM I, Playwright AI cam2g); (3) Dòng tiền độc lập (Đệm 50tr + 100tr quỹ cưới); (4) Đam mê sáng tạo tự thân (Âm nhạc/DJ/Nhiếp ảnh/Cà phê thủ công). Áp dụng chiến dịch 7 ngày kiêng khem tâm lý (Romance Fast).
+10. **Bẻ Gãy Tận Gốc Nỗi Sợ Chia Ly & Sống Trọn Vẹn Hiện Tại (Fear-Setting P10 & Amor Fati):** Hoàng Anh chạm vào vết thương sâu kín nhất: nỗi sợ chia ly/bị bỏ rơi khiến em không thể tận hưởng hiện tại. Khắc chế bằng P10: Nếu có chia ly, Hoàng Anh không chết, vẫn có 7 năm IT thực chiến, đệm tiền mặt 150tr, gia đình và bản lĩnh. Triết lý "Chiếc cốc pha lê": Chấp nhận tính hữu hạn để trân quý từng phút giây hiện tại mà không sợ hãi bóp nghẹt.
 
 ---
 
