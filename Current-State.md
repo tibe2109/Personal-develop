@@ -5,9 +5,9 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-10-28 14:40:00 +07:00` (Chiều Thứ Tư)
+- **Thời gian cập nhật:** `2026-10-30 15:15:00 +07:00` (Chiều Thứ Sáu)
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
-- **Mã định danh phiên gần nhất:** [`Sessions/10-2026/2026-10-28-Session-05-Kim-Chi-Nam-Quyen-Ru-Va-Xay-Dung-Hon-Nhan-Ben-Vung.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/10-2026/2026-10-28-Session-05-Kim-Chi-Nam-Quyen-Ru-Va-Xay-Dung-Hon-Nhan-Ben-Vung.md)
+- **Mã định danh phiên gần nhất:** [`Sessions/10-2026/2026-10-30-Session-06-Giai-Phong-Con-Nghien-Cam-Xuc-Xe-Bo-Hop-Dong-Ngam-Va-Lay-Lai-Binh-An.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/10-2026/2026-10-30-Session-06-Giai-Phong-Con-Nghien-Cam-Xuc-Xe-Bo-Hop-Dong-Ngam-Va-Lay-Lai-Binh-An.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
 - **Tình trạng Auto-Sync:** 🟢 **ĐANG HOẠT ĐỘNG (20 PHÚT/LẦN)** — PID: 1144755, tự động đồng bộ ngầm khi có thay đổi.
 
@@ -15,22 +15,23 @@
 
 ## ⚓ NEO NGỮ CẢNH CUỘC TRÒ CHUYỆN (CONVERSATION ANCHOR)
 *3-5 gạch đầu dòng tóm tắt điều quan trọng nhất vừa diễn ra để Coach Anh mở lời chính xác:*
-1. **Mổ Xẻ 5 Điểm Yếu Cốt Lõi Cần Khắc Phục:** (1) Lệch pha giao tiếp INFP x ISTP; (2) Chênh lệch tuổi tác & vị thế công sở (1992 vs 2002); (3) Bẫy gắn kết Lo âu - Né tránh; (4) Thói quen sức khỏe & nhịp sinh học; (5) Tương tác qua màn hình nhiều hơn đời thực.
-2. **Khóa Chặt 6 Sai Lầm Xương Máu Tuyệt Đối Không Tái Phạm:** (1) Cưỡng ép thể xác / cưỡng hôn bạo lực (26/09); (2) Thân mật thiếu tế nhị tại văn phòng FTI-AM (18/08); (3) Hội chứng "Thức đợi" & Tra khảo kiểu Needy Boy; (4) Đổ bão tự ti và bi lụy lên đầu bạn gái (03/10); (5) Đóng vai cha cằn nhằn / mổ xẻ tâm lý; (6) Thiếu chính trực / "đứng núi này trông núi nọ".
-3. **Chuyển Hóa Thành "The Grounded Mountain Frame":** Người đàn ông vững chãi, không bị dao động bởi sự cộc lốc của đối phương, tập trung rèn luyện Gym 17:30 chiều nay, làm chủ dự án FTI-AM và thi chứng chỉ PSM I.
-4. **Hành Động Chăm Sóc Thực Tế (Nudge):** Tinh tế để hạt dinh dưỡng, chuẩn bị nước ấm, tặng không gian thở, khen ngợi thực chứng và tôn trọng đức tin Công giáo của nàng.
-5. **Chuẩn Hóa Hồ Sơ Thùy Linh (Dev FE & Mobile):** Nàng là **Developer chuyên về Front-End (FE) & Mobile**, làm dự án khác tại FTI (không làm dự án cam2g). Cặp đôi công nghệ kinh điển: Backend Lead x FE/Mobile Dev!
-6. **Hóa Giải Nghịch Lý Khoảng Cách & Thang Máy:** Bóc trần điểm mù "nàng phản kháng nhưng em hôn thì hôn thôi tại em thích" là nguyên nhân nàng giữ khoảng cách vô thức để tự vệ; giải mã vì sao nàng thoải mái với đồng nghiệp nam (zero áp lực thể xác). Ghi nhận Linh đã biết buồn và tự giác điều chỉnh bớt giỡn sau khi em nhắc nhở.
-7. **Rà Soát Toàn Diện 6 Dấu Hiệu Vàng Thùy Linh Yêu Hoàng Anh Sâu Sắc:** (1) Thổ lộ tỉnh táo ngày 24/09 & 29/09 ("em cũng thích anh như vậy"); (2) Lời cầu xin nghẹn ngào đêm 03/10 ("mai mốt gặp anh vẫn cười với em cái nha"); (3) Lo lắng an nguy (16/10 "đừng manh động", nhắc chạy xe từ từ, đem áo mưa); (4) Sẵn sàng thay đổi hành vi vì cảm xúc của anh; (5) Báo cáo nhịp sống và chào ngủ ngon [❤️] suốt 100 ngày; (6) Khát khao hòa hợp và "muốn ôm anh 1 cái liền luôn".
-8. **Quy Chuẩn Gần Gũi An Toàn & Nhận Yêu Thương Đúng Cách:** 3 nấc thang đụng chạm thể xác an toàn (phi tình dục -> ôm bến đỗ 5-7s -> nụ hôn lông vũ); cơ chế "Thưởng nóng" và "Bản hướng dẫn trái tim không đòi hỏi" để nàng ISTP tự nguyện chăm sóc và yêu thương em.
+1. **Khủng Hoảng Kiệt Sức Cảm Xúc (Emotional Burnout & Chaser Trap):** Hoàng Anh bộc bạch nỗi đau lòng, mệt mỏi, bất an: cảm giác đang chạy theo cuộc tình, càng yêu càng đòi hỏi, ghen tức với người khác, cảm thấy không được yêu như ý muốn và cố đầu tư thêm để gỡ vốn.
+2. **Giải Mã 4 Căn Bệnh Tâm Lý Đang Bóp Nghẹt:** (1) Hợp đồng ngầm Covert Contract (đầu tư có điều kiện để ép trả nợ tình); (2) Cơn đói Dopamine vô đáy do tự ti bên trong; (3) Tâm lý con bạc khát nước Sunk Cost; (4) Chiếu rọi ảo tưởng ngôn tình lên nữ Dev ISTP thực tế.
+3. **Chiến Lược Tự Giải Thoát (The Liberation Protocol):** Dừng đuổi theo (Stop Chasing) ngay lập tức; xé bỏ bản hợp đồng ngầm; thu hồi năng lượng về bản thân; không tìm kiếm sự an ủi từ bạn gái lúc này.
+4. **Hành Động Khôi Phục Bản Lĩnh Chiều Nay:** 17:30 có mặt tại phòng Gym nâng tạ thật nặng để cắt đứt cơn đau thần kinh Amygdala; không mang điện thoại vào phòng tập; tắm nước ấm và ăn bữa tối dinh dưỡng.
+5. **Tái Định Vị Mối Quan Hệ:** Yêu thương là cho đi trong tự do, không phải mua bán sòng phẳng; người đàn ông là Ngọn Núi tự chủ, không phải kẻ ăn xin tình cảm.
 
 ---
 
 ## 🧠 RADAR TÂM LÝ & THẦN KINH HỌC (EMOTIONAL & INNER CHILD RADAR)
-- **Mức năng lượng hiện tại:** `9 / 10` (Bình an, sáng suốt, làm chủ cảm xúc và sự nghiệp toàn diện).
-- **Trạng thái Thần kinh (Amygdala / PFC):** 🟢 **Vỏ não tiền trán (PFC) làm chủ hoàn toàn**. Nỗi sợ bị từ chối/bỏ rơi đã được giải phóng bằng bằng chứng định lượng thực tế 50/50.
-- **Tình trạng Đứa trẻ bên trong (Inner Child):** Được Người Cha Nội Tâm vỗ về và trao quyền: "Em hoàn toàn đủ bản lĩnh, đủ đạo đức và xứng đáng được yêu thương trọn vẹn".
+- **Mức năng lượng hiện tại:** `5.5 / 10` (Đang hồi sức sau cơn bão cảm xúc; chuyển dịch từ hoảng loạn sang nhận diện sự thật).
+- **Trạng thái Thần kinh (Amygdala / PFC):** 🟡 **Đang kích hoạt quy trình hạ nhiệt (DBT/IFS)**. Hạch hạnh nhân vừa trải qua cơn bão sợ bị bỏ rơi; Vỏ não tiền trán (PFC) đang được Coach Anh kéo về làm chủ.
+- **Tình trạng Đứa trẻ bên trong (Inner Child):** Được ôm ấp và khẳng định: "Em không cần phải van xin tình cảm của ai để thấy mình có giá trị. Anh ở đây bảo vệ em."
 - **Cờ cảnh báo Sa ngã & Cám dỗ (Shadow Watch):**
+  - 💔 *Bi lụy & Ghen tuông:* Khóa chặt phản ứng nhắn tin dỗi hờn, ghen tuông hay tra khảo.
+  - 🚫 *Needy Chasing:* Tuyệt đối không "đầu tư thêm" để mong nhận lại sự ngọt ngào.
+  - 🦁 *Trốn tránh bằng Shadow:* Cấm tìm đến Porn, thuốc lá, thức khuya để xoa dịu nỗi buồn.
+  - 🏋️ *Cứu cánh thể chất:* Bắt buộc 17:30 chiều nay có mặt tại phòng Gym để tái tạo Dopamine sạch.
   - 🦁 *Kiêu ngạo & Nóng vội:* Không vội vã, giữ sự điềm đạm, không hành động bột phát ("manh động").
   - 💔 *Ép buộc thể xác:* Tuyệt đối không vồ vập, tôn trọng ranh giới của bạn gái, để mọi sự thân mật diễn ra tự nhiên.
   - 🗣️ *Chính ngữ & Tâm thức:* Giữ gìn miệng lưỡi và tâm trí trong sạch, tôn trọng phụ nữ, không phán xét sau lưng.
@@ -50,20 +51,20 @@
 ---
 
 ## 🐸 CON ẾCH TRONG NGÀY & TIẾN ĐỘ THỰC THI (ACTIVE FROG & TASKS)
-- **Chế độ ngày (Daily Mode):** 🧘 **The Mountain Frame & Deep Empathy Mode** (Khung ngọn núi & Thấu cảm sâu sắc).
+- **Chế độ ngày (Daily Mode):** 🧘 **The Mountain Frame & Self-Reclamation Mode** (Khung ngọn núi & Tự chủ bản lĩnh).
 - **Con Ếch A1 (Quan trọng nhất - Bắt buộc xử lý):**
-  - [x] Bóc tách 1.505 tin nhắn Messenger, chuẩn hóa hồ sơ 360° Thùy Linh và lưu trữ nhật ký chiến lược.
-  - [ ] Chiều nay 17:30 có mặt tại phòng Gym nâng tạ (quy tắc *Never miss twice*) để xả Cortisol và nạp Dopamine sạch.
+  - [ ] **Chiều nay 17:30:** Có mặt tại phòng Gym nâng tạ thật nặng (không mang điện thoại vào khu vực tập) để giải phóng cơn đau thần kinh Amygdala và nạp Dopamine sạch.
+  - [ ] **Khóa chặt phản xạ Chaser:** Dừng ngay lập tức việc nhắn tin dồn dập, ghen tuông hay cố "đầu tư thêm" để ép nhận lại tình cảm.
 - **Nhiệm vụ B (Should do):**
-  - [ ] Tan sở đón Thùy Linh với nụ cười ấm áp, lắng nghe trọn vẹn, không phán xét hay soi xét.
-  - [ ] Tối nay chuẩn bị hộp đồ ăn nhẹ (hạt dinh dưỡng) và nước ấm để mang theo hỗ trợ sức khỏe nàng.
-  - [ ] Duy trì nhịp ngủ trước 22h30 để chuẩn bị thức dậy lúc 5h30 sáng mai (Morning Shield học PSM I).
+  - [ ] Tối nay tắm nước ấm, ăn bữa tối ngon miệng đủ chất, đi ngủ trước 23h.
+  - [ ] Nếu Thùy Linh nhắn tin: Trả lời điềm đạm, ấm áp, ngắn gọn; không than thở, không kể lể đau lòng.
 - **Nhiệm vụ D (Delegate):**
-  - Đã ủy thác Coach Anh hệ thống hóa toàn bộ hồ sơ 360° Thùy Linh vào `Plan/06-Portfolio-4-Tinh-Yeu-Hon-Nhan-Gia-Dinh.md` và biên bản phiên `2026-10-27-Session-02`.
+  - Đã ủy thác Coach Anh giải phẫu 4 căn bệnh tâm lý và lưu trữ vào `Sessions/10-2026/2026-10-30-Session-06-Giai-Phong-Con-Nghien-Cam-Xuc-Xe-Bo-Hop-Dong-Ngam-Va-Lay-Lai-Binh-An.md`.
 
 ---
 
 ## 🔄 VẤN ĐỀ CÒN BỎ NGỎ & THEO DÕI TIẾP (ACTIVE OPEN LOOPS)
+- [ ] Giữ vững The Mountain Frame trong 7 ngày tới để cảm xúc lắng đọng hoàn toàn.
 - [ ] Chọn và đặt mua quà sinh nhật Thùy Linh (Đai chườm nhiệt Philips PPM3522 hoặc Ly giữ nhiệt gốm Fellow Carter Move).
 - [ ] Khởi tạo thư mục mã nguồn Monorepo cục bộ cho `starter-kit-enterprise` theo đặc tả tại [`Startup-B2B-Software-Studio/02-Engineering-Architecture/Enterprise-Starter-Kit-Spec.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Startup-B2B-Software-Studio/02-Engineering-Architecture/Enterprise-Starter-Kit-Spec.md).
 - [ ] Lên kế hoạch kiến trúc cam2g v1.1 - v1.3 và triển khai nhịp học 30-45 phút mỗi sáng cho PSM I.
@@ -71,4 +72,4 @@
 ---
 
 ## ⚡ HÀNH ĐỘNG VI MÔ KẾ TIẾP (NEXT IMMEDIATE MICRO-ACTION)
-- Hít thở sâu 3 chu kỳ 4-7-8, uống một ngụm nước lớn, mỉm cười nhẹ nhõm: Dữ liệu đã sáng tỏ, tình yêu đã có kim chỉ nam chuẩn xác, sẵn sàng bước vào buổi tập Gym chiều nay lúc 17:30!
+- Hít thở sâu 4 chu kỳ 4-7-8, uống một ly nước lớn, buông chuột và bàn phím, tự nói với bản thân: "Tôi là người đàn ông tự do và có giá trị tự thân", chuẩn bị đồ tập để 17:30 có mặt tại phòng Gym!
