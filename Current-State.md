@@ -21,6 +21,7 @@
 4. **Hành Động Khôi Phục Bản Lĩnh Chiều Nay:** 17:30 có mặt tại phòng Gym nâng tạ thật nặng để cắt đứt cơn đau thần kinh Amygdala; không mang điện thoại vào phòng tập; tắm nước ấm và ăn bữa tối dinh dưỡng.
 5. **Tái Định Vị Mối Quan Hệ:** Yêu thương là cho đi trong tự do, không phải mua bán sòng phẳng; người đàn ông là Ngọn Núi tự chủ, không phải kẻ ăn xin tình cảm.
 6. **Bước Ngoặt Thức Tỉnh & Bản Kế Hoạch 4 Trụ Cột Tự Chủ (Sovereignty Blueprint):** Hoàng Anh chủ động hỏi: *"Bây giờ em nên tập trung vào những điều gì để hấp dẫn tự nhiên, không ép buộc, không đòi hỏi, phiên bản tốt nhất, tự yêu thương và an tâm về bản thân, để mọi thứ diễn ra tự nhiên?"*. Thiết lập ngay 4 trụ cột: Thể chất & Hóa sinh thần kinh, Sứ mệnh sự nghiệp IT & Dòng tiền, Làm chủ nội tâm & Tự yêu thương, Nghệ thuật vô vi & Sức hút tĩnh lặng.
+7. **Hóa Giải Sự Lan Tỏa Tiêu Cực (Affective Spillover) Sang Công Việc & 5 Sở Thích Chữa Lành:** Nhận diện nguyên nhân khi quá tải vì tình cảm, Amygdala phủ lớp lọc xám xịt khiến công việc và đồng nghiệp trở nên đáng ghét. Thiết lập 5 sở thích trị liệu giúp INFP kéo não bộ ra thế giới bên ngoài (Nhiếp ảnh đường phố, Cà phê thủ công Pour-over, Chạy bộ/Đi bộ công viên xanh, Cầu lông CLB mới, Thủy sinh mini).
 
 ---
 

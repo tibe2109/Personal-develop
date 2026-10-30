@@ -126,11 +126,29 @@ flowchart LR
 
 ---
 
+### 🎨 5. GIẢI MÃ SỰ LAN TỎA TIÊU CỰC SANG CÔNG VIỆC & DANH MỤC 5 SỞ THÍCH TRỊ LIỆU CHO INFP
+*(Phân tích mở rộng lúc 15:35 ngày 30/10/2026)*
+
+1. **Vì sao chuyện tình cảm lại lan tỏa làm em bực bội với công việc và đồng nghiệp?**
+   - **Hiện tượng Thần kinh học "Affective Spillover" (Sự lan tỏa cảm xúc):** Khi hạch hạnh nhân (Amygdala) bị quá tải vì lo âu tình cảm, nó phủ một lớp kính lọc màu xám xịt, bi quan lên toàn bộ thế giới xung quanh.
+   - Ngưỡng chịu đựng căng thẳng (Resilience Threshold) của em bị tụt xuống đáy: Một lời nói đùa vô hại của đồng nghiệp, một bug nhỏ của dự án FTI-AM cũng trở thành thứ "đáng ghét", "không hài lòng", "cảm giác bị bám đuổi".
+   - **Giải pháp:** Tách bạch ranh giới. Công việc là trạm tạo dòng tiền và rèn luyện kỹ năng, không phải nơi để tìm kiếm sự hoàn hảo cảm xúc. Áp dụng Fact-Based Shield, làm tốt việc của mình và mỉm cười điềm đạm.
+
+2. **Danh Mục 5 Sở Thích "Chữa Lành & Thoát Ly Não Bộ" Dành Riêng Cho INFP:**
+   - **Sở thích 1: Nhiếp Ảnh Đời Thường & Dạo Phố Cuối Tuần (Street Photography):** Cầm điện thoại hoặc máy ảnh đi bộ chậm rãi qua các con phố Sài Gòn, chụp lại ánh sáng, góc phố, con người. Hoạt động này ép não bộ phải "nhìn ra thế giới bên ngoài" thay vì "nhìn vào mớ bòng bong suy nghĩ bên trong".
+   - **Sở thích 2: Nghệ Thuật Cà Phê Thủ Công (Pour-Over / Drip Coffee):** Tự tay xay hạt, ngửi hương cà phê nguyên bản, canh nhiệt độ nước, chiết xuất từng giọt. Đó là một dạng "thiền động" (Mindful Coffee) đem lại sự thư thái và tinh tế.
+   - **Sở thích 3: Chạy Bộ Ngoài Trời / Đi Bộ Xanh Trong Công Viên (Green Exercise):** Vận động aerobic ngoài thiên nhiên 30-45 phút giúp ngắt kích hoạt mạng chế độ mặc định (DMN) — cỗ máy đẻ ra overthinking trong não.
+   - **Sở thích 4: Chơi Cầu Lông Độc Lập Tại CLB Mới:** Tham gia một nhóm chơi cầu lông cuối tuần ngoài công ty để mở rộng giao lưu, giải phóng năng lượng thể chất và kết nối với những người bạn tích cực.
+   - **Sở thích 5: Nuôi Cây Xanh / Bể Thủy Sinh Mini (Aquascaping):** Chăm sóc một mầm cây hoặc bể thủy sinh nhỏ trên bàn làm việc, nuôi dưỡng bản tính trắc ẩn, yêu thiên nhiên của INFP mà không có bất kỳ áp lực giao tiếp xã hội nào.
+
+---
+
 ## ✅ 4. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
 1. **Dừng đuổi theo (Stop Chasing):** Tuyệt đối không đầu tư thêm bất kỳ thứ gì vì động cơ muốn nhận lại.
 2. **Chấm dứt ghen tuông & so sánh:** Nàng đã điều chỉnh vì em rồi. Ghen tuông chỉ chứng minh sự tự ti của bản thân.
 3. **Thu hồi năng lượng về bản thân:** Dồn 100% năng lượng chiều nay cho buổi tập Gym lúc 17:30 và sự nghiệp IT.
 4. **Học cách buông lỏng kiểm soát:** Để tình cảm diễn ra tự nhiên. Nàng yêu em theo cách của nàng, không ép nàng phải đóng kịch theo ý em.
+5. **Chọn 1-2 sở thích mới cuối tuần này:** Đi bộ công viên chụp ảnh hoặc thử pha cà phê thủ công để chuyển dịch năng lượng ra khỏi chuyện tình cảm.
 
 ---
 
