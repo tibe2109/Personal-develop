@@ -5,7 +5,7 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-10-30 15:15:00 +07:00` (Chiều Thứ Sáu)
+- **Thời gian cập nhật:** `2026-10-30 15:20:00 +07:00` (Chiều Thứ Sáu)
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
 - **Mã định danh phiên gần nhất:** [`Sessions/10-2026/2026-10-30-Session-06-Giai-Phong-Con-Nghien-Cam-Xuc-Xe-Bo-Hop-Dong-Ngam-Va-Lay-Lai-Binh-An.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/10-2026/2026-10-30-Session-06-Giai-Phong-Con-Nghien-Cam-Xuc-Xe-Bo-Hop-Dong-Ngam-Va-Lay-Lai-Binh-An.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
@@ -20,6 +20,7 @@
 3. **Chiến Lược Tự Giải Thoát (The Liberation Protocol):** Dừng đuổi theo (Stop Chasing) ngay lập tức; xé bỏ bản hợp đồng ngầm; thu hồi năng lượng về bản thân; không tìm kiếm sự an ủi từ bạn gái lúc này.
 4. **Hành Động Khôi Phục Bản Lĩnh Chiều Nay:** 17:30 có mặt tại phòng Gym nâng tạ thật nặng để cắt đứt cơn đau thần kinh Amygdala; không mang điện thoại vào phòng tập; tắm nước ấm và ăn bữa tối dinh dưỡng.
 5. **Tái Định Vị Mối Quan Hệ:** Yêu thương là cho đi trong tự do, không phải mua bán sòng phẳng; người đàn ông là Ngọn Núi tự chủ, không phải kẻ ăn xin tình cảm.
+6. **Bước Ngoặt Thức Tỉnh & Bản Kế Hoạch 4 Trụ Cột Tự Chủ (Sovereignty Blueprint):** Hoàng Anh chủ động hỏi: *"Bây giờ em nên tập trung vào những điều gì để hấp dẫn tự nhiên, không ép buộc, không đòi hỏi, phiên bản tốt nhất, tự yêu thương và an tâm về bản thân, để mọi thứ diễn ra tự nhiên?"*. Thiết lập ngay 4 trụ cột: Thể chất & Hóa sinh thần kinh, Sứ mệnh sự nghiệp IT & Dòng tiền, Làm chủ nội tâm & Tự yêu thương, Nghệ thuật vô vi & Sức hút tĩnh lặng.
 
 ---
 
