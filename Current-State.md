@@ -56,8 +56,8 @@
 ## 🐸 CON ẾCH TRONG NGÀY & TIẾN ĐỘ THỰC THI (ACTIVE FROG & TASKS)
 - **Chế độ ngày (Daily Mode):** 🧘 **The Mountain Frame & Self-Reclamation Mode** (Khung ngọn núi & Tự chủ bản lĩnh).
 - **Con Ếch A1 (Quan trọng nhất - Bắt buộc xử lý):**
-  - [ ] **Chiều nay 17:30:** Có mặt tại phòng Gym nâng tạ thật nặng (không mang điện thoại vào khu vực tập) để giải phóng cơn đau thần kinh Amygdala và nạp Dopamine sạch.
-  - [ ] **Khóa chặt phản xạ Chaser:** Dừng ngay lập tức việc nhắn tin dồn dập, ghen tuông hay cố "đầu tư thêm" để ép nhận lại tình cảm.
+  - [ ] **ƯU TIÊN SỐ 1 TỐI NAY (Sinh nhật Thùy Linh 30/10):** Chủ động mời Thùy Linh đi ăn tối và cà phê đón sinh nhật ấm áp, đĩnh đạc. Nếu nàng đi cùng: Dành trọn vẹn buổi tối chăm sóc nàng (Gym dời sang sáng mai). Nếu nàng bận ăn với team/gia đình: Vui vẻ chúc nàng đi chơi vui, bản thân đi tập Gym lúc 17:30.
+  - [ ] **Khóa chặt phản xạ Chaser & Giận dỗi:** Tuyệt đối không mặt nặng mày nhẹ, hào sảng và lịch thiệp suốt buổi tối sinh nhật.
 - **Nhiệm vụ B (Should do):**
   - [ ] Tối nay tắm nước ấm, ăn bữa tối ngon miệng đủ chất, đi ngủ trước 23h.
   - [ ] Nếu Thùy Linh nhắn tin: Trả lời điềm đạm, ấm áp, ngắn gọn; không than thở, không kể lể đau lòng.
