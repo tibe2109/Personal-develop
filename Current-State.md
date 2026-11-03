@@ -5,9 +5,9 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-10-30 16:50:00 +07:00` (Chiều Thứ Sáu)
+- **Thời gian cập nhật:** `2026-11-03 17:15:00 +07:00` (Chiều Thứ Ba)
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
-- **Mã định danh phiên gần nhất:** [`Sessions/10-2026/2026-10-30-Session-06-Giai-Phong-Con-Nghien-Cam-Xuc-Xe-Bo-Hop-Dong-Ngam-Va-Lay-Lai-Binh-An.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/10-2026/2026-10-30-Session-06-Giai-Phong-Con-Nghien-Cam-Xuc-Xe-Bo-Hop-Dong-Ngam-Va-Lay-Lai-Binh-An.md)
+- **Mã định danh phiên gần nhất:** [`Sessions/11-2026/2026-11-03-Session-01-Dap-Tat-Am-Anh-Canteen-Giai-Phong-Vet-Thuong-Bi-Bo-Roi-Noi-Cong-So.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-03-Session-01-Dap-Tat-Am-Anh-Canteen-Giai-Phong-Vet-Thuong-Bi-Bo-Roi-Noi-Cong-So.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
 - **Tình trạng Auto-Sync:** 🟢 **ĐANG HOẠT ĐỘNG (20 PHÚT/LẦN)** — PID: 1144755, tự động đồng bộ ngầm khi có thay đổi.
 
@@ -25,6 +25,7 @@
 8. **Thử Thách Lớn Ngày Sinh Nhật Thùy Linh (30/10/2026):** Hoàng Anh bị tổn thương khi thấy Linh nghi ngờ năng lực, so sánh em với người khác, và thân thiết với đồng nghiệp tại công ty. Hoàng Anh đã thể hiện sự trưởng thành vượt bậc khi tự chủ cảm xúc, không cáu giận để bảo vệ ngày vui của bạn gái. Kích hoạt ngay **The Gentleman Birthday Protocol**: điềm tĩnh, mỉm cười ấm áp chúc mừng, trao cho nàng sự tự do tận hưởng ngày vui, cất bất đồng vào hộp 24h, và giữ vững phẩm giá người đàn ông!
 9. **Chiến Lược Tái Chiếm Vòng Tròn Kiểm Soát (The Dichotomy of Control):** Nhận diện gốc rễ đau khổ là do cố kiểm soát thứ mình có 0% quyền kiểm soát (tâm trạng/phản ứng của bạn gái). Thiết lập bản đồ 4 lĩnh vực Hoàng Anh có 100% quyền kiểm soát: (1) Cơ thể & Hóa sinh (Gym, ngủ trước 23h); (2) Trí tuệ IT (PSM I, Playwright AI cam2g); (3) Dòng tiền độc lập (Đệm 50tr + 100tr quỹ cưới); (4) Đam mê sáng tạo tự thân (Âm nhạc/DJ/Nhiếp ảnh/Cà phê thủ công). Áp dụng chiến dịch 7 ngày kiêng khem tâm lý (Romance Fast).
 10. **Bẻ Gãy Tận Gốc Nỗi Sợ Chia Ly & Sống Trọn Vẹn Hiện Tại (Fear-Setting P10 & Amor Fati):** Hoàng Anh chạm vào vết thương sâu kín nhất: nỗi sợ chia ly/bị bỏ rơi khiến em không thể tận hưởng hiện tại. Khắc chế bằng P10: Nếu có chia ly, Hoàng Anh không chết, vẫn có 7 năm IT thực chiến, đệm tiền mặt 150tr, gia đình và bản lĩnh. Triết lý "Chiếc cốc pha lê": Chấp nhận tính hữu hạn để trân quý từng phút giây hiện tại mà không sợ hãi bóp nghẹt.
+11. **Dập Tắt Nỗi Ám Ảnh Chuyện Canteen & Vết Thương "Bị Bỏ Rơi" Tại Công Ty (03/11/2026):** Giải mã tận gốc rễ: Nàng đi canteen với đồng nghiệp khác vì zero rủi ro tình cảm; nàng né đi với Hoàng Anh vì phòng vệ ranh giới công sở và ám ảnh sự cố thang máy 18/08. Tách bạch FTI là nơi khẳng định uy quyền Senior Tech Lead, không phải nhà trẻ cảm xúc. Chấm dứt hành vi ngóng nhìn, chủ động tạo nhóm ăn trưa kỹ thuật độc lập.
 
 ---
 
@@ -56,15 +57,15 @@
 ---
 
 ## 🐸 CON ẾCH TRONG NGÀY & TIẾN ĐỘ THỰC THI (ACTIVE FROG & TASKS)
-- **Chế độ ngày (Daily Mode):** 🧘 **The Mountain Frame & Self-Reclamation Mode** (Khung ngọn núi & Tự chủ bản lĩnh).
+- **Chế độ ngày (Daily Mode):** 🧘 **The Mountain Frame & Workplace Sovereignty** (Khung ngọn núi & Uy quyền công sở).
 - **Con Ếch A1 (Quan trọng nhất - Bắt buộc xử lý):**
-  - [ ] **ƯU TIÊN SỐ 1 TỐI NAY (Sinh nhật Thùy Linh 30/10):** Chủ động mời Thùy Linh đi ăn tối và cà phê đón sinh nhật ấm áp, đĩnh đạc. Nếu nàng đi cùng: Dành trọn vẹn buổi tối chăm sóc nàng (Gym dời sang sáng mai). Nếu nàng bận ăn với team/gia đình: Vui vẻ chúc nàng đi chơi vui, bản thân đi tập Gym lúc 17:30.
-  - [ ] **Khóa chặt phản xạ Chaser & Giận dỗi:** Tuyệt đối không mặt nặng mày nhẹ, hào sảng và lịch thiệp suốt buổi tối sinh nhật.
+  - [ ] **17:30 Chiều nay (03/11):** Tan sở bước thẳng tới phòng Gym nâng tạ 60 phút (quy tắc *Never miss twice*), đốt cháy sạch bão Cortisol và sự ức chế thần kinh.
+  - [ ] **Cắt đứt hành vi ngóng nhìn giám sát:** Tuyệt đối không ngước nhìn, không để tâm chuyện bạn gái đi canteen hay cười đùa với ai tại công ty.
 - **Nhiệm vụ B (Should do):**
-  - [ ] Tối nay tắm nước ấm, ăn bữa tối ngon miệng đủ chất, đi ngủ trước 23h.
-  - [ ] Nếu Thùy Linh nhắn tin: Trả lời điềm đạm, ấm áp, ngắn gọn; không than thở, không kể lể đau lòng.
+  - [ ] Trưa mai tại FTI: Chủ động rủ đồng nghiệp kỹ thuật đi ăn trưa hoặc tự thưởng cho mình bữa ăn ngon miệng, độc lập.
+  - [ ] Tối nay tắm nước ấm, ăn tối đủ chất dinh dưỡng, đi ngủ trước 23h.
 - **Nhiệm vụ D (Delegate):**
-  - Đã ủy thác Coach Anh giải phẫu 4 căn bệnh tâm lý và lưu trữ vào `Sessions/10-2026/2026-10-30-Session-06-Giai-Phong-Con-Nghien-Cam-Xuc-Xe-Bo-Hop-Dong-Ngam-Va-Lay-Lai-Binh-An.md`.
+  - Đã ủy thác Coach Anh giải phẫu bản chất chuyện canteen và lưu trữ vào [`Sessions/11-2026/2026-11-03-Session-01-Dap-Tat-Am-Anh-Canteen-Giai-Phong-Vet-Thuong-Bi-Bo-Roi-Noi-Cong-So.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-03-Session-01-Dap-Tat-Am-Anh-Canteen-Giai-Phong-Vet-Thuong-Bi-Bo-Roi-Noi-Cong-So.md).
 
 ---
 
