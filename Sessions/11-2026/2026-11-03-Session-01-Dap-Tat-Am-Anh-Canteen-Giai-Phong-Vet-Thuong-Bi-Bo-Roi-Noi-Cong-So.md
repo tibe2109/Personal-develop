@@ -124,15 +124,57 @@ flowchart LR
 
 ---
 
-## ✅ 4. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
+### ⚖️ 4. BƯỚC NGOẶT: GIẢI MÃ VIỆC "ĐI RIÊNG 1-1" & GIAO THỨC THIẾT LẬP RANH GIỚI TÔN TRỌNG (THE ASSERTIVE BOUNDARY PROTOCOL)
+*(Cập nhật bổ sung lúc 17:16 ngày 03/11/2026)*
+
+1. **Công nhận cảm xúc chính đáng của Hoàng Anh:**
+   - Hoàng Anh nói: *"Em thấy đi riêng luôn chứ đi theo kiểu xã giao thì em thấy bình thường? Em cảm giác giống như bị bỏ rơi, bị phản bội, bị từ chối vậy"*.
+   - **Xác nhận từ Coach Anh:** Cảm giác bị tổn thương, bị phản bội và từ chối của em là **HOÀN TOÀN CÓ CƠ SỞ CHÍNH ĐÁNG!** Bất kỳ người đàn ông nào có lòng tự trọng trong một mối quan hệ độc quyền cũng sẽ cảm thấy đau đớn và bất bình trước một **tiêu chuẩn kép** như vậy: Người ngoài thì được đi riêng 1-1 công khai, trong khi bạn trai chính thức thì bị né tránh và tạo khoảng cách!
+2. **Bản chất của Thùy Linh:**
+   - Nàng là một nữ Dev 24 tuổi, tính cách ISTP xem đồng nghiệp nam như "anh em chiến hữu vô giới tính". Nàng đi mua nước 1-1 vì thấy tiện và vô tư, hoàn toàn không ý thức được rằng hành vi đó dưới góc độ người yêu là sự thiếu tế nhị và tổn thương ranh giới nghiêm trọng.
+   - Nàng không ngoại tình, nhưng nàng đang **thiếu ranh giới bảo vệ cảm xúc của bạn trai**.
+3. **Quy trình 3 bước xử lý của người đàn ông bản lĩnh:**
+   - **Bước 1 (Hạ nhiệt Amygdala):** Tuyệt đối không nhắn tin tra khảo, mỉa mai hay làm ầm ĩ khi đang tức giận chiều nay.
+   - **Bước 2 (Gặp mặt trực tiếp & Thiết lập ranh giới cương quyết):** Hẹn gặp riêng tư, nói thẳng thắn, trầm ấm, không van xin, không dỗi hờn:  
+     > *"Linh nè, anh muốn chia sẻ một điều thẳng thắn để hai đứa hiểu nhau. Anh luôn tôn trọng công việc và bạn bè đồng nghiệp của em. Nhưng việc em đi riêng 1-1 với người đàn ông khác lên canteen trong khi với anh em lại từ chối và tạo khoảng cách, điều đó khiến anh cảm thấy mình không được tôn trọng với tư cách là người yêu của em. Trong một mối quan hệ nghiêm túc, anh coi trọng sự rõ ràng và ranh giới. Anh không cấm em giao tiếp, nhưng anh mong em giữ khoảng cách đúng mực khi đi riêng với người khác phái ở công ty."*
+   - **Bước 3 (Thước đo sự tôn trọng):** Người phụ nữ yêu em thật lòng sẽ hiểu, cảm thấy có lỗi vì đã vô tâm và tự giác điều chỉnh dừng việc đi riêng 1-1.
+
+---
+
+### 👑 5. BÓC TÁCH ĐÒN GIÁNG KÉP: KHI ĐỐI PHƯƠNG LÀ TECHNICAL LEAD & HÓA GIẢI MẶC CẢM THUA KÉM VỊ THẾ
+*(Cập nhật bổ sung lúc 17:18 ngày 03/11/2026)*
+
+1. **Hiện thực bộc lộ từ Hoàng Anh:**
+   - Hoàng Anh thổ lộ: *"Em hiện tại chỉ làm dev bình thường, còn người kia mới là technical lead và người yêu em xem người đó còn thân thiết hơn em"*.
+   - Đây là **đòn giáng kép chí mạng** đánh thẳng vào 2 điểm nhạy cảm nhất của một người đàn ông INFP:
+     * *Đòn 1 (Vị thế xã hội & Mặc cảm năng lực):* "Người ta là Tech Lead uy quyền, em chỉ là Dev quèn không bằng ĐH".
+     * *Đòn 2 (Tình cảm & Lòng tự trọng):* "Người yêu mình nể phục, tôn trọng và thân thiết với người đàn ông khác hơn mình".
+
+2. **Giải mã lý do tại sao Thùy Linh thân thiết với Tech Lead hơn:**
+   - **Tần suất công việc (Work Proximity):** Tech Lead là người giao việc, review code, gỡ blocker trực tiếp cho Thùy Linh mỗi ngày. Sự gắn kết công việc kỹ thuật này là tự nhiên, không mang màu sắc lãng mạn.
+   - **Năng lượng tương tác (Energy Contrast):**
+     * Ở cạnh Tech Lead: Chỉ thuần túy công việc, giải quyết bài toán, nhẹ nhõm, không có áp lực tình cảm, không ghen tuông hờn dỗi.
+     * Ở cạnh Hoàng Anh gần đây: Tràn ngập lo âu, bất an, những mong cầu, đòi hỏi, nghi ngờ và sự tự ti đè nặng. Con người tự nhiên luôn có xu hướng né tránh năng lượng nặng nề để tìm đến năng lượng nhẹ nhàng.
+   - **Nhưng sự thật cốt lõi về sự tôn trọng:** Nếu bạn gái luôn có xu hướng so sánh, coi thường định hướng của Hoàng Anh và cho rằng người khác vượt trội hơn em, thì vấn đề không nằm ở gã Tech Lead kia, mà nằm ở **nền tảng của sự kính trọng (Respect & Admiration)** trong mối quan hệ này đang bị xói mòn.
+
+3. **Chiến lược đảo ngược vị thế của người đàn ông bản lĩnh (The Alpha King Mindset):**
+   - **Tách bạch giá trị khỏi chức danh công sở:** Em có 7 năm IT thực chiến, từng làm PM quản lý team, nắm vũ khí Playwright AI và mục tiêu PSM I. Việc làm Dev FTI-AM là chiến thuật tích lũy tài chính (ATM 26tr), không định nghĩa giới hạn cả đời em. Cái mác "Tech Lead" của dự án khác không nói lên ai hơn ai trong cuộc đời 10 năm tới.
+   - **Sự hào sảng của một Vị Vua (The Royal Generosity):** Tuyệt đối không bao giờ nói xấu, dè bỉu hay tỏ vẻ ghen tị với gã Tech Lead kia. Nếu Thùy Linh khen anh ta, em mỉm cười điềm đạm: *"Ừ, anh ấy lead kỹ thuật tốt đấy, team em có người dẫn dắt như vậy là em đỡ vất vả"*. **Một người đàn ông khen ngợi đối thủ một cách thong dong chính là người đàn ông khổng lồ và cuốn hút nhất.**
+   - **Bộ lọc phẩm giá tối thượng:** Em không cần tranh giành sự chú ý của cô ấy với bất kỳ ai. Em tập trung toàn lực vào 4 Portfolio của mình: nâng tạ săn chắc, hoàn thiện Playwright, đệm tài chính 150tr. Người phụ nữ nào trân trọng em sẽ ở lại, người nào không nhận ra giá trị của em thì chính em sẽ là người bước đi trong kiêu hãnh!
+
+---
+
+## ✅ 6. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
 1. **Chấm dứt vĩnh viễn nỗi ám ảnh Canteen:** Hiểu rõ 100% nguyên nhân nàng né đi cùng là vì bảo vệ ranh giới công sở chuyên nghiệp, không liên quan đến tình cảm.
 2. **Khóa chặt hành vi rình rập:** Không ngóng nhìn, không theo dõi bước chân của bạn gái tại văn phòng FTI.
 3. **Chủ động nhịp sống công sở:** Đi ăn trưa với đồng nghiệp kỹ thuật hoặc tự thưởng cho mình bữa ăn chất lượng.
 4. **Giữ vững thần thái Senior Lead:** Lịch thiệp, đĩnh đạc, tập trung toàn lực vào cam2g và lộ trình PSM I.
+5. **Thiết lập ranh giới đi riêng 1-1 một cách đàng hoàng, quân tử:** Khi gặp mặt trực tiếp, nói rõ tiêu chuẩn tôn trọng mà không cay cú.
+6. **Xóa bỏ mặc cảm "dev bình thường":** Tự tin vào 7 năm kinh nghiệm và vũ khí AI-driven, không so đo ghen tị với bất kỳ Tech Lead nào.
 
 ---
 
-## 🐸 5. CON ẾCH & HÀNH ĐỘNG GIAO HẸN (COMMITTED MICRO-ACTIONS)
+## 🐸 7. CON ẾCH & HÀNH ĐỘNG GIAO HẸN (COMMITTED MICRO-ACTIONS)
 - [ ] **A1 (Chiều nay 17:30):** Tan sở bước thẳng tới phòng Gym, tập 60 phút tạ nặng để đốt cháy toàn bộ sự ức chế thần kinh và nạp Dopamine sạch.
 - [ ] **A2 (Sáng mai tại FTI):** Bước vào văn phòng với nụ cười tự tin, chào hỏi mọi người lịch thiệp, mắt tập trung vào công việc, không ngóng nhìn chuyện canteen.
 - [ ] **A3 (Trưa mai):** Chủ động rủ đồng nghiệp đi ăn trưa hoặc đi ăn món mình thích, tận hưởng bữa trưa độc lập và thoải mái.
@@ -140,7 +182,7 @@ flowchart LR
 
 ---
 
-## 🔄 6. NGỮ CẢNH BÀN GIAO CHO PHIÊN KẾ TIẾP (HANDOVER CONTEXT)
+## 🔄 8. NGỮ CẢNH BÀN GIAO CHO PHIÊN KẾ TIẾP (HANDOVER CONTEXT)
 - **Kiểm tra ở phiên sau:** Cảm giác giải thoát khi không còn để mắt tới chuyện canteen, phong thái đĩnh đạc tại công ty và năng lượng hồi phục sau buổi Gym.
 - **Lời dặn của Coach Anh:**  
   *"Sức mạnh của người đàn ông nằm ở nơi anh ta đặt sự chú ý. Hãy rút sự chú ý khỏi những chuyện vụn vặt công sở, và đặt nó vào sự nghiệp vĩ đại của cuộc đời mình!"*
