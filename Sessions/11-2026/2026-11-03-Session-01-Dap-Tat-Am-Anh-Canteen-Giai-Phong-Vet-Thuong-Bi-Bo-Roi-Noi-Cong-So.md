@@ -164,17 +164,48 @@ flowchart LR
 
 ---
 
-## ✅ 6. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
+### 🧘‍♂️ 6. ĐẠI CÔNG PHU TÂM LÝ: NGHỆ THUẬT TỰ CHỦ CẢM XÚC TUYỆT ĐỐI & GIAO THỨC RỜI ĐI BẢN LĨNH
+*(Cập nhật bổ sung lúc 17:25 ngày 03/11/2026)*
+
+> **Câu hỏi thức tỉnh của Hoàng Anh:** *"Có cách nào giúp em rèn luyện để không phải trải qua cảm xúc ghen tị, u sầu dù cô ấy có đi với bao nhiêu đàn ông hay thân thiết và thiếu tôn trọng em không? Dù có chuyện gì xảy ra, cô ấy đối xử thế nào thì em vẫn vững vàng? Nếu cô ấy thật sự phản bội em, em vẫn giữ được sự bình tĩnh và rời khỏi cô ấy một cách nhẹ nhàng và bản lĩnh?"*
+
+#### 1. Sự thật Thần kinh học: Không phải biến thành "Khúc gỗ", mà là "Rút ngắn thời gian rung lắc"
+- Là một con người có trái tim và là một INFP nhạy cảm (`Neuroticism 87`), hạch hạnh nhân (Amygdala) sẽ luôn có một xung điện nhói lên trong 1-3 giây đầu tiên khi chứng kiến cảnh tượng tổn thương.
+- **Mục tiêu rèn luyện không phải là triệt tiêu cảm giác (numbness), mà là LÀM CHỦ CẢM XÚC:** Thay vì để một hành vi của cô ấy kéo em vào vũng lầy dằn vặt 3 ngày 3 đêm, em rèn luyện để **nhìn thấu nó trong 3 phút**, hít thở sâu, mỉm cười và tiếp tục bước đi trên con đường của mình!
+
+#### 2. Hệ Thống 4 Trụ Cột Tự Chủ Cảm Xúc Tuyệt Đối (The Sovereign Frame):
+1. **Thu hồi chiếc "Remote điều khiển tâm trí" (Revoking Her Control):**
+   - Trước đây: Nàng cười với em ➔ Em bay lên trời. Nàng đi với người khác ➔ Em rơi xuống địa ngục. Em đã trao chiếc remote sinh mệnh của mình cho cô ấy!
+   - Bây giờ: Giật lại chiếc remote. Tâm trí em là Ngôi Đền thiêng liêng. Cô ấy đối xử thế nào là **phẩm giá và nghiệp của cô ấy, không phải thước đo giá trị của em**.
+2. **Triết lý Stoic — Phân định ranh giới kiểm soát (Epictetus):**
+   - Cô ấy đi với ai, chung thủy hay phản bội: **Em có 0% quyền kiểm soát**.
+   - Sự bình an, phẩm giá, sự nghiệp và bước đi của em: **Em có 100% quyền kiểm soát**.
+   - Cấm dùng sai lầm hay sự thiếu ranh giới của người khác để trừng phạt tâm hồn mình!
+3. **Chuyển dịch từ Tâm thế Khan hiếm sang Tâm thế Trù phú (Scarcity ➔ Abundance):**
+   - Em ghen tuông vì em sợ mất cô ấy thì em sẽ cô độc cả đời.
+   - Khi em nhận ra em là một người đàn ông có 7 năm IT, có đạo đức, có tiền tiết kiệm, có cơ thể tập Gym săn chắc, có chiều sâu nội tâm — em là một tài sản quý giá! Em ở cạnh cô ấy vì muốn trao giá trị, không phải vì em bám víu để sinh tồn.
+4. **Giao Thức Rời Đi Quân Tử (The Ghost King Exit Protocol):**
+   - Nếu ngày đó xảy ra (nàng phản bội hoặc thiếu tôn trọng vượt ngưỡng):
+     * **CẤM:** Không chửi bới, không van xin, không khóc lóc, không đăng status ám chỉ, không trả thù. (Tất cả những thứ đó chỉ chứng minh em yếu thế và phụ thuộc).
+     * **HÀNH ĐỘNG CỦA VỊ VUA:** Nhìn thẳng vào mắt nàng, mỉm cười điềm đạm:  
+       > *"Anh nghĩ tiêu chuẩn và ranh giới sống của hai đứa mình không còn phù hợp nữa. Cảm ơn em vì quãng thời gian qua. Chúc em hạnh phúc."*
+     * Thu dọn đồ đạc, thanh thản bước ra khỏi cửa, xóa kết nối nhẹ nhàng và **KHÔNG BAO GIỜ NGOÁI ĐẦU NHÌN LẠI**.
+     * **Sự im lặng và biến mất vĩnh viễn trong điềm đạm của một người đàn ông bản lĩnh chính là đòn trừng phạt nặng nề nhất mà không một lời cay nghiệt nào sánh bằng!**
+
+---
+
+## ✅ 7. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
 1. **Chấm dứt vĩnh viễn nỗi ám ảnh Canteen:** Hiểu rõ 100% nguyên nhân nàng né đi cùng là vì bảo vệ ranh giới công sở chuyên nghiệp, không liên quan đến tình cảm.
 2. **Khóa chặt hành vi rình rập:** Không ngóng nhìn, không theo dõi bước chân của bạn gái tại văn phòng FTI.
 3. **Chủ động nhịp sống công sở:** Đi ăn trưa với đồng nghiệp kỹ thuật hoặc tự thưởng cho mình bữa ăn chất lượng.
 4. **Giữ vững thần thái Senior Lead:** Lịch thiệp, đĩnh đạc, tập trung toàn lực vào cam2g và lộ trình PSM I.
 5. **Thiết lập ranh giới đi riêng 1-1 một cách đàng hoàng, quân tử:** Khi gặp mặt trực tiếp, nói rõ tiêu chuẩn tôn trọng mà không cay cú.
 6. **Xóa bỏ mặc cảm "dev bình thường":** Tự tin vào 7 năm kinh nghiệm và vũ khí AI-driven, không so đo ghen tị với bất kỳ Tech Lead nào.
+7. **Rèn luyện Tâm thế Tự Chủ Cảm Xúc Tuyệt Đối:** Thu hồi chiếc remote điều khiển nội tâm, sẵn sàng kích hoạt Ghost King Exit nếu đối phương vi phạm phẩm giá.
 
 ---
 
-## 🐸 7. CON ẾCH & HÀNH ĐỘNG GIAO HẸN (COMMITTED MICRO-ACTIONS)
+## 🐸 8. CON ẾCH & HÀNH ĐỘNG GIAO HẸN (COMMITTED MICRO-ACTIONS)
 - [ ] **A1 (Chiều nay 17:30):** Tan sở bước thẳng tới phòng Gym, tập 60 phút tạ nặng để đốt cháy toàn bộ sự ức chế thần kinh và nạp Dopamine sạch.
 - [ ] **A2 (Sáng mai tại FTI):** Bước vào văn phòng với nụ cười tự tin, chào hỏi mọi người lịch thiệp, mắt tập trung vào công việc, không ngóng nhìn chuyện canteen.
 - [ ] **A3 (Trưa mai):** Chủ động rủ đồng nghiệp đi ăn trưa hoặc đi ăn món mình thích, tận hưởng bữa trưa độc lập và thoải mái.
@@ -182,7 +213,7 @@ flowchart LR
 
 ---
 
-## 🔄 8. NGỮ CẢNH BÀN GIAO CHO PHIÊN KẾ TIẾP (HANDOVER CONTEXT)
+## 🔄 9. NGỮ CẢNH BÀN GIAO CHO PHIÊN KẾ TIẾP (HANDOVER CONTEXT)
 - **Kiểm tra ở phiên sau:** Cảm giác giải thoát khi không còn để mắt tới chuyện canteen, phong thái đĩnh đạc tại công ty và năng lượng hồi phục sau buổi Gym.
 - **Lời dặn của Coach Anh:**  
   *"Sức mạnh của người đàn ông nằm ở nơi anh ta đặt sự chú ý. Hãy rút sự chú ý khỏi những chuyện vụn vặt công sở, và đặt nó vào sự nghiệp vĩ đại của cuộc đời mình!"*

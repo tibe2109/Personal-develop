@@ -5,7 +5,7 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-11-03 17:19:00 +07:00` (Chiều Thứ Ba)
+- **Thời gian cập nhật:** `2026-11-03 17:26:00 +07:00` (Chiều Thứ Ba)
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
 - **Mã định danh phiên gần nhất:** [`Sessions/11-2026/2026-11-03-Session-01-Dap-Tat-Am-Anh-Canteen-Giai-Phong-Vet-Thuong-Bi-Bo-Roi-Noi-Cong-So.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-03-Session-01-Dap-Tat-Am-Anh-Canteen-Giai-Phong-Vet-Thuong-Bi-Bo-Roi-Noi-Cong-So.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
@@ -27,6 +27,7 @@
 10. **Bẻ Gãy Tận Gốc Nỗi Sợ Chia Ly & Sống Trọn Vẹn Hiện Tại (Fear-Setting P10 & Amor Fati):** Hoàng Anh chạm vào vết thương sâu kín nhất: nỗi sợ chia ly/bị bỏ rơi khiến em không thể tận hưởng hiện tại. Khắc chế bằng P10: Nếu có chia ly, Hoàng Anh không chết, vẫn có 7 năm IT thực chiến, đệm tiền mặt 150tr, gia đình và bản lĩnh. Triết lý "Chiếc cốc pha lê": Chấp nhận tính hữu hạn để trân quý từng phút giây hiện tại mà không sợ hãi bóp nghẹt.
 11. **Dập Tắt Nỗi Ám Ảnh Chuyện Canteen & Vết Thương "Bị Bỏ Rơi" Tại Công Ty (03/11/2026):** Giải mã tận gốc rễ: Nàng đi canteen với đồng nghiệp khác vì zero rủi ro tình cảm; nàng né đi với Hoàng Anh vì phòng vệ ranh giới công sở và ám ảnh sự cố thang máy 18/08. Tách bạch FTI là nơi khẳng định uy quyền Senior Tech Lead, không phải nhà trẻ cảm xúc. Chấm dứt hành vi ngóng nhìn, chủ động tạo nhóm ăn trưa kỹ thuật độc lập.
 12. **Bóc Tách Đòn Giáng Kép: Đối Phương Là Technical Lead & Xóa Bỏ Mặc Cảm Vị Thế (03/11/2026):** Nhận diện điểm đau sâu kín: Mặc cảm "dev bình thường" trước Tech Lead và việc bạn gái thân thiết, nể phục người khác hơn. Chuyển hóa tâm thế: Tách bạch giá trị khỏi danh xưng công sở; giữ sự hào sảng của Vị Vua (khen đối thủ điềm đạm); kích hoạt bộ lọc ranh giới và phẩm giá tự thân.
+13. **Đại Công Phu Tâm Lý: Tự Chủ Cảm Xúc Tuyệt Đối & Giao Thức Rời Đi Bản Lĩnh (03/11/2026):** Hoàng Anh khao khát rèn luyện cảnh giới: không ghen tị, không u sầu dù cô ấy đi với ai hay đối xử thế nào; nếu bị phản bội vẫn giữ bình tĩnh và rời đi nhẹ nhàng, kiêu hãnh. Kích hoạt Hệ thống 4 Trụ Cột Tự Chủ (The Sovereign Frame) & Ghost King Exit Protocol.
 
 ---
 
