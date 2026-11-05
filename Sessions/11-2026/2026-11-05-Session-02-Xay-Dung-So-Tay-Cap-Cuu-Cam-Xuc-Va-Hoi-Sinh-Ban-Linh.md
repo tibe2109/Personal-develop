@@ -37,18 +37,31 @@
   - [`SO-TAY-CAP-CUU-CAM-XUC-BAN-LINH.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/SO-TAY-CAP-CUU-CAM-XUC-BAN-LINH.md) (ngay tại thư mục gốc để truy cập tức thì).
   - [`Overview/So-Tay-Cap-Cuu-Cam-Xuc-Ban-Linh.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Overview/So-Tay-Cap-Cuu-Cam-Xuc-Ban-Linh.md) (lưu trữ trong bộ tài liệu nền tảng).
 
+### 2.2. GIẢI PHẪU 5 TỬ HUYỆT NỖI SỢ & CHIẾN LƯỢC ĐỘC LẬP CẢM XÚC TUYỆT ĐỐI (16:18 ngày 05/11/2026)
+- **Lời bộc bạch của Hoàng Anh:** *"Bản thân tâm lý của em trong tình yêu rất sợ bị xem thường, phản bội, bị bỏ rơi, bị thờ ơ và từ chối. Khi có một số dấu hiệu dù nhỏ của các việc trên, em trở nên căng thẳng và âu lo. Anh có cách nào giúp em giảm bớt các nỗi sợ trên và xử lý khi nó trỗi dậy, giúp em dù có yêu ai, hay ai yêu mình, hay không có ai yêu em vẫn tự tin, lạc quan, yêu đời và mạnh mẽ hơn mỗi ngày không?"*
+- **Chẩn đoán từ Hội đồng Cố vấn:**
+  1. *Hội chứng Siêu cảnh giác (Hypervigilance) của Anxious Attachment:* Amygdala quét môi trường liên tục để tìm mối đe dọa. Một cử chỉ nhỏ, một tin nhắn chậm, một ánh nhìn lơ đãng bị phóng đại thành án tử: "Mình bị bỏ rơi / phản bội / xem thường".
+  2. *Bẫy Bình Oxy Ngoại Vi (External Oxygen Trap):* Hoàng Anh đang coi tình cảm và sự công nhận của bạn gái như bình oxy duy nhất để thở. Khi bình oxy bị dịch chuyển, cơ thể rơi vào trạng thái ngạt thở sinh học.
+- **Hệ thống 4 Tầng Giải Thoát Cảm Xúc (The Radical Sovereignty Engine):**
+  - **Tầng 1: Giá trị Tự thân Vô điều kiện (Inherent Self-Worth):** Giá trị làm người của Hoàng Anh (7 năm IT, Playwright AI, PSM I, đệm 150tr, đạo đức, sự tử tế) là hằng số toán học độc lập. Người khác yêu hay không yêu không làm tăng hay giảm giá trị đó.
+  - **Tầng 2: CBT Decatastrophizing (Giải độc ảo tưởng siêu cảnh giác):** Micro-cue ≠ Reality. Khi thấy dấu hiệu nhỏ, kích hoạt quy tắc "3 lời giải thích thay thế" trước khi kết luận.
+  - **Tầng 3: Tự kết hôn với chính mình (Self-Belonging & Reparenting):** Người Cha Nội Tâm trở thành chỗ dựa bất khả xâm phạm. Tuyên bố với đứa trẻ bên trong: "Dù thế giới có quay lưng, anh sẽ không bao giờ bỏ rơi em."
+  - **Tầng 4: Quy luật Cuộc sống 80/20 (The 80/20 Life Architecture):** Tình yêu chỉ là 20% gia vị ngọt ngào. 80% con thuyền cuộc đời là Sự nghiệp IT, Thể chất Gym, Tài chính độc lập và Đam mê sáng tạo. Một con thuyền 80% vững chãi không bao giờ bị lật bởi một cơn sóng ở 20%!
+
 ---
 
 ## ✅ 3. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
 1. **Lưu trữ tài liệu cứu sinh ở vị trí 1-chạm:** Đặt ngay tại gốc workspace để mở ra đọc trong vòng 3 giây khi có bão cảm xúc.
 2. **Kỷ luật "15 phút không màn hình":** Khi có biến cố kích động cảm xúc, cấm chạm vào phím nhắn tin hay mạng xã hội trong 15 phút, bắt buộc mở Sổ tay cấp cứu đọc hết 5 bước trước.
 3. **Thường trực Tâm thế Vị Vua:** Tự tin vào 7 năm kinh nghiệm IT, đệm tiền 150tr và cơ thể tráng kiện; không bao giờ ăn xin tình thương.
+4. **Cài đặt Quy tắc 80/20:** Đầu tư 80% năng lượng cho 4 Portfolio tự thân; đưa tình yêu về đúng vị trí 20% gia vị cuộc sống để triệt tiêu vĩnh viễn nỗi sợ bị bỏ rơi.
 
 ---
 
 ## 🐸 4. CON ẾCH & HÀNH ĐỘNG VI MÔ GIAO HẸN (MICRO-ACTIONS COMMITTED)
 - [ ] **A1 (Hành động ngay):** Đọc trọn vẹn một lượt [`SO-TAY-CAP-CUU-CAM-XUC-BAN-LINH.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/SO-TAY-CAP-CUU-CAM-XUC-BAN-LINH.md) trong tĩnh lặng, ghi nhớ 3 điều cấm và bản tuyên ngôn Vị Vua.
 - [ ] **A2 (Duy trì chiều nay):** Làm việc tập trung với phong thái đĩnh đạc; 17:30 tiếp tục duy trì kỷ luật phòng Gym.
+- [ ] **A3 (Thực hành Tĩnh tâm khi có kích hoạt):** Mỗi khi thấy dấu hiệu thờ ơ hay lạnh nhạt, dừng 60 giây, đặt tay lên ngực và tự nhủ: "Mình có 100% giá trị tự thân. Mình an toàn."
 - [ ] **Khóa cám dỗ:** Tuyệt đối không kiểm tra điện thoại dò xét trang cá nhân của bạn gái hay đồng nghiệp; thu hồi toàn bộ năng lượng về phát triển bản thân.
 
 ---

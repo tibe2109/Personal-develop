@@ -5,7 +5,7 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-11-05 14:56:00 +07:00` (Chiều Thứ Năm)
+- **Thời gian cập nhật:** `2026-11-05 16:20:00 +07:00` (Chiều Thứ Năm)
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
 - **Mã định danh phiên gần nhất:** [`Sessions/11-2026/2026-11-05-Session-02-Xay-Dung-So-Tay-Cap-Cuu-Cam-Xuc-Va-Hoi-Sinh-Ban-Linh.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-05-Session-02-Xay-Dung-So-Tay-Cap-Cuu-Cam-Xuc-Va-Hoi-Sinh-Ban-Linh.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
@@ -29,6 +29,7 @@
 12. **Bóc Tách Đòn Giáng Kép: Đối Phương Là Technical Lead & Xóa Bỏ Mặc Cảm Vị Thế (03/11/2026):** Nhận diện điểm đau sâu kín: Mặc cảm "dev bình thường" trước Tech Lead và việc bạn gái thân thiết, nể phục người khác hơn. Chuyển hóa tâm thế: Tách bạch giá trị khỏi danh xưng công sở; giữ sự hào sảng của Vị Vua (khen đối thủ điềm đạm); kích hoạt bộ lọc ranh giới và phẩm giá tự thân.
 13. **Đại Công Phu Tâm Lý: Tự Chủ Cảm Xúc Tuyệt Đối & Giao Thức Rời Đi Bản Lĩnh (03/11/2026):** Hoàng Anh khao khát rèn luyện cảnh giới: không ghen tị, không u sầu dù cô ấy đi với ai hay đối xử thế nào; nếu bị phản bội vẫn giữ bình tĩnh và rời đi nhẹ nhàng, kiêu hãnh. Kích hoạt Hệ thống 4 Trụ Cột Tự Chủ (The Sovereign Frame) & Ghost King Exit Protocol.
 14. **Phát Hành Sổ Tay Cấp Cứu Cảm Xúc & Đánh Thức Bản Lĩnh (05/11/2026):** Thiết lập tài liệu cứu sinh tâm hồn 5 bước chuẩn hóa ([`SO-TAY-CAP-CUU-CAM-XUC-BAN-LINH.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/SO-TAY-CAP-CUU-CAM-XUC-BAN-LINH.md)) giúp Hoàng Anh dập tắt cơn ghen/tức giận/đau lòng/tự ti trong 3 phút, kết nối Người Cha Nội Tâm, đập tan 4 ảo tưởng tự hạ thấp mình và tuyên ngôn phẩm giá Vị Vua.
+15. **Hóa Giải 5 Tử Huyệt Nỗi Sợ & Kiến Tạo Nội Lực Tự Thân (05/11/2026):** Hoàng Anh thú nhận 5 nỗi sợ cốt tủy (bị xem thường, phản bội, bỏ rơi, thờ ơ, từ chối) và hội chứng siêu cảnh giác (Hypervigilance). Khắc chế bằng: Inherent Self-Worth, CBT Decatastrophizing, Tự kết hôn với chính mình (Self-Marriage) và Quy tắc Cuộc sống 80/20. Tình yêu chỉ là gia vị 20%, con thuyền 80% bất khả xâm phạm.
 
 ---
 
