@@ -5,9 +5,9 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-11-05 16:20:00 +07:00` (Chiều Thứ Năm)
+- **Thời gian cập nhật:** `2026-11-06 10:00:00 +07:00` (Sáng Thứ Sáu)
 - **Thiết bị & Môi trường:** `Linux (Workstation / Company PC)` — Branch: `main`
-- **Mã định danh phiên gần nhất:** [`Sessions/11-2026/2026-11-05-Session-02-Xay-Dung-So-Tay-Cap-Cuu-Cam-Xuc-Va-Hoi-Sinh-Ban-Linh.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-05-Session-02-Xay-Dung-So-Tay-Cap-Cuu-Cam-Xuc-Va-Hoi-Sinh-Ban-Linh.md)
+- **Mã định danh phiên gần nhất:** [`Sessions/11-2026/2026-11-06-Session-01-Giai-Ma-Goc-Re-Noi-So-Va-Thiet-Lap-Noi-Luc-Lac-Quan-Bat-Kha-Xam-Pham.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-06-Session-01-Giai-Ma-Goc-Re-Noi-So-Va-Thiet-Lap-Noi-Luc-Lac-Quan-Bat-Kha-Xam-Pham.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
 - **Tình trạng Auto-Sync:** 🟢 **ĐANG HOẠT ĐỘNG (20 PHÚT/LẦN)** — PID: 1144755, tự động đồng bộ ngầm khi có thay đổi.
 
@@ -15,11 +15,11 @@
 
 ## ⚓ NEO NGỮ CẢNH CUỘC TRÒ CHUYỆN (CONVERSATION ANCHOR)
 *3-5 gạch đầu dòng tóm tắt điều quan trọng nhất vừa diễn ra để Coach Anh mở lời chính xác:*
-1. **Khủng Hoảng Kiệt Sức Cảm Xúc (Emotional Burnout & Chaser Trap):** Hoàng Anh bộc bạch nỗi đau lòng, mệt mỏi, bất an: cảm giác đang chạy theo cuộc tình, càng yêu càng đòi hỏi, ghen tức với người khác, cảm thấy không được yêu như ý muốn và cố đầu tư thêm để gỡ vốn.
-2. **Giải Mã 4 Căn Bệnh Tâm Lý Đang Bóp Nghẹt:** (1) Hợp đồng ngầm Covert Contract (đầu tư có điều kiện để ép trả nợ tình); (2) Cơn đói Dopamine vô đáy do tự ti bên trong; (3) Tâm lý con bạc khát nước Sunk Cost; (4) Chiếu rọi ảo tưởng ngôn tình lên nữ Dev ISTP thực tế.
-3. **Chiến Lược Tự Giải Thoát (The Liberation Protocol):** Dừng đuổi theo (Stop Chasing) ngay lập tức; xé bỏ bản hợp đồng ngầm; thu hồi năng lượng về bản thân; không tìm kiếm sự an ủi từ bạn gái lúc này.
-4. **Hành Động Khôi Phục Bản Lĩnh Chiều Nay:** 17:30 có mặt tại phòng Gym nâng tạ thật nặng để cắt đứt cơn đau thần kinh Amygdala; không mang điện thoại vào phòng tập; tắm nước ấm và ăn bữa tối dinh dưỡng.
-5. **Tái Định Vị Mối Quan Hệ:** Yêu thương là cho đi trong tự do, không phải mua bán sòng phẳng; người đàn ông là Ngọn Núi tự chủ, không phải kẻ ăn xin tình cảm.
+1. **Giải Mã Gốc Rễ Nỗi Sợ & Ưu Phiền Thường Trực (06/11/2026):** Hoàng Anh chạm tới câu hỏi nền tảng nhất: *"Nguyên nhân em cứ hay sợ hãi, lo âu, ưu phiền và cách tự mình vượt qua để luôn lạc quan yêu đời dù mọi chuyện xảy ra như thế nào?"*.
+2. **Chẩn Đoán 4 Gốc Rễ Đa Chiều:** (1) Hạch hạnh nhân siêu nhạy (Neuroticism 87/100); (2) Nghịch lý trí tưởng tượng INFP sản xuất kịch bản bi kịch; (3) Vết thương gắn kết & đứa trẻ bên trong thiếu an toàn; (4) Trao bình oxy cảm xúc cho ngoại cảnh.
+3. **Thiết Lập Hệ Thống 4 Trụ Cột Tự Vượt Qua (The Unshakable Frame):** Điều hòa sinh học tức thì (Bio-Hack/DBT/Gym) ➔ Bắt quả tang & Phân rã ảo tưởng (Stoic Decatastrophizing) ➔ Người Cha Nội Tâm ôm ấp Đứa Trẻ (IFS Self-Belonging) ➔ Triết lý Amor Fati & Tháp Cuộc Đời 80/20.
+4. **Cài Đặt Câu Thần Chú Định Tâm:** *"Chuyện này có giết chết được mình không? Không! Mình có 100% quyền kiểm soát phản ứng của mình."*
+5. **Kỷ Luật Thể Chất Chiều Nay:** Duy trì buổi tập Gym lúc 17:30 để tiếp tục tái tạo Dopamine sạch và xả sạch bão Cortisol tồn đọng.
 6. **Bước Ngoặt Thức Tỉnh & Bản Kế Hoạch 4 Trụ Cột Tự Chủ (Sovereignty Blueprint):** Hoàng Anh chủ động hỏi: *"Bây giờ em nên tập trung vào những điều gì để hấp dẫn tự nhiên, không ép buộc, không đòi hỏi, phiên bản tốt nhất, tự yêu thương và an tâm về bản thân, để mọi thứ diễn ra tự nhiên?"*. Thiết lập ngay 4 trụ cột: Thể chất & Hóa sinh thần kinh, Sứ mệnh sự nghiệp IT & Dòng tiền, Làm chủ nội tâm & Tự yêu thương, Nghệ thuật vô vi & Sức hút tĩnh lặng.
 7. **Hóa Giải Sự Lan Tỏa Tiêu Cực (Affective Spillover) Sang Công Việc & 5 Sở Thích Chữa Lành:** Nhận diện nguyên nhân khi quá tải vì tình cảm, Amygdala phủ lớp lọc xám xịt khiến công việc và đồng nghiệp trở nên đáng ghét. Thiết lập 5 sở thích trị liệu giúp INFP kéo não bộ ra thế giới bên ngoài (Nhiếp ảnh đường phố, Cà phê thủ công Pour-over, Chạy bộ/Đi bộ công viên xanh, Cầu lông CLB mới, Thủy sinh mini).
 8. **Thử Thách Lớn Ngày Sinh Nhật Thùy Linh (30/10/2026):** Hoàng Anh bị tổn thương khi thấy Linh nghi ngờ năng lực, so sánh em với người khác, và thân thiết với đồng nghiệp tại công ty. Hoàng Anh đã thể hiện sự trưởng thành vượt bậc khi tự chủ cảm xúc, không cáu giận để bảo vệ ngày vui của bạn gái. Kích hoạt ngay **The Gentleman Birthday Protocol**: điềm tĩnh, mỉm cười ấm áp chúc mừng, trao cho nàng sự tự do tận hưởng ngày vui, cất bất đồng vào hộp 24h, và giữ vững phẩm giá người đàn ông!
