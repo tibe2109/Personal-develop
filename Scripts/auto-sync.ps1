@@ -173,7 +173,7 @@ function Start-AutoSync {
         return
     }
 
-    $argList = @("-NoProfile", "-WindowStyle", "Hidden", "-ExecutionPolicy", "Bypass", "-File", "`"$workerScript`"", "-IntervalMinutes", "$Interval")
+    $argList = @("-NoProfile", "-WindowStyle", "Hidden", "-ExecutionPolicy", "Bypass", "-File", $workerScript, "-IntervalMinutes", "$Interval")
     $process = Start-Process powershell -ArgumentList $argList -PassThru
 
     if ($process -and $process.Id) {
@@ -239,8 +239,7 @@ switch ($Action) {
             $pId = (Get-Content $pidFile | Out-String).Trim()
             Write-Host "🛡️ Auto-Sync Daemon đã hoạt động ổn định (PID: $pId)." -ForegroundColor Green
         }
-        $tagMsg = "[🛡️ Auto-Sync: Active ($IntervalMinutes m) | 📥 Synced: origin/$branch]"
-        Write-Host "`n$tagMsg`n" -ForegroundColor Green
+        Write-Host "`n[🛡️ Auto-Sync: Active | 📥 Synced: origin/$branch]`n" -ForegroundColor Green
     }
     'session-end' {
         Write-Host "📤 [SESSION-END] Đang kích hoạt giao thức đồng bộ kết thúc phiên..." -ForegroundColor Cyan
