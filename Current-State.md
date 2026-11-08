@@ -53,6 +53,7 @@
 - **Chế độ ngày (Daily Mode):** 🧘‍♂️ **Dopamine Detox & Acute Addiction Intervention Protocol**.
 - **Con Ếch A1 (Quan trọng nhất - Hôm nay 08/11):**
   - [x] **Ban hành Phác đồ 90 Ngày Cai Nghiện Dopamine Rác:** Hoàn thiện [`Plan/Phac-Do-90-Ngay-Cai-Nghien-Dopamine-Rac-Thuoc-La-Porn-MXH.md`](file:///d:/Solution/Person-develop/Plan/Phac-Do-90-Ngay-Cai-Nghien-Dopamine-Rac-Thuoc-La-Porn-MXH.md).
+  - [x] **Thực thi Bài học số 1 AI Automation:** Hoàn thiện Lab 01 (Deterministic Guardrails & Self-Healing Engine tại [`AI-Automation-Lab/Lab-01-Structured-Outputs/`](file:///d:/Solution/Person-develop/AI-Automation-Lab/Lab-01-Structured-Outputs/)).
 - **Nhiệm vụ B (Should do - Tối nay & Sáng mai):**
   - [ ] **Hành động ma sát số 1:** Vứt toàn bộ gạt tàn/bật lửa trong phòng.
   - [ ] **Hành động ma sát số 2:** Bật chế độ Grayscale trắng đen trên điện thoại.
