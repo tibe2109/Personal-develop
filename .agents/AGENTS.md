@@ -68,17 +68,23 @@ Luôn kiểm tra và nắm bắt tình hình công việc Full-time (Dự án FT
 - Khi có các cuộc thảo luận chiến lược, gỡ rối khủng hoảng, chốt kế hoạch hoặc khi người dùng yêu cầu lưu phiên: Coach Anh tự động tạo file log chuẩn tại `Sessions/MM-YYYY/YYYY-MM-DD-Session-[STT]-[Chu-De].md` theo mẫu `Sessions/Template/_TEMPLATE-Session-Log.md`.
 - Cập nhật ngay `Current-State.md` (Anchor, Mood radar, Frog, Open loops) và cập nhật `Overview/Summary-Hanh-trinh-Chinh-phuc-Muc-tieu.md` nếu có cột mốc chiến lược.
 
-### 5.3. Quy Trình Đồng Bộ Đa Máy Tính (Git Sync Engine):
-- Hướng dẫn người dùng thói quen 2 lệnh đơn giản:
-  * **Khi bắt đầu làm việc:** Chạy `./Scripts/sync.sh pull` (Linux/Mac) hoặc `.\Scripts\sync.ps1 -Action pull` (Windows).
-  * **Khi kết thúc làm việc:** Chạy `./Scripts/sync.sh push` (Linux/Mac) hoặc `.\Scripts\sync.ps1 -Action push` (Windows).
+### 5.3. Giao Thức Tự Động Đồng Bộ 2 Chiều Đầu & Cuối Phiên (Real-Time Session Sync):
+Để đảm bảo dù người dùng ở bất kỳ máy nào (Linux công ty, Windows ở nhà, macOS), mọi nội dung trao đổi, ký ức và nhật ký đều lập tức đồng nhất 100%:
+- **1. NGAY ĐẦU PHIÊN (Session-Start Auto-Pull) — BẮT BUỘC:**  
+  Mỗi khi bắt đầu phiên hoặc nhận tin nhắn đầu tiên của người dùng, Coach Anh **BẮT BUỘC CHẠY NGAY** lệnh:
+  * Windows: `.\Scripts\sync.ps1 -Action session-start`
+  * Linux/Mac: `./Scripts/sync.sh session-start`
+  * *Mục tiêu:* Kéo toàn bộ trao đổi và nhật ký mới nhất từ GitHub về máy cục bộ trước khi trả lời, đồng thời tự động kiểm tra/bật Auto-Sync Daemon nếu chưa chạy. Đính kèm tag `[🛡️ Auto-Sync: Active | 📥 Synced: origin/main]` trong lời chào.
+- **2. TRONG & CUỐI PHIÊN (Session-End Auto-Push) — BẮT BUỘC:**  
+  Bất cứ khi nào tạo/cập nhật file Session log trong `Sessions/`, cập nhật `Current-State.md`, `Overview/` hay kế hoạch `Plan/`, Coach Anh **BẮT BUỘC CHẠY NGAY** lệnh:
+  * Windows: `.\Scripts\sync.ps1 -Action session-end -Message "<Nội dung tóm tắt>"`
+  * Linux/Mac: `./Scripts/sync.sh session-end "<Nội dung tóm tắt>"`
+  * *Mục tiêu:* Đẩy lập tức mọi dữ liệu lên GitHub, không bao giờ để ủ cục bộ.
 
-### 5.4. Cơ Chế Tự Động Đồng Bộ Ngầm (Auto-Sync Daemon 15-30 Phút) & Tự Động Kích Hoạt Khi Chat:
-- **Tự động kiểm tra & Tự kích hoạt (Auto-Check & Auto-Launch):** Trong MỌI phiên tương tác và mỗi lần người dùng trò chuyện, Coach Anh **BẮT BUỘC KIỂM TRA** trạng thái của Auto-Sync Daemon (`./Scripts/auto-sync.sh status` trên Linux/Mac hoặc `.\Scripts\auto-sync.ps1 -Action status` trên Windows).
-- **Hành động tự động:**
-  * Nếu Daemon **ĐANG TẮT (STOPPED):** Coach Anh **tự động kích hoạt ngay lập tức** bằng lệnh ngầm (`./Scripts/auto-sync.sh start 20` hoặc PowerShell tương ứng) với chu kỳ mặc định 20 phút/lần khi có thay đổi dữ liệu, đồng thời đính kèm tag `[🛡️ Auto-Sync: Active (20m)]` trong lời chào để người dùng an tâm.
-  * Nếu Daemon **ĐANG CHẠY (ACTIVE):** Tiếp tục duy trì giám sát, không cần khởi động lại.
-  * Tiến trình ngầm chỉ commit & push khi có thay đổi dữ liệu thực sự, không gây lãng phí tài nguyên.
+### 5.4. Lá Chắn Ngầm Định Kỳ (Auto-Sync Daemon 15 Phút):
+- Daemon chạy ngầm liên tục đóng vai trò pháo đài bảo hiểm an toàn (Safety Net) 15 phút/lần:
+  * Tự động stash, kéo rebase, kiểm tra thay đổi, commit và push lên GitHub nếu có biến động dữ liệu giữa các phiên.
+  * Quản trị qua lệnh: `.\Scripts\auto-sync.ps1 -Action status|start|stop|restart` (Windows) hoặc `./Scripts/auto-sync.sh status|start|stop|restart` (Linux).
 
 ---
 
@@ -102,4 +108,3 @@ Luôn kiểm tra và nắm bắt tình hình công việc Full-time (Dự án FT
 - `Plan/06-Portfolio-4-Tinh-Yeu-Hon-Nhan-Gia-Dinh.md` → **Portfolio 4: Tình yêu thăng hoa, Hôn nhân & Tổ ấm gia đình**
 - `Plan/10-Cong-viec-Cong-ty.md` → **Mục tiêu, dự án FTI-AM & sự kiện tại công ty (Tải trọng tuần/ngày)**
 - `Plan/Daily/[MM-YYYY]/` & `Report/[MM-YYYY]/` → **Kế hoạch và kết quả thực thi hàng ngày**
-

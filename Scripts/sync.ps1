@@ -1,27 +1,30 @@
-<#
+﻿<#
 .SYNOPSIS
     🔄 PERSONAL-DEVELOP SYNC ENGINE (POWERSHELL / WINDOWS)
-    Tự động hóa kéo (pull), đẩy (push) và đồng bộ (sync) tiến trình phát triển cá nhân.
+    Tự động hóa kéo (pull), đẩy (push) và đồng bộ (sync) tiến trình phát triển cá nhân,
+    tích hợp sâu với chu kỳ phiên làm việc của Coach Anh (session-start / session-end).
 
 .DESCRIPTION
     Hỗ trợ đồng bộ an toàn giữa máy tính Windows và GitHub repository, tích hợp với
     hệ thống Ký ức Liên Phiên (Current-State.md & Sessions/) của Coach Anh.
 
 .PARAMETER Action
-    Hành động cần thực hiện: 'sync' (mặc định), 'pull', 'push', hoặc 'status'.
+    'session-start', 'session-end', 'sync' (mặc định), 'pull', 'push', hoặc 'status'.
 
 .PARAMETER Message
-    Nội dung ghi chú commit tùy chọn khi thực hiện push.
+    Nội dung ghi chú commit tùy chọn khi thực hiện push hoặc session-end.
 
 .EXAMPLE
-    .\Scripts\sync.ps1
+    .\Scripts\sync.ps1 -Action session-start
+    .\Scripts\sync.ps1 -Action session-end -Message "Cập nhật nhật ký phiên"
+    .\Scripts\sync.ps1 -Action sync
     .\Scripts\sync.ps1 -Action pull
     .\Scripts\sync.ps1 -Action push -Message "Hoàn thành Con Ếch A1"
     .\Scripts\sync.ps1 -Action status
 #>
 
 param(
-    [ValidateSet('sync', 'pull', 'push', 'status')]
+    [ValidateSet('session-start', 'session-end', 'sync', 'pull', 'push', 'status')]
     [string]$Action = 'sync',
 
     [string]$Message = ''
@@ -36,9 +39,10 @@ Set-Location $workspaceRoot
 
 $branch = "main"
 $remote = "origin"
+$autoSyncScript = Join-Path $scriptDir "auto-sync.ps1"
 
 Write-Host "======================================================" -ForegroundColor Cyan
-Write-Host " 🚀 COACH ANH — PERSONAL-DEVELOP SYNC ENGINE (v1.0)   " -ForegroundColor Cyan
+Write-Host " 🚀 COACH ANH — PERSONAL-DEVELOP SYNC ENGINE (v2.0)   " -ForegroundColor Cyan
 Write-Host "======================================================" -ForegroundColor Cyan
 Write-Host "Thư mục làm việc: $workspaceRoot" -ForegroundColor Yellow
 
@@ -138,9 +142,29 @@ function Invoke-GitStatus {
     git status -s
     Write-Host "`n🕒 3 Commit gần nhất:" -ForegroundColor Blue
     git log -n 3 --oneline --graph --decorate
+    if (Test-Path $autoSyncScript) {
+        Write-Host "`n🛡️ Trạng thái Auto-Sync Daemon:" -ForegroundColor Blue
+        & $autoSyncScript -Action status
+    }
 }
 
 switch ($Action) {
+    'session-start' {
+        Write-Host "`n⚡ [SESSION-START] Khởi động phiên tương tác — Đồng bộ 2 chiều tức thì..." -ForegroundColor Cyan
+        if (Test-Path $autoSyncScript) {
+            & $autoSyncScript -Action session-start
+        } else {
+            Invoke-GitPull | Out-Null
+        }
+    }
+    'session-end' {
+        Write-Host "`n⚡ [SESSION-END] Kết thúc phiên tương tác — Đẩy dữ liệu lên GitHub..." -ForegroundColor Cyan
+        if (Test-Path $autoSyncScript) {
+            & $autoSyncScript -Action session-end -Message $Message
+        } else {
+            Invoke-GitPush | Out-Null
+        }
+    }
     'pull' {
         Invoke-GitPull | Out-Null
     }

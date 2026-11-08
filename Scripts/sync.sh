@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # ==============================================================================
 # 🔄 PERSONAL-DEVELOP SYNC ENGINE (BASH / LINUX & MACOS)
-# Tự động hóa kéo (pull), đẩy (push) và đồng bộ (sync) tiến trình phát triển cá nhân
+# Tự động hóa kéo (pull), đẩy (push) và đồng bộ (sync) tiến trình phát triển cá nhân,
+# tích hợp sâu với chu kỳ phiên làm việc của Coach Anh (session-start / session-end).
 # ==============================================================================
 
 # Màu sắc hiển thị
@@ -21,9 +22,10 @@ ACTION="${1:-sync}"
 CUSTOM_MSG="${2:-}"
 BRANCH="main"
 REMOTE="origin"
+AUTO_SYNC_SCRIPT="$SCRIPT_DIR/auto-sync.sh"
 
 echo -e "${C_CYAN}${C_BOLD}======================================================${C_RESET}"
-echo -e "${C_CYAN}${C_BOLD} 🚀 COACH ANH — PERSONAL-DEVELOP SYNC ENGINE (v1.0)   ${C_RESET}"
+echo -e "${C_CYAN}${C_BOLD} 🚀 COACH ANH — PERSONAL-DEVELOP SYNC ENGINE (v2.0)   ${C_RESET}"
 echo -e "${C_CYAN}${C_BOLD}======================================================${C_RESET}"
 echo -e "Thư mục làm việc: ${C_YELLOW}$WORKSPACE_ROOT${C_RESET}"
 
@@ -42,7 +44,6 @@ fi
 do_pull() {
     echo -e "\n${C_BLUE}📥 [PULL] Đang kiểm tra và tải cập nhật từ GitHub ($REMOTE/$BRANCH)...${C_RESET}"
     
-    # Kiểm tra xem có thay đổi cục bộ chưa commit hay không
     HAS_LOCAL_CHANGES=0
     if [ -n "$(git status --porcelain)" ]; then
         HAS_LOCAL_CHANGES=1
@@ -50,7 +51,6 @@ do_pull() {
         git stash push -u -m "Auto-stash before sync $(date '+%Y-%m-%d %H:%M:%S')" >/dev/null 2>&1
     fi
 
-    # Thực hiện pull rebase
     if git pull --rebase "$REMOTE" "$BRANCH"; then
         echo -e "${C_GREEN}✅ Kéo dữ liệu mới nhất thành công!${C_RESET}"
         if [ "$HAS_LOCAL_CHANGES" -eq 1 ]; then
@@ -112,9 +112,29 @@ do_status() {
     git status -s
     echo -e "\n${C_BLUE}🕒 3 Commit gần nhất:${C_RESET}"
     git log -n 3 --oneline --graph --decorate
+    if [ -f "$AUTO_SYNC_SCRIPT" ]; then
+        echo -e "\n${C_BLUE}🛡️ Trạng thái Auto-Sync Daemon:${C_RESET}"
+        /bin/bash "$AUTO_SYNC_SCRIPT" status
+    fi
 }
 
 case "$ACTION" in
+    session-start)
+        echo -e "\n${C_CYAN}⚡ [SESSION-START] Khởi động phiên tương tác — Đồng bộ 2 chiều tức thì...${C_RESET}"
+        if [ -f "$AUTO_SYNC_SCRIPT" ]; then
+            /bin/bash "$AUTO_SYNC_SCRIPT" session-start
+        else
+            do_pull
+        fi
+        ;;
+    session-end)
+        echo -e "\n${C_CYAN}⚡ [SESSION-END] Kết thúc phiên tương tác — Đẩy dữ liệu lên GitHub...${C_RESET}"
+        if [ -f "$AUTO_SYNC_SCRIPT" ]; then
+            /bin/bash "$AUTO_SYNC_SCRIPT" session-end "$CUSTOM_MSG"
+        else
+            do_push
+        fi
+        ;;
     pull)
         do_pull
         ;;
@@ -132,6 +152,8 @@ case "$ACTION" in
     *)
         echo -e "${C_RED}❌ Lựa chọn không hợp lệ: '$ACTION'${C_RESET}"
         echo -e "Cách sử dụng:"
+        echo -e "  $0 session-start        -> Kéo dữ liệu mới nhất & khởi động Daemon"
+        echo -e "  $0 session-end [msg]    -> Commit & đẩy ngay dữ liệu vừa trao đổi"
         echo -e "  $0 pull                 -> Kéo cập nhật mới nhất về máy"
         echo -e "  $0 push [nội dung]      -> Đẩy các cập nhật lên GitHub"
         echo -e "  $0 sync [nội dung]      -> Vừa kéo vừa đẩy (khuyên dùng)"

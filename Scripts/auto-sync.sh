@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # ==============================================================================
 # 🔄 PERSONAL-DEVELOP AUTO-SYNC DAEMON (BASH / LINUX & MACOS)
-# Tự động hóa kiểm tra, commit, pull và push định kỳ 15-30 phút khi có thay đổi.
+# Tự động hóa kiểm tra, commit, pull và push định kỳ 15-30 phút khi có thay đổi,
+# đồng thời hỗ trợ đồng bộ tức thì đầu phiên (session-start) và cuối phiên (session-end).
 # ==============================================================================
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -12,7 +13,7 @@ PID_FILE="$SCRIPT_DIR/.auto-sync.pid"
 LOG_FILE="$SCRIPT_DIR/auto-sync.log"
 BRANCH="main"
 REMOTE="origin"
-DEFAULT_INTERVAL_MIN=30
+DEFAULT_INTERVAL_MIN=15
 
 # Màu sắc hiển thị
 C_RESET='\033[0m'
@@ -24,12 +25,12 @@ C_CYAN='\033[0;36m'
 C_BOLD='\033[1m'
 
 install_cron() {
-    local cron_cmd="*/30 * * * * /bin/bash \"$SCRIPT_DIR/auto-sync.sh\" cron >/dev/null 2>&1"
+    local cron_cmd="*/$DEFAULT_INTERVAL_MIN * * * * /bin/bash \"$SCRIPT_DIR/auto-sync.sh\" cron >/dev/null 2>&1"
     if crontab -l 2>/dev/null | grep -F "auto-sync.sh" >/dev/null 2>&1; then
         crontab -l 2>/dev/null | grep -v -F "auto-sync.sh" | crontab -
     fi
     (crontab -l 2>/dev/null; echo "$cron_cmd") | crontab -
-    echo -e "${C_GREEN}✅ Đã cài đặt Cron Job tự động đồng bộ định kỳ 30 phút/lần thành công!${C_RESET}"
+    echo -e "${C_GREEN}✅ Đã cài đặt Cron Job tự động đồng bộ định kỳ ${DEFAULT_INTERVAL_MIN} phút/lần thành công!${C_RESET}"
     echo -e "   - Lệnh: ${C_CYAN}$cron_cmd${C_RESET}"
 }
 
@@ -45,10 +46,13 @@ uninstall_cron() {
 is_running() {
     if [ -f "$PID_FILE" ]; then
         local pid
-        pid="$(cat "$PID_FILE" 2>/dev/null)"
+        pid="$(cat "$PID_FILE" 2>/dev/null | tr -d '[:space:]')"
         if [ -n "$pid" ] && kill -0 "$pid" 2>/dev/null; then
-            return 0
+            if grep -qi "auto-sync" "/proc/$pid/cmdline" 2>/dev/null || [ -d "/proc/$pid" ]; then
+                return 0
+            fi
         fi
+        rm -f "$PID_FILE"
     fi
     return 1
 }
@@ -59,7 +63,7 @@ do_sync_tick() {
     now="$(date '+%Y-%m-%d %H:%M:%S')"
     export GIT_TERMINAL_PROMPT=0
 
-    # Giới hạn dung lượng file log tối đa 5MB (chống tràn ổ đĩa)
+    # Giới hạn dung lượng file log tối đa 5MB
     if [ -f "$LOG_FILE" ]; then
         local log_sz
         log_sz=$(stat -c%s "$LOG_FILE" 2>/dev/null || echo 0)
@@ -68,9 +72,7 @@ do_sync_tick() {
         fi
     fi
 
-    export GIT_TERMINAL_PROMPT=0
-
-    # 1. Kiểm tra kết nối và kéo cập nhật từ remote (nếu có)
+    # 1. Kiểm tra kết nối và kéo cập nhật từ remote
     if git remote get-url "$REMOTE" >/dev/null 2>&1; then
         local has_stash=0
         if [ -n "$(git status --porcelain)" ]; then
@@ -82,6 +84,7 @@ do_sync_tick() {
             if [ "$has_stash" -eq 1 ]; then
                 git stash pop >/dev/null 2>&1
             fi
+            echo "[$now] 📥 [PULL] Kéo cập nhật từ remote ($REMOTE/$BRANCH) thành công." >> "$LOG_FILE"
         else
             if [ "$has_stash" -eq 1 ]; then
                 git stash pop >/dev/null 2>&1
@@ -90,11 +93,10 @@ do_sync_tick() {
         fi
     fi
 
-    # 2. Kiểm tra xem có file nào thay đổi không
+    # 2. Kiểm tra thay đổi cục bộ để push
     local changes
     changes="$(git status --porcelain)"
     if [ -z "$changes" ]; then
-        # Không có thay đổi nào -> yên lặng bỏ qua
         return 0
     fi
 
@@ -102,7 +104,7 @@ do_sync_tick() {
     git add -A
 
     local host_str
-    host_str="$(hostname 2>/dev/null || echo 'PC')"
+    host_str="$(hostname 2>/dev/null || echo 'Linux-PC')"
     local commit_msg="Auto-sync [$host_str] ($(date '+%Y-%m-%d %H:%M')): Tự động đồng bộ tiến trình"
 
     if git commit -m "$commit_msg" >/dev/null 2>&1; then
@@ -111,22 +113,22 @@ do_sync_tick() {
         if [ $? -eq 0 ]; then
             echo "[$now] ✅ [SUCCESS] Đã tự động đẩy thay đổi lên GitHub thành công!" >> "$LOG_FILE"
         else
-            echo "[$now] ⚠️ [PUSH FAILED] Commit cục bộ thành công nhưng chưa push được lên GitHub." >> "$LOG_FILE"
-            echo "[$now]    Chi tiết lỗi: $push_output" >> "$LOG_FILE"
-            echo "[$now]    👉 Khắc phục: Chạy 'git push' trong terminal 1 lần để lưu mật khẩu (credential.helper store)." >> "$LOG_FILE"
+            echo "[$now] ⚠️ [PUSH FAILED] Commit thành công nhưng push thất bại: $push_output" >> "$LOG_FILE"
         fi
     fi
-
 }
 
-# Vòng lặp chạy ngầm vĩnh viễn của daemon
+# Vòng lặp chạy ngầm của daemon
 daemon_loop() {
     local interval_min="${1:-$DEFAULT_INTERVAL_MIN}"
     local interval_sec=$((interval_min * 60))
 
     echo "$$" > "$PID_FILE"
     echo "$interval_min" > "$SCRIPT_DIR/.auto-sync.interval"
-    echo "[$(date '+%Y-%m-%d %H:%M:%S')] 🚀 Auto-sync daemon đã khởi động (Chu kỳ: ${interval_min} phút, PID: $$)" >> "$LOG_FILE"
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] 🚀 Auto-sync daemon Linux đã khởi động (Chu kỳ: ${interval_min} phút, PID: $$)" >> "$LOG_FILE"
+
+    # Chạy chu kỳ đầu tiên ngay lập tức (Tick 0)
+    do_sync_tick
 
     while true; do
         sleep "$interval_sec"
@@ -144,14 +146,12 @@ start_daemon() {
         return 0
     fi
 
-    # Khởi động daemon hoàn toàn tách rời bằng setsid
     if command -v setsid >/dev/null 2>&1; then
         setsid -f "$0" daemon-loop "$interval_min" >/dev/null 2>&1
     else
         nohup "$0" daemon-loop "$interval_min" >/dev/null 2>&1 &
     fi
 
-    # Đợi daemon ghi PID
     for _ in {1..5}; do
         sleep 0.5
         if is_running; then
@@ -174,7 +174,6 @@ start_daemon() {
     fi
 }
 
-
 stop_daemon() {
     if is_running; then
         local current_pid
@@ -193,14 +192,14 @@ stop_daemon() {
 
 status_daemon() {
     local has_cron=0
-    if crontab -l 2>/dev/null | grep -F "auto-sync.sh run-once" >/dev/null 2>&1; then
+    if crontab -l 2>/dev/null | grep -F "auto-sync.sh" >/dev/null 2>&1; then
         has_cron=1
     fi
 
     if is_running; then
         local current_pid
         current_pid="$(cat "$PID_FILE")"
-        local interval_val="30"
+        local interval_val="15"
         if [ -f "$SCRIPT_DIR/.auto-sync.interval" ]; then
             interval_val="$(cat "$SCRIPT_DIR/.auto-sync.interval")"
         fi
@@ -208,11 +207,11 @@ status_daemon() {
         echo -e "   - PID: ${C_CYAN}$current_pid${C_RESET}"
         echo -e "   - Chu kỳ: ${C_YELLOW}${interval_val} phút/lần${C_RESET}"
     else
-        echo -e "${C_YELLOW}⚪ [INACTIVE] Auto-Sync Daemon chạy ngầm hiện đang tắt${C_RESET}"
+        echo -e "${C_RED}🔴 [STOPPED] Auto-Sync Daemon ĐANG TẮT${C_RESET}"
     fi
 
     if [ "$has_cron" -eq 1 ]; then
-        echo -e "${C_GREEN}⏰ [CRONTAB: ACTIVE] Cron Job hệ thống ĐANG CHẠY tự động mỗi 30 phút!${C_RESET}"
+        echo -e "${C_GREEN}⏰ [CRONTAB: ACTIVE] Cron Job hệ thống ĐANG CHẠY tự động mỗi ${DEFAULT_INTERVAL_MIN} phút!${C_RESET}"
     fi
 
     if [ -f "$LOG_FILE" ]; then
@@ -231,6 +230,34 @@ ACTION="${1:-status}"
 INTERVAL="${2:-$DEFAULT_INTERVAL_MIN}"
 
 case "$ACTION" in
+    session-start)
+        echo -e "${C_CYAN}📥 [SESSION-START] Đang kích hoạt giao thức đồng bộ đầu phiên...${C_RESET}"
+        do_sync_tick
+        if ! is_running; then
+            echo -e "${C_YELLOW}⚡ Daemon đang tắt. Đang tự động kích hoạt Daemon ngầm (chu kỳ ${INTERVAL} phút)...${C_RESET}"
+            start_daemon "$INTERVAL"
+        else
+            p="$(cat "$PID_FILE" 2>/dev/null)"
+            echo -e "${C_GREEN}🛡️ Auto-Sync Daemon đã hoạt động ổn định (PID: $p).${C_RESET}"
+        fi
+        echo -e "${C_GREEN}\n[🛡️ Auto-Sync: Active | 📥 Synced: origin/$BRANCH]\n${C_RESET}"
+        ;;
+    session-end)
+        echo -e "${C_CYAN}📤 [SESSION-END] Đang kích hoạt giao thức đồng bộ kết thúc phiên...${C_RESET}"
+        if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            host_str="$(hostname 2>/dev/null || echo 'Linux-PC')"
+            commit_msg="${2:-Auto-sync [$host_str] ($(date '+%Y-%m-%d %H:%M')): Lưu tiến trình cuối phiên trao đổi}"
+            git commit -m "$commit_msg" >/dev/null 2>&1
+            if git push "$REMOTE" "$BRANCH" >/dev/null 2>&1; then
+                echo -e "${C_GREEN}✅ Toàn bộ nội dung trao đổi và nhật ký đã được đẩy lên GitHub an toàn!${C_RESET}"
+            else
+                echo -e "${C_RED}⚠️ Push lên remote thất bại. Vui lòng kiểm tra kết nối mạng.${C_RESET}"
+            fi
+        else
+            echo -e "${C_GREEN}✨ Không có thay đổi dữ liệu nào cần push.${C_RESET}"
+        fi
+        ;;
     start)
         start_daemon "$INTERVAL"
         ;;
@@ -263,14 +290,7 @@ case "$ACTION" in
         echo -e "${C_GREEN}✅ Hoàn tất chu kỳ đồng bộ!${C_RESET}"
         ;;
     *)
-        echo -e "${C_YELLOW}Cách sử dụng: $0 {start [phút]|stop|restart [phút]|status|run-once|install-cron|uninstall-cron}${C_RESET}"
-        echo -e "Ví dụ:"
-        echo -e "  $0 start 30       -> Chạy ngầm daemon định kỳ 30 phút/lần"
-        echo -e "  $0 install-cron   -> Cài đặt Cron Job hệ thống tự chạy mỗi 30 phút"
-        echo -e "  $0 status         -> Kiểm tra trạng thái đang chạy hay tắt"
-        echo -e "  $0 stop           -> Dừng tiến trình daemon ngầm"
-        echo -e "  $0 run-once       -> Đồng bộ ngay lập tức 1 lần"
+        echo -e "${C_YELLOW}Cách sử dụng: $0 {session-start|session-end|start|stop|restart|status|run-once|install-cron|uninstall-cron}${C_RESET}"
         exit 1
         ;;
 esac
-
