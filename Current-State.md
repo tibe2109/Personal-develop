@@ -5,9 +5,10 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-11-08 18:40:00 +07:00` (Chủ Nhật)
+- **Thời gian cập nhật:** `2026-11-08 19:20:00 +07:00` (Chủ Nhật)
 - **Thiết bị & Môi trường:** `Windows PC` — Branch: `main`
 - **Mã định danh các phiên mốc:**
+  - *Mổ xẻ Tử huyệt & Phác đồ Khắc phục:* [`Sessions/11-2026/2026-11-08-Session-02-Boc-Tach-Tu-Huyet-Than-Kinh-Tinh-Cach-Tu-Duy-Va-Phac-Do-Khac-Phuc.md`](file:///d:/Solution/Person-develop/Sessions/11-2026/2026-11-08-Session-02-Boc-Tach-Tu-Huyet-Than-Kinh-Tinh-Cach-Tu-Duy-Va-Phac-Do-Khac-Phuc.md)
   - *Tâm lý & Nội lực:* [`Sessions/11-2026/2026-11-06-Session-01-Giai-Ma-Goc-Re-Noi-So-Va-Thiet-Lap-Noi-Luc-Lac-Quan-Bat-Kha-Xam-Pham.md`](file:///d:/Solution/Person-develop/Sessions/11-2026/2026-11-06-Session-01-Giai-Ma-Goc-Re-Noi-So-Va-Thiet-Lap-Noi-Luc-Lac-Quan-Bat-Kha-Xam-Pham.md)
   - *Khởi nghiệp B2B Software Studio:* [`Sessions/10-2026/2026-10-24-Session-04-Ke-Hoach-Kinh-Doanh-Software-Studio-B2B.md`](file:///d:/Solution/Person-develop/Sessions/10-2026/2026-10-24-Session-04-Ke-Hoach-Kinh-Doanh-Software-Studio-B2B.md)
   - *Cơ chế Đồng bộ Đa máy tính:* [`Sessions/11-2026/2026-11-08-Session-01-Thiet-Lap-Co-Che-Dong-Bo-Lien-Phien-Hai-Chieu-Git.md`](file:///d:/Solution/Person-develop/Sessions/11-2026/2026-11-08-Session-01-Thiet-Lap-Co-Che-Dong-Bo-Lien-Phien-Hai-Chieu-Git.md)
@@ -18,7 +19,8 @@
 
 ## ⚓ NEO NGỮ CẢNH CUỘC TRÒ CHUYỆN (CONVERSATION ANCHOR)
 *Các gạch đầu dòng tóm tắt điều quan trọng nhất vừa diễn ra để Coach Anh mở lời chính xác:*
-1. **Thiết Lập Cơ Chế Tự Động Đồng Bộ 2 Chiều Tuyệt Đối (08/11/2026):** Đáp ứng trọn vẹn yêu cầu cốt lõi của Hoàng Anh: Mọi trao đổi, thay đổi, nhật ký phiên trò chuyện đều được tự động đồng bộ kéo về (Auto-Pull) ngay khi vừa mở phiên trò chuyện và tự động đẩy lên (Auto-Push) ngay khi có thay đổi/kết thúc phiên. Dù ngồi ở máy Linux (công ty) hay Windows (ở nhà), ký ức luôn đồng nhất 100%.
+1. **Bóc Tách Tử Huyệt Thần Kinh, Tính Cách, Tư Duy & Phác Đồ Khắc Phục (08/11/2026 - Tối):** Mổ xẻ 3 tử huyệt kìm hãm thành công trong sự nghiệp, tình yêu và quan hệ (Amygdala/Neuroticism 87 quá tải, Agreeableness 72 thiếu ranh giới, Imposter Syndrome & Toxic Shame). Thiết lập phác đồ khắc phục 3 tầng: Điều hòa sinh học thần kinh (DBT + Gym), Ranh giới thép & Quyến rũ tĩnh lặng (IFS Reparenting), và Hệ tư duy Khắc kỷ Proof-of-Work đè bẹp bằng cấp.
+2. **Thiết Lập Cơ Chế Tự Động Đồng Bộ 2 Chiều Tuyệt Đối (08/11/2026):** Đáp ứng trọn vẹn yêu cầu cốt lõi của Hoàng Anh: Mọi trao đổi, thay đổi, nhật ký phiên trò chuyện đều được tự động đồng bộ kéo về (Auto-Pull) ngay khi vừa mở phiên trò chuyện và tự động đẩy lên (Auto-Push) ngay khi có thay đổi/kết thúc phiên. Dù ngồi ở máy Linux (công ty) hay Windows (ở nhà), ký ức luôn đồng nhất 100%.
 2. **Giải Mã Gốc Rễ Nỗi Sợ & Thiết Lập Nội Lực Lạc Quan (06/11/2026):** Chẩn đoán 4 gốc rễ: Neuroticism 87/100, trí tưởng tượng INFP sản xuất kịch bản bi kịch, vết thương đứa trẻ thiếu an toàn, trao bình oxy cho ngoại cảnh. Cài đặt hệ thống 4 trụ cột tự chủ (The Sovereign Frame) & câu thần chú: *"Chuyện này có giết chết được mình không? Không! Mình có 100% quyền kiểm soát phản ứng của mình."*
 3. **Phát Hành Sổ Tay Cấp Cứu Cảm Xúc & Bản Lĩnh (05/11/2026):** Ban hành [`SO-TAY-CAP-CUU-CAM-XUC-BAN-LINH.md`](file:///d:/Solution/Person-develop/SO-TAY-CAP-CUU-CAM-XUC-BAN-LINH.md) giúp dập tắt ghen tuông/tự ti/lo âu trong 3 phút bằng DBT TIPP + IFS Người Cha Nội Tâm.
 4. **Hóa Giải Ám Ảnh Canteen & Điềm Đạm Trước Vị Thế Tech Lead (03/11/2026):** Tách bạch giá trị tự thân khỏi danh xưng công sở; giữ sự hào sảng của Vị Vua; chấm dứt hành vi ngóng nhìn; chuẩn bị tâm thế tự do với Ghost King Exit Protocol.
