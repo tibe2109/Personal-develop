@@ -5,9 +5,10 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-11-08 19:20:00 +07:00` (Chủ Nhật)
+- **Thời gian cập nhật:** `2026-11-08 19:30:00 +07:00` (Chủ Nhật)
 - **Thiết bị & Môi trường:** `Windows PC` — Branch: `main`
 - **Mã định danh các phiên mốc:**
+  - *Khởi động Đào tạo Chuyên gia AI Automation 90 Ngày:* [`Sessions/11-2026/2026-11-08-Session-03-Khoi-Dong-Chuong-Trinh-Dao-Tao-Chuyen-Gia-AI-Driven-Automation-90-Ngay.md`](file:///d:/Solution/Person-develop/Sessions/11-2026/2026-11-08-Session-03-Khoi-Dong-Chuong-Trinh-Dao-Tao-Chuyen-Gia-AI-Driven-Automation-90-Ngay.md)
   - *Mổ xẻ Tử huyệt & Phác đồ Khắc phục:* [`Sessions/11-2026/2026-11-08-Session-02-Boc-Tach-Tu-Huyet-Than-Kinh-Tinh-Cach-Tu-Duy-Va-Phac-Do-Khac-Phuc.md`](file:///d:/Solution/Person-develop/Sessions/11-2026/2026-11-08-Session-02-Boc-Tach-Tu-Huyet-Than-Kinh-Tinh-Cach-Tu-Duy-Va-Phac-Do-Khac-Phuc.md)
   - *Tâm lý & Nội lực:* [`Sessions/11-2026/2026-11-06-Session-01-Giai-Ma-Goc-Re-Noi-So-Va-Thiet-Lap-Noi-Luc-Lac-Quan-Bat-Kha-Xam-Pham.md`](file:///d:/Solution/Person-develop/Sessions/11-2026/2026-11-06-Session-01-Giai-Ma-Goc-Re-Noi-So-Va-Thiet-Lap-Noi-Luc-Lac-Quan-Bat-Kha-Xam-Pham.md)
   - *Khởi nghiệp B2B Software Studio:* [`Sessions/10-2026/2026-10-24-Session-04-Ke-Hoach-Kinh-Doanh-Software-Studio-B2B.md`](file:///d:/Solution/Person-develop/Sessions/10-2026/2026-10-24-Session-04-Ke-Hoach-Kinh-Doanh-Software-Studio-B2B.md)
@@ -19,7 +20,8 @@
 
 ## ⚓ NEO NGỮ CẢNH CUỘC TRÒ CHUYỆN (CONVERSATION ANCHOR)
 *Các gạch đầu dòng tóm tắt điều quan trọng nhất vừa diễn ra để Coach Anh mở lời chính xác:*
-1. **Bóc Tách Tử Huyệt Thần Kinh, Tính Cách, Tư Duy & Phác Đồ Khắc Phục (08/11/2026 - Tối):** Mổ xẻ 3 tử huyệt kìm hãm thành công trong sự nghiệp, tình yêu và quan hệ (Amygdala/Neuroticism 87 quá tải, Agreeableness 72 thiếu ranh giới, Imposter Syndrome & Toxic Shame). Thiết lập phác đồ khắc phục 3 tầng: Điều hòa sinh học thần kinh (DBT + Gym), Ranh giới thép & Quyến rũ tĩnh lặng (IFS Reparenting), và Hệ tư duy Khắc kỷ Proof-of-Work đè bẹp bằng cấp.
+1. **Khởi Động Chương Trình Đào Tạo Chuyên Gia AI-Driven Automation 90 Ngày (08/11/2026 - Tối):** Thiết lập vai trò "Giáo sư AI & Senior AI Systems Architect" huấn luyện Hoàng Anh theo chuẩn Academic Rigor & Battle-Tested Engineering. Ban hành giáo trình 12 tuần tại [`Plan/Lo-trinh-90-Ngay-Chuyen-Gia-AI-Driven-Automation.md`](file:///d:/Solution/Person-develop/Plan/Lo-trinh-90-Ngay-Chuyen-Gia-AI-Driven-Automation.md) phục vụ trực tiếp Portfolio 2 (Proof-of-Work đè bẹp bằng cấp, target lương 35-40tr & B2B Software Studio).
+2. **Bóc Tách Tử Huyệt Thần Kinh, Tính Cách, Tư Duy & Phác Đồ Khắc Phục (08/11/2026 - Tối):** Mổ xẻ 3 tử huyệt kìm hãm thành công trong sự nghiệp, tình yêu và quan hệ (Amygdala/Neuroticism 87 quá tải, Agreeableness 72 thiếu ranh giới, Imposter Syndrome & Toxic Shame). Thiết lập phác đồ khắc phục 3 tầng: Điều hòa sinh học thần kinh (DBT + Gym), Ranh giới thép & Quyến rũ tĩnh lặng (IFS Reparenting), và Hệ tư duy Khắc kỷ Proof-of-Work đè bẹp bằng cấp.
 2. **Thiết Lập Cơ Chế Tự Động Đồng Bộ 2 Chiều Tuyệt Đối (08/11/2026):** Đáp ứng trọn vẹn yêu cầu cốt lõi của Hoàng Anh: Mọi trao đổi, thay đổi, nhật ký phiên trò chuyện đều được tự động đồng bộ kéo về (Auto-Pull) ngay khi vừa mở phiên trò chuyện và tự động đẩy lên (Auto-Push) ngay khi có thay đổi/kết thúc phiên. Dù ngồi ở máy Linux (công ty) hay Windows (ở nhà), ký ức luôn đồng nhất 100%.
 2. **Giải Mã Gốc Rễ Nỗi Sợ & Thiết Lập Nội Lực Lạc Quan (06/11/2026):** Chẩn đoán 4 gốc rễ: Neuroticism 87/100, trí tưởng tượng INFP sản xuất kịch bản bi kịch, vết thương đứa trẻ thiếu an toàn, trao bình oxy cho ngoại cảnh. Cài đặt hệ thống 4 trụ cột tự chủ (The Sovereign Frame) & câu thần chú: *"Chuyện này có giết chết được mình không? Không! Mình có 100% quyền kiểm soát phản ứng của mình."*
 3. **Phát Hành Sổ Tay Cấp Cứu Cảm Xúc & Bản Lĩnh (05/11/2026):** Ban hành [`SO-TAY-CAP-CUU-CAM-XUC-BAN-LINH.md`](file:///d:/Solution/Person-develop/SO-TAY-CAP-CUU-CAM-XUC-BAN-LINH.md) giúp dập tắt ghen tuông/tự ti/lo âu trong 3 phút bằng DBT TIPP + IFS Người Cha Nội Tâm.
@@ -51,6 +53,7 @@
 - **Chế độ ngày (Daily Mode):** 🛡️ **Cross-Session Auto-Sync Engine & System Sovereignty**.
 - **Con Ếch A1 (Quan trọng nhất - Bắt buộc xử lý hôm nay 08/11):**
   - [x] **Nâng cấp toàn diện cơ chế Auto-Sync 2 chiều:** Hoàn thiện `sync.ps1`, `auto-sync.ps1` (Windows) và `sync.sh`, `auto-sync.sh` (Linux) với cơ chế `session-start` (Auto-Pull) và `session-end` (Auto-Push). Khắc phục triệt để lỗi kiểm tra PID và conflict Git.
+  - [x] **Khởi động Chương trình Chuyên gia AI-Driven Automation 90 Ngày:** Ban hành giáo trình 12 tuần kết hợp lý thuyết bản chất & thực chiến dự án FTI-AM.
 - **Nhiệm vụ B (Should do):**
   - [ ] Kiểm tra và bảo vệ nhịp sinh học: Đi ngủ trước 23:00 tối nay.
   - [ ] Khởi động tuần mới tại FTI-AM với tâm thế Senior Tech Lead đàng hoàng, điềm tĩnh.
