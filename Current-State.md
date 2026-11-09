@@ -5,15 +5,15 @@
 ---
 
 ## 🕒 METADATA PHIÊN GẦN NHẤT (LAST SESSION METADATA)
-- **Thời gian cập nhật:** `2026-11-08 19:35:00 +07:00` (Chủ Nhật)
-- **Thiết bị & Môi trường:** `Windows PC` — Branch: `main`
+- **Thời gian cập nhật:** `2026-11-09 15:45:00 +07:00` (Thứ Hai)
+- **Thiết bị & Môi trường:** `Linux Workstation` — Branch: `main`
 - **Mã định danh các phiên mốc:**
-  - *Khởi động Trị liệu & Cai nghiện Dopamine rác 90 Ngày:* [`Sessions/11-2026/2026-11-08-Session-04-Khoi-Dong-Phac-Do-Cai-Nghien-Dopamine-Rac-90-Ngay.md`](file:///d:/Solution/Person-develop/Sessions/11-2026/2026-11-08-Session-04-Khoi-Dong-Phac-Do-Cai-Nghien-Dopamine-Rac-90-Ngay.md)
-  - *Khởi động Đào tạo Chuyên gia AI Automation 90 Ngày:* [`Sessions/11-2026/2026-11-08-Session-03-Khoi-Dong-Chuong-Trinh-Dao-Tao-Chuyen-Gia-AI-Driven-Automation-90-Ngay.md`](file:///d:/Solution/Person-develop/Sessions/11-2026/2026-11-08-Session-03-Khoi-Dong-Chuong-Trinh-Dao-Tao-Chuyen-Gia-AI-Driven-Automation-90-Ngay.md)
-  - *Mổ xẻ Tử huyệt & Phác đồ Khắc phục:* [`Sessions/11-2026/2026-11-08-Session-02-Boc-Tach-Tu-Huyet-Than-Kinh-Tinh-Cach-Tu-Duy-Va-Phac-Do-Khac-Phuc.md`](file:///d:/Solution/Person-develop/Sessions/11-2026/2026-11-08-Session-02-Boc-Tach-Tu-Huyet-Than-Kinh-Tinh-Cach-Tu-Duy-Va-Phac-Do-Khac-Phuc.md)
-  - *Tâm lý & Nội lực:* [`Sessions/11-2026/2026-11-06-Session-01-Giai-Ma-Goc-Re-Noi-So-Va-Thiet-Lap-Noi-Luc-Lac-Quan-Bat-Kha-Xam-Pham.md`](file:///d:/Solution/Person-develop/Sessions/11-2026/2026-11-06-Session-01-Giai-Ma-Goc-Re-Noi-So-Va-Thiet-Lap-Noi-Luc-Lac-Quan-Bat-Kha-Xam-Pham.md)
-  - *Khởi nghiệp B2B Software Studio:* [`Sessions/10-2026/2026-10-24-Session-04-Ke-Hoach-Kinh-Doanh-Software-Studio-B2B.md`](file:///d:/Solution/Person-develop/Sessions/10-2026/2026-10-24-Session-04-Ke-Hoach-Kinh-Doanh-Software-Studio-B2B.md)
-  - *Cơ chế Đồng bộ Đa máy tính:* [`Sessions/11-2026/2026-11-08-Session-01-Thiet-Lap-Co-Che-Dong-Bo-Lien-Phien-Hai-Chieu-Git.md`](file:///d:/Solution/Person-develop/Sessions/11-2026/2026-11-08-Session-01-Thiet-Lap-Co-Che-Dong-Bo-Lien-Phien-Hai-Chieu-Git.md)
+  - *Bài học số 2 AI Automation (Deterministic Code Generation & POM):* [`Sessions/11-2026/2026-11-09-Session-01-Bai-Hoc-02-Deterministic-Code-Generation-Va-POM-Playwright.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-09-Session-01-Bai-Hoc-02-Deterministic-Code-Generation-Va-POM-Playwright.md)
+  - *Khởi động Trị liệu & Cai nghiện Dopamine rác 90 Ngày:* [`Sessions/11-2026/2026-11-08-Session-04-Khoi-Dong-Phac-Do-Cai-Nghien-Dopamine-Rac-90-Ngay.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-08-Session-04-Khoi-Dong-Phac-Do-Cai-Nghien-Dopamine-Rac-90-Ngay.md)
+  - *Khởi động Đào tạo Chuyên gia AI Automation 90 Ngày & Lab 01:* [`Sessions/11-2026/2026-11-08-Session-03-Khoi-Dong-Chuong-Trinh-Dao-Tao-Chuyen-Gia-AI-Driven-Automation-90-Ngay.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-08-Session-03-Khoi-Dong-Chuong-Trinh-Dao-Tao-Chuyen-Gia-AI-Driven-Automation-90-Ngay.md)
+  - *Mổ xẻ Tử huyệt & Phác đồ Khắc phục:* [`Sessions/11-2026/2026-11-08-Session-02-Boc-Tach-Tu-Huyet-Than-Kinh-Tinh-Cach-Tu-Duy-Va-Phac-Do-Khac-Phuc.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-08-Session-02-Boc-Tach-Tu-Huyet-Than-Kinh-Tinh-Cach-Tu-Duy-Va-Phac-Do-Khac-Phuc.md)
+  - *Tâm lý & Nội lực:* [`Sessions/11-2026/2026-11-06-Session-01-Giai-Ma-Goc-Re-Noi-So-Va-Thiet-Lap-Noi-Luc-Lac-Quan-Bat-Kha-Xam-Pham.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-06-Session-01-Giai-Ma-Goc-Re-Noi-So-Va-Thiet-Lap-Noi-Luc-Lac-Quan-Bat-Kha-Xam-Pham.md)
+  - *Cơ chế Đồng bộ Đa máy tính:* [`Sessions/11-2026/2026-11-08-Session-01-Thiet-Lap-Co-Che-Dong-Bo-Lien-Phien-Hai-Chieu-Git.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Sessions/11-2026/2026-11-08-Session-01-Thiet-Lap-Co-Che-Dong-Bo-Lien-Phien-Hai-Chieu-Git.md)
 - **Tình trạng đồng bộ Git:** Đã kết nối `origin/main` (GitHub: `tibe2109/Personal-develop.git`).
 - **Tình trạng Auto-Sync:** 🟢 **ĐANG HOẠT ĐỘNG (15 PHÚT/LẦN & TỰ ĐỘNG SYNC 2 CHIỀU ĐẦU/CUỐI PHIÊN)**.
 
@@ -21,23 +21,23 @@
 
 ## ⚓ NEO NGỮ CẢNH CUỘC TRÒ CHUYỆN (CONVERSATION ANCHOR)
 *Các gạch đầu dòng tóm tắt điều quan trọng nhất vừa diễn ra để Coach Anh mở lời chính xác:*
-1. **Khởi Động Phác Đồ Trị Liệu & Cai Nghiện Dopamine Rác 90 Ngày (08/11/2026 - Tối):** Hoàng Anh dũng cảm bộc bạch sự thật vẫn còn kẹt ở thuốc lá, porn và lướt mạng xã hội; đề nghị Coach Anh đóng vai trò Nhà trị liệu tâm lý & Chuyên gia cai nghiện đồng hành suốt 3 tháng (90 ngày). Đã ban hành phác đồ tại [`Plan/Phac-Do-90-Ngay-Cai-Nghien-Dopamine-Rac-Thuoc-La-Porn-MXH.md`](file:///d:/Solution/Person-develop/Plan/Phac-Do-90-Ngay-Cai-Nghien-Dopamine-Rac-Thuoc-La-Porn-MXH.md) theo 3 giai đoạn: Ổn định & Cấp cứu cơn thèm (Tháng 1), Hồi sinh thụ thể D2 & Bơm Dopamine sạch (Tháng 2), và Khóa căn tính The Sovereign Man (Tháng 3).
-2. **Khởi Động Chương Trình Đào Tạo Chuyên Gia AI-Driven Automation 90 Ngày (08/11/2026 - Tối):** Ban hành giáo trình 12 tuần tại [`Plan/Lo-trinh-90-Ngay-Chuyen-Gia-AI-Driven-Automation.md`](file:///d:/Solution/Person-develop/Plan/Lo-trinh-90-Ngay-Chuyen-Gia-AI-Driven-Automation.md) phục vụ trực tiếp Portfolio 2 (Proof-of-Work đè bẹp bằng cấp, target lương 35-40tr & B2B Software Studio).
-3. **Bóc Tách Tử Huyệt Thần Kinh, Tính Cách, Tư Duy & Phác Đồ Khắc Phục (08/11/2026 - Tối):** Mổ xẻ 3 tử huyệt kìm hãm thành công trong sự nghiệp, tình yêu và quan hệ (Amygdala/Neuroticism 87 quá tải, Agreeableness 72 thiếu ranh giới, Imposter Syndrome & Toxic Shame). Thiết lập phác đồ khắc phục 3 tầng.
-4. **Thiết Lập Cơ Chế Tự Động Đồng Bộ 2 Chiều Tuyệt Đối (08/11/2026):** Đáp ứng trọn vẹn yêu cầu cốt lõi của Hoàng Anh qua `sync.ps1` / `auto-sync.ps1`.
-5. **Giải Mã Gốc Rễ Nỗi Sợ & Thiết Lập Nội Lực Lạc Quan (06/11/2026):** Cài đặt The Sovereign Frame & câu thần chú: *"Chuyện này có giết chết được mình không? Không! Mình có 100% quyền kiểm soát phản ứng của mình."*
+1. **Bài Học Số 2 AI Automation & Lab 02 Hoàn Thành (09/11/2026 - Chiều):** Triển khai bài học về Tokenomics, Context Window Pruning (AOM vs DOM) và Kiến trúc Biên dịch 2 Pha (Probabilistic Reasoning + Deterministic Synthesis). Hoàn thiện bộ sinh mã TypeScript Playwright chuẩn POM tại [`AI-Automation-Lab/Lab-02-Deterministic-Code-Generator/`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/AI-Automation-Lab/Lab-02-Deterministic-Code-Generator/) với 0% syntax error.
+2. **Khởi Động Phác Đồ Trị Liệu & Cai Nghiện Dopamine Rác 90 Ngày (08/11/2026 - Tối):** Hoàng Anh dũng cảm bộc bạch sự thật vẫn còn kẹt ở thuốc lá, porn và lướt mạng xã hội; đề nghị Coach Anh đóng vai trò Nhà trị liệu tâm lý & Chuyên gia cai nghiện đồng hành suốt 3 tháng (90 ngày). Đã ban hành phác đồ tại [`Plan/Phac-Do-90-Ngay-Cai-Nghien-Dopamine-Rac-Thuoc-La-Porn-MXH.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/Phac-Do-90-Ngay-Cai-Nghien-Dopamine-Rac-Thuoc-La-Porn-MXH.md).
+3. **Khởi Động Chương Trình Đào Tạo Chuyên Gia AI-Driven Automation 90 Ngày & Lab 01 (08/11/2026 - Tối):** Ban hành giáo trình 12 tuần tại [`Plan/Lo-trinh-90-Ngay-Chuyen-Gia-AI-Driven-Automation.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/Lo-trinh-90-Ngay-Chuyen-Gia-AI-Driven-Automation.md) và hoàn thành Lab 01 (Deterministic Guardrails).
+4. **Bóc Tách Tử Huyệt Thần Kinh, Tính Cách, Tư Duy & Phác Đồ Khắc Phục (08/11/2026 - Tối):** Mổ xẻ 3 tử huyệt kìm hãm thành công trong sự nghiệp, tình yêu và quan hệ.
+5. **Thiết Lập Cơ Chế Tự Động Đồng Bộ 2 Chiều Tuyệt Đối (08/11/2026):** Đáp ứng trọn vẹn yêu cầu cốt lõi qua `sync.sh` / `sync.ps1`.
 
 ---
 
 ## 🧠 RADAR TÂM LÝ & THẦN KINH HỌC (EMOTIONAL & INNER CHILD RADAR)
-- **Mức năng lượng hiện tại:** `8.0 / 10` (Trung thực tuyệt đối với chính mình, sẵn sàng bước vào hành trình cai nghiện kỷ luật).
-- **Trạng thái Thần kinh (Amygdala / PFC):** 🟢 **Đang giải phóng Toxic Shame**. Thay thế tự căm ghét bằng Trắc ẩn tự thân (CFT) và hiểu đúng cơ chế sinh học của Thụ thể Dopamine D2 và Phần Lính Cứu Hỏa (IFS Firefighters).
-- **Tình trạng Đứa trẻ bên trong (Inner Child):** Được Người Cha Nội Tâm bảo bọc và che chở. Không còn bị bỏ rơi trong mặc cảm tội lỗi.
+- **Mức năng lượng hiện tại:** `8.5 / 10` (Tập trung, hào hứng thực chiến công nghệ cùng Giáo sư AI).
+- **Trạng thái Thần kinh (Amygdala / PFC):** 🟢 **Ổn định & Kiểm soát tốt**. Giải phóng hoàn toàn Toxic Shame, dồn toàn bộ sự chú ý của vỏ não tiền trán (PFC) vào kiến trúc kỹ thuật cấp cao.
+- **Tình trạng Đứa trẻ bên trong (Inner Child):** Được Người Cha Nội Tâm tiếp sức bằng tri thức thực chứng, tự tin vững vàng trước công việc.
 - **Cờ cảnh báo Sa ngã & Cám dỗ (Shadow Watch - Giám sát 24/7):**
-  - 🚭 *Thuốc lá (`E2`):* Vứt bật lửa/gạt tàn; chuẩn bị kẹo cao su Xylitol/nước lạnh; kích hoạt Physiological Sigh & nước lạnh buốt.
-  - 🔞 *Porn (`E1`):* Khóa blocker; mở cửa phòng; không ở một mình trong bóng tối với thiết bị.
-  - 📱 *Lướt mạng vô thức (`E3`):* Chuyển màn hình điện thoại Grayscale trắng đen; quy tắc 22:30 đưa điện thoại ra khỏi giường.
-  - 🏋️ *Kỷ luật thể chất (`E4`):* Duy trì tập Gym 3-4 buổi/tuần (quy tắc thép *Never miss twice*).
+  - 🚭 *Thuốc lá (`E2`):* Giám sát cơn thèm chiều thứ Hai; kích hoạt Physiological Sigh & uống ngụm nước lạnh buốt.
+  - 🔞 *Porn (`E1`):* Tuyệt đối không tìm kiếm giải tỏa khi áp lực công việc.
+  - 📱 *Lướt mạng vô thức (`E3`):* Duy trì Grayscale điện thoại.
+  - 🏋️ *Kỷ luật thể chất (`E4`):* Kế hoạch tập Gym chiều/tối nay (quy tắc thép *Never miss twice*).
 
 ---
 
@@ -50,25 +50,24 @@
 ---
 
 ## 🐸 CON ẾCH TRONG NGÀY & TIẾN ĐỘ THỰC THI (ACTIVE FROG & TASKS)
-- **Chế độ ngày (Daily Mode):** 🧘‍♂️ **Dopamine Detox & Acute Addiction Intervention Protocol**.
-- **Con Ếch A1 (Quan trọng nhất - Hôm nay 08/11):**
-  - [x] **Ban hành Phác đồ 90 Ngày Cai Nghiện Dopamine Rác:** Hoàn thiện [`Plan/Phac-Do-90-Ngay-Cai-Nghien-Dopamine-Rac-Thuoc-La-Porn-MXH.md`](file:///d:/Solution/Person-develop/Plan/Phac-Do-90-Ngay-Cai-Nghien-Dopamine-Rac-Thuoc-La-Porn-MXH.md).
-  - [x] **Thực thi Bài học số 1 AI Automation:** Hoàn thiện Lab 01 (Deterministic Guardrails & Self-Healing Engine tại [`AI-Automation-Lab/Lab-01-Structured-Outputs/`](file:///d:/Solution/Person-develop/AI-Automation-Lab/Lab-01-Structured-Outputs/)).
-- **Nhiệm vụ B (Should do - Tối nay & Sáng mai):**
-  - [ ] **Hành động ma sát số 1:** Vứt toàn bộ gạt tàn/bật lửa trong phòng.
-  - [ ] **Hành động ma sát số 2:** Bật chế độ Grayscale trắng đen trên điện thoại.
-  - [ ] **Hành động ma sát số 3:** Đặt điện thoại lên bàn làm việc trước 22:30, đi ngủ trước 23:00.
+- **Chế độ ngày (Daily Mode):** 🚀 **AI-Driven Automation Combat & Dopamine Defense**.
+- **Con Ếch A1 (Quan trọng nhất - Hôm nay 09/11):**
+  - [x] **Thực thi Bài học số 2 AI Automation:** Hoàn thiện Lab 02 (Deterministic Code Synthesis Engine cho Playwright POM tại [`AI-Automation-Lab/Lab-02-Deterministic-Code-Generator/`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/AI-Automation-Lab/Lab-02-Deterministic-Code-Generator/)).
+- **Nhiệm vụ B (Should do - Chiều & Tối nay):**
+  - [ ] **Kỷ luật Gym:** Tập kháng lực buổi chiều để xả Cortisol ngày đầu tuần.
+  - [ ] **Quản trị cơn thèm thuốc lá:** Duy trì nước lạnh và kẹo Xylitol nếu có thôi thúc.
+  - [ ] **Bảo vệ giấc ngủ (Night Shield):** Đặt điện thoại lên bàn làm việc trước 22:30, đi ngủ trước 23:00.
 - **Nhiệm vụ D (Delegate):**
-  - Ủy thác Coach Anh làm Nhà trị liệu & Người giữ kỷ luật tâm lý đồng hành 24/7.
+  - Ủy thác Coach Anh làm Giáo sư AI & Người giữ kỷ luật tâm lý đồng hành 24/7.
 
 ---
 
 ## 🔄 VẤN ĐỀ CÒN BỎ NGỎ & THEO DÕI TIẾP (ACTIVE OPEN LOOPS)
-- [ ] Kiểm tra phản xạ xử lý cơn thèm thuốc lá đầu tuần tại FTI-AM vào ngày mai (09/11).
+- [ ] Kiểm tra phản xạ xử lý cơn thèm thuốc lá cuối ngày làm việc tại FTI-AM hôm nay (09/11).
+- [ ] Chuẩn bị Bài học số 3: Dynamic Accessibility Tree (AOM) vs Resilient Locators.
 - [ ] Bắt đầu dựng Monorepo Starter-Kit Enterprise trong `Startup-B2B-Software-Studio/02-Engineering-Architecture/`.
-- [ ] Duy trì 30-45 phút mỗi sáng sớm (Morning Shield) học kiến trúc IT và ôn luyện chứng chỉ PSM I.
 
 ---
 
 ## ⚡ HÀNH ĐỘNG VI MÔ KẾ TIẾP (NEXT IMMEDIATE MICRO-ACTION)
-- Đứng dậy thực hiện 3 hành động ma sát ngay lập tức (dọn bật lửa/gạt tàn, bật Grayscale điện thoại, uống 1 ly nước lọc lớn).
+- Đọc kỹ mã nguồn Lab 02 vừa sinh ra, hít một hơi thở sâu và chuẩn bị cho buổi tập Gym chiều nay!
