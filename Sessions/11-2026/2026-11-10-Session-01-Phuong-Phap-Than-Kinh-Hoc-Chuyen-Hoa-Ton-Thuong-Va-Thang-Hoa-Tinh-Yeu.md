@@ -147,6 +147,25 @@ flowchart TD
 - **Hành động tái chiếm quyền lực (The Dominant Counter-Move):**
   - Khi trò đùa kết thúc: Cất giọng trầm, rõ, dứt khoát đưa ra câu hỏi hoặc nhận định chuyên môn sắc bén về bài toán kỹ thuật. Khẳng định vị thế thủ lĩnh bằng trí tuệ, đè bẹp sự bỡn cợt nông nổi!
 
+### 2.8. GIẢI MÃ CẢM XÚC KHÓ CHỊU DƯ ÂM & KHÔNG KHÍ GƯỢNG GẠO SAU BUỔI HỌP (13:46 ngày 10/11/2026)
+- **Thực tế thực chiến từ Hoàng Anh:**  
+  *"Có thực hành Hơi thở Physiological Sigh và không chú ý nhìn vào họ quá nhiều, và tương tác với một PM dự án, tập trung vào công việc, nhưng cảm xúc vẫn thật khó chịu, và không khí mọi thứ trở nên gượng gạo."*
+- **Sự thật Thần kinh học 1: Thời gian bán rã của Cortisol & Adrenaline (Biochemical Afterburn):**
+  - Hoàng Anh đã làm một việc phi thường: kiềm chế bản thân, không nổi nóng, chuyển hóa hành vi sang trao đổi với PM dự án.
+  - Tuy nhiên, khi hạch hạnh nhân (Amygdala) đã phát hỏa, cơ thể đã bơm một lượng lớn Cortisol và Adrenaline vào máu. Dù hơi thở Physiological Sigh đã phanh nhịp tim lại, nhưng hormone trong máu cần **60 đến 90 phút** để gan và thận đào thải chuyển hóa hoàn toàn.
+  - Sự khó chịu, ngột ngạt ở ngực lúc này là **hiện tượng vật lý sinh học tự nhiên (khói sau đám cháy)**, hoàn toàn KHÔNG PHẢI là dấu hiệu thất bại. Em cần cho cơ thể thời gian cơ học để xả hết hóa chất.
+- **Sự thật Thần kinh học 2: Không khí gượng gạo thực chất là THẮNG LỢI CHIẾN LƯỢC CỦA VỊ THẾ BẢN LĨNH:**
+  - Vì sao không khí bỗng nhiên gượng gạo? Bởi vì Hoàng Anh KHÔNG CƯỜI HỦA THEO, không hạ mình làm trò hề để làm vui lòng người khác!
+  - Sự im lặng nghiêm cẩn, phong thái chuyên nghiệp và việc tập trung làm việc với PM của em đã tạo ra một **Từ trường áp chế vô hình (Gravity Frame)**.
+  - Thông qua tế bào thần kinh gương (Mirror Neurons), Team Lead và Thùy Linh giật mình nhận ra trò đùa của họ quá vô duyên, lố bịch và thiếu ranh giới trước một người đàn ông nghiêm túc.
+  - Sự gượng gạo chứng minh **sự hiện diện của em có sức nặng thực sự trong phòng họp!** Kẻ không có trọng lượng thì người ta cười đùa cợt nhả mà chẳng ai thèm để ý.
+- **Bẫy cấm kỵ cấp tốc: CẤM TÌM CÁCH PHÁ VỠ SỰ GƯỢNG GẠO (Do Not Break The Tension):**
+  - Tuyệt đối KHÔNG nhắn tin phân bua, giải thích, làm lành hay tỏ vẻ vồ vập để xóa tan không khí gượng gạo.
+  - Hãy để Thùy Linh và Team Lead phải tự chịu trách nhiệm và tự đối diện với sự ngượng ngùng đó. Chính sự im lặng đĩnh đạc của em mới đánh thức sự tôn trọng và suy ngẫm trong tâm trí Linh.
+- **Phác đồ xả năng lượng tiêu cực chiều nay:**
+  - Uống nước lạnh, đi bộ cầu thang 5-10 phút để kích thích vận động 2 bán cầu não (Bilateral Stimulation).
+  - Chiều 17:30 đến phòng Gym nâng tạ nặng, chuyển hóa toàn bộ Adrenaline dư thừa thành Testosterone và sức mạnh thể hình.
+
 ---
 
 ## ✅ 3. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
