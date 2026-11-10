@@ -82,6 +82,16 @@ flowchart TD
   4. **Dồn 100% Năng Lượng Chữa Lành Cho Chính Em:**  
      - Hoàng Anh cần được yêu thương trước tiên. Hãy tự hỏi: Hôm nay Hoàng Anh muốn ăn gì? Bài tạ nào giúp Hoàng Anh khỏe mạnh? Dự án Playwright AI nào giúp Hoàng Anh bứt phá? Khi em tự yêu thương chính mình đủ đầy, em sẽ không còn cảm giác bị thiếu thốn hay hạ thấp bản thân!
 
+### 2.4. CHIẾN LƯỢC LẤY LẠI VỊ THẾ NAM TÍNH 2 TẦNG & KẾ HOẠCH PHÒNG THỦ P10 (10:41 ngày 10/11/2026)
+- **Yêu cầu chiến lược toàn diện từ Hoàng Anh:**  
+  *"Em đang muốn một chiến lược lấy lại vị thế của mình một cách hiệu quả phù hợp với tính cách của em và Linh, em cần nói gì? Hành động khéo léo như thế nào để trở nên hấp dẫn và thu hút chứ không còn theo đuổi như trước nữa. Thực hiện ngay được những việc nào? Việc nào cần từ từ chuyển đổi để tránh tạo ra phản ứng của người yêu em, em muốn người yêu em bị em hấp dẫn, quyến rũ từ lúc nào không hay? Trở nên chú ý em hơn, yêu em nhiều hơn và quan tâm em nhiều hơn, khát khao có được em. Em xứng đáng được như vậy. Và chuẩn bị tốt các tình huống xấu nhất có thể xảy ra, em nên làm gì để nếu người yêu em hết yêu, phản bội hay có những hành động không đúng em đều biết cách phản ứng phù hợp vì đã chuẩn bị kỹ lưỡng ngay từ bây giờ."*
+- **Phát hành Cẩm nang Chiến lược độc quyền:**  
+  Đã ban hành văn bản hoàn chỉnh tại: [`Plan/Chien-Luoc-Lay-Lai-Vi-The-Va-Quyen-Ru-Tu-Nhien.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/Chien-Luoc-Lay-Lai-Vi-The-Va-Quyen-Ru-Tu-Nhien.md)
+- **Tóm tắt 3 Trục Xương Sống:**
+  1. *Tầng 1 (Thực hiện ngay lập tức - Không gây giật cục):* Cắt 100% hành vi mua chuộc cảm xúc (quà, nước); áp dụng quy tắc trễ tự nhiên (rep tin nhắn sau 15-30p, súc tích bằng hoặc ngắn hơn nàng); quy tắc 3s công sở (chào điềm đạm rồi bước đi thẳng); chủ động buông trước khi gọi điện/nhắn tin.
+  2. *Tầng 2 (Chuyển đổi từ từ 2-4 tuần):* Thiết lập Khoảng trống chân không (The Vacuum Effect); phát triển rực rỡ thế giới riêng (Gym 17:30, dự án Playwright AI, sở thích cà phê/âm nhạc); hẹn hò giác quan Se (đúng gu nàng ISTP 2002); nụ cười thong dong của Vị Vua.
+  3. *Kế hoạch Phòng thủ P10 (Fear-Setting & Ghost King Exit):* Chuẩn bị tâm thế nếu nàng hết yêu hoặc phản bội ➔ Phản ứng điềm tĩnh (Zero drama, không van xin, không chửi bới), tuyên bố 1 câu duy nhất bảo vệ danh dự rồi biến mất vĩnh viễn. Điểm tựa thép: 150 triệu tiền mặt, 7 năm IT thực chiến và tình thương gia đình.
+
 ---
 
 ## ✅ 3. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
@@ -89,6 +99,8 @@ flowchart TD
 2. **Kích hoạt Quy tắc Bóng bàn (Ping-Pong Matching):** Chỉ đầu tư năng lượng tương xứng với mức độ phản hồi và tôn trọng mà đối phương trao cho mình.
 3. **Thu hồi năng lượng về bản thân:** Tập trung chữa lành những tổn thương cũ bằng sự bao dung nội tại, dồn sức cho Sự nghiệp IT (Playwright AI) và Thể chất (Gym).
 4. **Giữ vững Thần Thái Ngọn Núi (The Mountain Frame):** Điềm đạm, lịch thiệp, ấm áp nhưng độc lập, không đuổi theo, không van xin tình cảm.
+5. **Vận hành chuẩn xác Chiến lược Lấy lại Vị thế 2 Tầng:** Áp dụng Tầng 1 ngay hôm nay và Tầng 2 trong 3-4 tuần tới theo [`Plan/Chien-Luoc-Lay-Lai-Vi-The-Va-Quyen-Ru-Tu-Nhien.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/Chien-Luoc-Lay-Lai-Vi-The-Va-Quyen-Ru-Tu-Nhien.md).
+6. **Khóa chặt Khiên Phòng thủ P10:** Hoàn toàn an tâm về tương lai vì đã có đệm tài chính 150tr, sự nghiệp IT thực chiến và giao thức Ghost King Exit.
 
 ---
 
