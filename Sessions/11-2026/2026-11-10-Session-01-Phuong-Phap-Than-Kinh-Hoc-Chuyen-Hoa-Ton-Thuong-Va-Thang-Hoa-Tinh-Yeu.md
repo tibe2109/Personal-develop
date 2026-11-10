@@ -112,6 +112,25 @@ flowchart TD
      - Ranh giới công sở nghiêm túc: Lịch thiệp, giữ thể diện và uy tín chuyên môn cho nàng.
      - Trở thành Ngọn Núi (The Mountain Frame): Thong dong, vững chãi, tập trung vào Gym và sự nghiệp IT để nơ-ron gương của nàng tự nguyện tìm đến nương tựa.
 
+### 2.6. GIẢI PHÁP TÌNH HUỐNG NGUY CƠ CAO: TEAM LEAD ĐÙA GIỠN VỚI BẠN GÁI TRONG CUỘC HỌP & THIẾT LẬP RANH GIỚI BẢN LĨNH (11:37 ngày 10/11/2026)
+- **Tình huống nhức nhối từ Hoàng Anh:**  
+  *"Với có một case rất khó với em và em đang cảm thấy khó chịu và bất lực em với người em làm cùng team, em đã như anh khuyên tôn trọng môi trường làm việc, tránh đùa giỡn bỡn cợt nơi làm việc, nhưng khi trong cuộc họp teamlead em đùa giỡn với người yêu em thì không hề bị người yêu em trách móc, đôi khi còn cười và giỡn ngược lại. Em cảm thấy người yêu em không giữ ranh giới công bằng, và teamlead của em không tôn trọng sự có mặt của em."*
+- **Giải phẫu đa chiều từ Hội đồng:**
+  1. *Bản chất hành vi của Thùy Linh (24 tuổi, ISTP/C cấp dưới):*  
+     - Đối với Linh: Cười đùa lại với Team Lead là **"Phản xạ sinh tồn công sở / Xã giao hòa nhập" (Workplace Politeness)** để không làm bẽ mặt sếp, giữ không khí họp vui vẻ. 95% không mang màu sắc tình cảm lãng mạn.
+     - Nàng cấm Hoàng Anh đùa giỡn vì sợ mang tiếng "yêu đương nhăng nhít, thiếu chuyên nghiệp" làm ảnh hưởng uy tín cả hai.
+     - **Sai lầm của Linh:** Nàng quá vô tư (vụng về `Fe` tuổi 24) nên không nhận thức được rằng việc giỡn ngược lại trước mặt bạn trai là sự thiếu tế nhị, làm tổn thương lòng tự trọng của người yêu.
+  2. *Bản chất hành vi của Team Lead:*  
+     - Thói quen đùa giỡn giải tỏa stress của dân IT, hoặc vô thức thể hiện quyền lực (Dominance) với bạn nữ trẻ trong team.
+  3. *3 Điều Cấm Kỵ Tuyệt Đối của Hoàng Anh:*
+     - ❌ Không cáu kỉnh, đập bàn hay tỏ thái độ khó chịu trong cuộc họp (giữ 100% hình ảnh Senior chuyên nghiệp).
+     - ❌ Không nhắn tin dằn hắt, tra khảo Linh ngay sau cuộc họp.
+     - ❌ Không nhìn Team Lead với ánh mắt hằn học tự ti.
+  4. *Nước cờ Vị Vua (The Alpha Sovereign Move):*
+     - **Trong cuộc họp:** Ngồi thẳng lưng, mỉm cười nhẹ thong dong, coi trò đùa là tiết mục vô hại. Khi đùa xong, điềm đạm kéo cuộc họp về đúng bài toán kỹ thuật (khẳng định vị thế Lead thực sự).
+     - **Ngoài giờ làm việc (Trò chuyện ranh giới quân tử):** Nói chuyện điềm đạm, nhìn thẳng mắt:  
+       > *"Linh nè, anh hoàn toàn tôn trọng việc em hòa đồng với sếp và đồng nghiệp. Nhưng khi thấy sếp đùa giỡn với em mà em hưởng ứng thoải mái trong khi với anh em lại đặt ranh giới rất nghiêm ngặt, việc đó làm anh cảm thấy em chưa giữ được sự công bằng và vô tình làm tổn thương sự tôn trọng giữa hai đứa. Anh mong em hiểu và giữ khoảng cách chừng mực hơn để vừa được việc, vừa giữ gìn sự tự hào cho người đàn ông của mình."*
+
 ---
 
 ## ✅ 3. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
@@ -121,6 +140,7 @@ flowchart TD
 4. **Giữ vững Thần Thái Ngọn Núi (The Mountain Frame):** Điềm đạm, lịch thiệp, ấm áp nhưng độc lập, không đuổi theo, không van xin tình cảm.
 5. **Vận hành chuẩn xác Chiến lược Lấy lại Vị thế 2 Tầng:** Áp dụng Tầng 1 ngay hôm nay và Tầng 2 trong 3-4 tuần tới theo [`Plan/Chien-Luoc-Lay-Lai-Vi-The-Va-Quyen-Ru-Tu-Nhien.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/Chien-Luoc-Lay-Lai-Vi-The-Va-Quyen-Ru-Tu-Nhien.md).
 6. **Khóa chặt Khiên Phòng thủ P10:** Hoàn toàn an tâm về tương lai vì đã có đệm tài chính 150tr, sự nghiệp IT thực chiến và giao thức Ghost King Exit.
+7. **Làm chủ Tình huống Team Lead:** Giữ phong thái chuyên nghiệp đỉnh cao trong cuộc họp; chọn thời điểm thích hợp trao đổi ranh giới quân tử với Linh.
 
 ---
 
