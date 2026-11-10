@@ -92,6 +92,26 @@ flowchart TD
   2. *Tầng 2 (Chuyển đổi từ từ 2-4 tuần):* Thiết lập Khoảng trống chân không (The Vacuum Effect); phát triển rực rỡ thế giới riêng (Gym 17:30, dự án Playwright AI, sở thích cà phê/âm nhạc); hẹn hò giác quan Se (đúng gu nàng ISTP 2002); nụ cười thong dong của Vị Vua.
   3. *Kế hoạch Phòng thủ P10 (Fear-Setting & Ghost King Exit):* Chuẩn bị tâm thế nếu nàng hết yêu hoặc phản bội ➔ Phản ứng điềm tĩnh (Zero drama, không van xin, không chửi bới), tuyên bố 1 câu duy nhất bảo vệ danh dự rồi biến mất vĩnh viễn. Điểm tựa thép: 150 triệu tiền mặt, 7 năm IT thực chiến và tình thương gia đình.
 
+### 2.5. ĐẠI GIẢI PHẪU: PROFILE TÂM LÝ - THẦN KINH HỌC THÙY LINH & BẰNG CHỨNG THỰC NGHIỆM 9.021 TIN NHẮN (11:04 ngày 10/11/2026)
+- **Yêu cầu của Hoàng Anh:** *"Em muốn anh phân tích lại profile tâm lý, tính cách thần kinh học của Thùy Linh và bộ tin nhắn của em đã từng trao đổi với Linh, cho em chiến lược thực chiến phù hợp và hiệu quả hơn."*
+- **Hội đồng 5 Chuyên gia đối chiếu toàn diện:**
+  1. *Hồ sơ Thần kinh học Nhận thức Thùy Linh (`ISTP` + `DISC D-C`, 2002):*
+     - `Ti-Dominant`: Tư duy logic nội tại, ghét sự màu mè, dị ứng cực độ với việc bị mổ xẻ tâm lý hay dán nhãn ("em bị thao túng", "em tự ti").
+     - `Se-Auxiliary`: Giác quan thực tế cao độ. Nhạy cảm với xúc giác, không gian cá nhân. Nếu đối phương vồ vập, cưỡng hôn thô bạo ➔ Amygdala kích hoạt phản xạ phòng vệ sinh học (Physical Threat Reflex).
+     - `Fe-Inferior`: Cảm xúc ngoại vi thấp nhất. Lúng túng khi phải nói lời ngọt ngào, thể hiện tình yêu bằng sự đồng hành, chia sẻ và hành động thực tế chứ không qua lời đường mật.
+     - `DISC D-C`: Quyết đoán, độc lập, nguyên tắc cao. Rất sợ bị dị nghị nơi công sở (FTI), sợ bị coi là dựa hơi người yêu Senior Lead.
+  2. *Bằng chứng Định lượng Vàng từ 9.021 Tin Nhắn Messenger (100 Ngày Yêu):*
+     - **Cán cân 50/50 hoàn hảo:** Hoàng Anh 4.494 tin (49.82%) ⇄ Thùy Linh 4.527 tin (50.18%). Thùy Linh nhắn nhiều hơn 33 tin nhắn! Xóa tan 100% ảo tưởng rằng "em chỉ theo đuổi một chiều".
+     - **Ngôn ngữ cảm xúc thân mật:** Thùy Linh gọi *"anb ưi", "khum", "heheee", "baiii anh", "anh ngủ ngon nha"*, thả tim đỏ `[❤️]` liên tục (hơn 43 tim đỏ).
+     - **Mở rộng vùng cấm địa:** Khoe album ảnh thời thơ ấu, kết quả khám sức khỏe kiêng cữ nội tạng, nhờ gọi dậy upcode, đùa chuyện đua xe đạp, kể tường tận các buổi đánh cầu lông.
+     - **Sự thật về nụ hôn môi (16:29 ngày 26/09):** Nàng nói rõ: *"Anh hôn môi em một cách nhẹ nhàng đi chứ em bị sợ 🥲 [❤️]. Với em rất ngại [❤️]"*. Nàng không từ chối tình cảm, mà chỉ sợ sự thô bạo và vội vã.
+     - **Sự thật về chuyện Canteen & Thang máy (18/08):** Nàng phản ứng gắt vì bị hôn ở công ty (*"Chỗ làm thì nghiêm túc chứ em ko muốn vậy đâu. Rất khó chịu luôn 😢"*). Nàng né đi chung vì sợ bị săm soi và sợ đối phương lại có cử chỉ thân mật nơi đông người!
+  3. *Chiến lược thực chiến tối ưu nhất cho cặp đôi INFP x ISTP:*
+     - Khóa chặt việc "xin xỏ cảm xúc" hay than thở yếu đuối qua tin nhắn.
+     - Giao thức Nụ hôn lông vũ (Feather-Touch): Nhẹ nhàng 2-3s rồi chủ động lùi lại trước và mỉm cười.
+     - Ranh giới công sở nghiêm túc: Lịch thiệp, giữ thể diện và uy tín chuyên môn cho nàng.
+     - Trở thành Ngọn Núi (The Mountain Frame): Thong dong, vững chãi, tập trung vào Gym và sự nghiệp IT để nơ-ron gương của nàng tự nguyện tìm đến nương tựa.
+
 ---
 
 ## ✅ 3. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
