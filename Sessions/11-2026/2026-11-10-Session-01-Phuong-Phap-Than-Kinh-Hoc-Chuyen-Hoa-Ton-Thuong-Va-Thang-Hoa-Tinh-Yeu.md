@@ -131,6 +131,22 @@ flowchart TD
      - **Ngoài giờ làm việc (Trò chuyện ranh giới quân tử):** Nói chuyện điềm đạm, nhìn thẳng mắt:  
        > *"Linh nè, anh hoàn toàn tôn trọng việc em hòa đồng với sếp và đồng nghiệp. Nhưng khi thấy sếp đùa giỡn với em mà em hưởng ứng thoải mái trong khi với anh em lại đặt ranh giới rất nghiêm ngặt, việc đó làm anh cảm thấy em chưa giữ được sự công bằng và vô tình làm tổn thương sự tôn trọng giữa hai đứa. Anh mong em hiểu và giữ khoảng cách chừng mực hơn để vừa được việc, vừa giữ gìn sự tự hào cho người đàn ông của mình."*
 
+### 2.7. KỸ THUẬT SƠ CỨU THẦN KINH CẤP TỐC TẠI BÀN HỌP: CHUYỂN HÓA CƠN TỨC TỐI & XÓA BỎ CẢM GIÁC CAM CHỊU (11:46 ngày 10/11/2026)
+- **Tiếng lòng bốc hỏa của Hoàng Anh:** *"Cái khó ở đây em khó trở nên điềm tĩnh và cam chịu ngồi nhìn như vậy, trong lòng em thật sự rất khó chịu và tức tối, em làm sao để trở nên điềm tĩnh ngay trong lúc mọi thứ đang diễn ra như vậy. Cảm xúc của em rất khó chịu."*
+- **Giải phẫu sinh học thần kinh cấp tính (Acute Amygdala Hijack):**
+  - Adrenaline và Noradrenaline đang dồn dập bơm vào lồng ngực: Tim đập nhanh, nghẹn ứ cổ họng, nóng bừng mặt, cơ hàm siết chặt.
+  - Não bộ gán nhãn: *"Mày là kẻ hèn, mày đang cam chịu ngồi nhìn người ta bỡn cợt bạn gái mày!"* ➔ Đây chính là nguyên nhân gây ra sự ức chế tột độ.
+- **Tái định nghĩa bản lĩnh: Điềm đạm kiểm soát tình thế KHÔNG PHẢI là "cam chịu nhục nhã":**
+  - Cam chịu là tâm lý của kẻ yếu thế, bất lực.
+  - Sự im lặng của Vị Vua là **"Sự đóng băng chiến thuật của con hổ đang quan sát trước khi vồ mồi"**. Em không hạ mình xuống ngang hàng với trò đùa cợt cào của người khác!
+- **Quy trình 3 Bước Sơ Cứu Thần Kinh Ngay Tại Bàn Họp (Invisible In-Situ Reset):**
+  1. *Ngắt kết nối thị giác (Break Visual Loop):* Cụp mắt xuống, nhìn vào sổ tay hoặc màn hình laptop. Cấm nhìn chằm chằm vào hai người họ (càng nhìn, Amygdala càng bơm thêm Adrenaline).
+  2. *Bấm ngón chân xuống sàn (Toe Pressing Grounding):* Bấm chặt 10 đầu ngón chân xuống đế giày trong 5 giây rồi nhả ra. Kéo dòng máu và sự kích động thần kinh từ ngực tụt xuống đất.
+  3. *Hơi thở Physiological Sigh kín đáo:* Hít sâu 2 lần bằng mũi (1 dài + 1 ngắn nhồi thêm) ➔ Thở ra từ từ bằng mũi trong 6-8 giây. Lặp lại 3 chu kỳ. Kích hoạt dây thần kinh phế vị hạ nhịp tim trong vòng 20 giây.
+  4. *Uống 1 ngụm nước lạnh nuốt chậm:* Kích thích vật lý thực quản làm giãn cơ hoành và cổ họng.
+- **Hành động tái chiếm quyền lực (The Dominant Counter-Move):**
+  - Khi trò đùa kết thúc: Cất giọng trầm, rõ, dứt khoát đưa ra câu hỏi hoặc nhận định chuyên môn sắc bén về bài toán kỹ thuật. Khẳng định vị thế thủ lĩnh bằng trí tuệ, đè bẹp sự bỡn cợt nông nổi!
+
 ---
 
 ## ✅ 3. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
@@ -141,6 +157,7 @@ flowchart TD
 5. **Vận hành chuẩn xác Chiến lược Lấy lại Vị thế 2 Tầng:** Áp dụng Tầng 1 ngay hôm nay và Tầng 2 trong 3-4 tuần tới theo [`Plan/Chien-Luoc-Lay-Lai-Vi-The-Va-Quyen-Ru-Tu-Nhien.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/Chien-Luoc-Lay-Lai-Vi-The-Va-Quyen-Ru-Tu-Nhien.md).
 6. **Khóa chặt Khiên Phòng thủ P10:** Hoàn toàn an tâm về tương lai vì đã có đệm tài chính 150tr, sự nghiệp IT thực chiến và giao thức Ghost King Exit.
 7. **Làm chủ Tình huống Team Lead:** Giữ phong thái chuyên nghiệp đỉnh cao trong cuộc họp; chọn thời điểm thích hợp trao đổi ranh giới quân tử với Linh.
+8. **Thực hành Sơ cứu Thần kinh Ngay Tại Bàn Họp:** Kích hoạt Toe Pressing, Physiological Sigh và Uống nước lạnh để đóng băng cơn bốc hỏa, xóa sạch cảm giác "cam chịu".
 
 ---
 
