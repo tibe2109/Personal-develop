@@ -42,6 +42,8 @@ PORTFOLIO 1: HỒI SINH HỆ THẦN KINH & BẢN LĨNH NỘI TÂM
 
 ## III. CHI TIẾT CÁC PROJECTS THỰC THI
 
+> 🛡️ **CẨM NANG THỰC CHIẾN HÀNG NGÀY:** [`Plan/He-Thong-Ren-Luyen-Than-Kinh-Y-Chi-Va-Ban-Linh-Moi-Ngay.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/He-Thong-Ren-Luyen-Than-Kinh-Y-Chi-Va-Ban-Linh-Moi-Ngay.md) — *Giao thức 4 khung giờ rèn luyện ý chí, giải mã bão Cortisol, diễn tập Khắc kỷ và tôi luyện bản lĩnh điềm tĩnh bất khả xâm phạm trước mọi biến cố bất ngờ.*
+
 ### 🔹 Project 1.1.1: `Zero-Shadow-21` (Giao thức Cai Dopamine Rác 21 Ngày)
 - **Mục tiêu:** Phục hồi thụ thể Dopamine D2 về trạng thái nhạy cảm tự nhiên sau 21 ngày.
 - **Kỷ luật cơ học (Friction Design):**
