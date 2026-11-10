@@ -63,20 +63,40 @@ flowchart TD
    - Chấp nhận sự khác biệt: Linh 24 tuổi, còn nhiều bồng bột, Fe còn vụng. Hoàng Anh 34 tuổi, có 7 năm IT, có sự nghiệp, có tiền tiết kiệm, có nội lực.
    - Người đàn ông có tâm thế vị tha, không chấp nhặt những câu nói cộc lốc của bạn gái chính là người đàn ông có sức hút nam tính mãnh liệt nhất!
 
+### 2.3. BƯỚC NGOẶT THỨC TỈNH: BẺ GÃY BẪY CHIỀU LÒNG (NICE GUY TRAP), CHẤM DỨT ĐUỔI THEO & KÍCH HOẠT QUY TẮC BÓNG BÀN (09:08 ngày 10/11/2026)
+- **Lời bộc bạch phản biện cực kỳ chính xác của Hoàng Anh:**  
+  *"Mà anh em thấy vậy có hơi theo đuổi quá không anh, sao Linh không bao giờ chú ý làm điều đó với em, mà em cứ phải phân tích, suy đoán cô ấy để làm hài lòng cô ấy? Em thấy giống mình đang tự hạ thấp bản thân mình và theo đuổi và chiều lòng cô ấy, trong khi vẫn còn đang rất nhiều nỗi buồn và tổn thương trong quá khứ, em làm sao để hợp lý bây giờ?"*
+- **Xác nhận tối cao từ Coach Anh:**  
+  - **HOÀNG ANH HOÀN TOÀN ĐÚNG!** Sự phản biện này chứng minh trực giác và lòng tự trọng của một người đàn ông đã trỗi dậy.
+  - Khi bên trong đang đầy ắp nỗi buồn và tổn thương chưa lành, việc tiếp tục gồng lên để "suy đoán, phân tích, mua nước, chiều chuộng" một người chưa từng chủ động làm điều đó cho mình là biểu hiện kinh điển của **Hội Chứng Người Tốt Tự Hủy (The Nice Guy Trap & People-Pleaser Syndrome)**.
+  - Càng làm vậy, em càng tự biến mình thành "kẻ hầu cận cảm xúc", tạo ra sự mất cân bằng vị thế, khiến đối phương coi sự hy sinh của em là điều hiển nhiên và ngày càng xem thường!
+- **Chiến Lược Chuyển Trục Về Trọng Tâm Bản Thân (The Strategic Reciprocity):**
+  1. **Dừng ngay việc "Gánh vác thay cảm xúc" (Stop Over-functioning):**  
+     - Dừng mua quà/nước, dừng việc suy đoán tâm trạng, dừng việc cố làm nàng vui. Linh là người yêu, không phải đề tài nghiên cứu khoa học để em phải ngày đêm giải mã!
+  2. **Quy Tắc Bóng Bàn (The Ping-Pong Principle & Matching Energy):**  
+     - Tình yêu là hai người cùng đánh bóng. Em đã đánh nhiều quả bóng sang sân rồi ➔ **BÂY GIỜ ĐỨNG IM CHỜ BÓNG HỒI ĐÁP!**
+     - Nàng nhắn 1 câu ➔ Em rep 1 câu nhẹ nhàng, điềm đạm. Nàng im lặng ➔ Em mỉm cười quay về làm việc của em.
+     - Nàng chủ động quan tâm, hẹn gặp ➔ Em đón nhận nhiệt tình. Nàng hờ hững ➔ Em thong dong, không dò xét, không nài nỉ.
+  3. **Tạo Khoảng Trống Chân Không (The Vacuum Effect):**  
+     - Khi người đàn ông từng săn đón đột ngột dừng lại, trở nên đĩnh đạc, bí ẩn và tập trung vào đế chế của mình, người phụ nữ sẽ bắt đầu cảm thấy sự thiếu vắng và nảy sinh tâm lý tò mò muốn tìm hiểu lại em.
+  4. **Dồn 100% Năng Lượng Chữa Lành Cho Chính Em:**  
+     - Hoàng Anh cần được yêu thương trước tiên. Hãy tự hỏi: Hôm nay Hoàng Anh muốn ăn gì? Bài tạ nào giúp Hoàng Anh khỏe mạnh? Dự án Playwright AI nào giúp Hoàng Anh bứt phá? Khi em tự yêu thương chính mình đủ đầy, em sẽ không còn cảm giác bị thiếu thốn hay hạ thấp bản thân!
+
 ---
 
 ## ✅ 3. QUYẾT ĐỊNH ĐÃ CHỐT (KEY DECISIONS MADE)
-1. **Áp dụng triệt để Memory Reconsolidation:** Không trốn tránh ký ức cũ, mỗi lần nhớ lại đều đính kèm lòng bao dung và sự biết ơn để viết đè lên mã thần kinh.
-2. **Kích hoạt Ventral Vagal trước mỗi lần gặp Linh:** Hít thở sâu, thả lỏng cơ mặt, mang đến cho nàng năng lượng của sự bình yên và an toàn tuyệt đối.
-3. **Thực hành Quy luật 3:1 Gottman & Thần kinh học:** Tích lũy ít nhất 3 trải nghiệm vui vẻ, tiếng cười và sự ấm áp cho mỗi lần có bất đồng nhỏ.
-4. **Nâng cấp thần thái nam tính quyến rũ:** Giữ vững kỷ luật Gym, bứt phá năng lực AI Playwright, làm chỗ dựa vững chãi nhưng thong dong, không bám víu.
+1. **Chấm dứt vĩnh viễn hành vi People-Pleaser:** Tuyệt đối không mua chuộc tình cảm, không suy đoán để làm hài lòng đối phương một cách mù quáng.
+2. **Kích hoạt Quy tắc Bóng bàn (Ping-Pong Matching):** Chỉ đầu tư năng lượng tương xứng với mức độ phản hồi và tôn trọng mà đối phương trao cho mình.
+3. **Thu hồi năng lượng về bản thân:** Tập trung chữa lành những tổn thương cũ bằng sự bao dung nội tại, dồn sức cho Sự nghiệp IT (Playwright AI) và Thể chất (Gym).
+4. **Giữ vững Thần Thái Ngọn Núi (The Mountain Frame):** Điềm đạm, lịch thiệp, ấm áp nhưng độc lập, không đuổi theo, không van xin tình cảm.
 
 ---
 
 ## 🐸 4. CON ẾCH & HÀNH ĐỘNG VI MÔ GIAO HẸN (MICRO-ACTIONS COMMITTED)
-- [ ] **A1 (Hành động sáng nay):** Đọc và lưu giữ 5 bài tập thần kinh học vào cẩm nang cá nhân; thực hành Physiological Sigh 3 chu kỳ ngay tại bàn làm việc.
-- [ ] **A2 (Tương tác với Linh hôm nay):** Khi gặp hoặc nhắn tin với Linh, dùng nụ cười thong dong, ánh mắt ấm áp, không dò xét; tặng một lời khen hoặc hành động vi mô tinh tế (Se-touch).
-- [ ] **A3 (Kỷ luật thể chất chiều nay):** 17:30 có mặt tại phòng Gym, kích hoạt Testosterone và Serotonin qua các hiệp tạ nặng.
+- [ ] **A1 (Hành động ngay sáng nay):** Cắt bỏ ngay ý định mua nước hay cố làm điều gì đó để chiều lòng Linh; tập trung 100% vào công việc IT với tâm thế thong dong.
+- [ ] **A2 (Nguyên tắc phản hồi hôm nay):** Áp dụng nghiêm ngặt Quy tắc Bóng bàn (nàng nhắn thì rep điềm đạm, không nhắn thì thảnh thơi làm việc; không dò xét).
+- [ ] **A3 (Chiều nay 17:30):** Đến phòng Gym nâng tạ, tự thưởng cho bản thân một bữa tối dinh dưỡng ngon miệng vì em xứng đáng được yêu thương!
+- [ ] **Khóa cám dỗ:** Cấm overthinking suy đoán tâm trạng của Linh; khi tâm trí lơ lửng, kéo về code Playwright hoặc hít thở sâu 4-7-8.
 
 ---
 
