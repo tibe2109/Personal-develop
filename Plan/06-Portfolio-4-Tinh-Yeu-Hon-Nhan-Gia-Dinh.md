@@ -48,6 +48,8 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
 
 ## III. CHI TIẾT CÁC PROJECTS THỰC THI
 
+> 💎 **CẨM NANG QUAN TÂM TINH TẾ & GHI NHỚ CHỦ ĐỘNG:** [`Plan/He-Thong-Quan-Tam-Tinh-Te-Va-Ghi-Nho-Chu-Dong-Cho-Nguoi-Yeu.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/He-Thong-Quan-Tam-Tinh-Te-Va-Ghi-Nho-Chu-Dong-Cho-Nguoi-Yeu.md) — *Giải mã tử huyệt vô tâm của INFP, thiết lập Relationship Second Brain (Personal Vault), Giao thức 3 Điểm Chạm Vàng mỗi ngày và nghệ thuật hành động Se thực tế chinh phục nàng ISTP.*
+
 ### 🔹 Project 4.1.1: `Micro-Love-Rituals` (Nghi Thức Yêu Thương Vi Mô Mỗi Ngày)
 - **Mục tiêu:** Mang lại niềm vui, sự bất ngờ và cảm giác được trân trọng mỗi ngày mà không bị cạn kiệt năng lượng hay gượng ép.
 - **5 Hành động vi mô hàng ngày (Chọn 1-2 điều mỗi ngày):**
