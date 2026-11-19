@@ -48,6 +48,8 @@ PORTFOLIO 4: TÌNH YÊU THĂNG HOA, HÔN NHÂN & KIẾN TẠO TỔ ẤM SUỐT �
 
 ## III. CHI TIẾT CÁC PROJECTS THỰC THI
 
+> 🕊️ **PHÁC ĐỒ CHỮA LÀNH LỆ THUỘC & TÁI TẠO GIÁ TRỊ TỰ THÂN (MỚI BAN HÀNH 19/11/2026):** [`Plan/Phac-Do-Chua-Lanh-Le-Thuoc-Cam-Xuc-Va-Xay-Dung-Gia-Tri-Tu-Than-Trong-Tinh-Yeu.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/Phac-Do-Chua-Lanh-Le-Thuoc-Cam-Xuc-Va-Xay-Dung-Gia-Tri-Tu-Than-Trong-Tinh-Yeu.md) — *Hóa giải tận gốc vết thương Toxic Shame "không xứng đáng", hội chứng kẻ mạo danh tình cảm, thu hồi chiếc điều khiển cảm xúc (Remote) và kiến tạo tình yêu tự thân vững chãi.*
+> 
 > 💎 **CẨM NANG QUAN TÂM TINH TẾ & GHI NHỚ CHỦ ĐỘNG:** [`Plan/He-Thong-Quan-Tam-Tinh-Te-Va-Ghi-Nho-Chu-Dong-Cho-Nguoi-Yeu.md`](file:///media/hoanganh/disk1_vol1/Solution/Personal-develop/Plan/He-Thong-Quan-Tam-Tinh-Te-Va-Ghi-Nho-Chu-Dong-Cho-Nguoi-Yeu.md) — *Giải mã tử huyệt vô tâm của INFP, thiết lập Relationship Second Brain (Personal Vault), Giao thức 3 Điểm Chạm Vàng mỗi ngày và nghệ thuật hành động Se thực tế chinh phục nàng ISTP.*
 
 ### 🔹 Project 4.1.1: `Micro-Love-Rituals` (Nghi Thức Yêu Thương Vi Mô Mỗi Ngày)
