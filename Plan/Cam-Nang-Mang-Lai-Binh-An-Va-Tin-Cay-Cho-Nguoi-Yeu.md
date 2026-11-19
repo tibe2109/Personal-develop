@@ -99,3 +99,44 @@ Dạo này em làm nàng buồn phiền nhiều. Hãy chủ động giải phón
 1. **Chiều nay tại công ty (15:00 - 17:30):** Giữ phong thái điềm tĩnh, ấm áp, thong dong; không mang nét mặt lo âu hay dò xét.
 2. **Tan sở 17:30:** Đến phòng Gym nâng tạ, xả sạch toàn bộ những năng lượng tiêu cực còn sót lại.
 3. **Tối nay:** Chọn thời điểm thích hợp trao đổi ngắn gọn thông điệp "Cởi trói tâm lý" hoặc đơn giản là mang lại 15 phút lắng nghe dịu dàng không phán xét!
+
+---
+
+## 🛠️ IV. KỊCH BẢN THỰC CHIẾN: KHI LINH BUỒN & MỆT KHÔNG RÕ NGUYÊN NHÂN (THE SILENT SANCTUARY PROTOCOL)
+
+> **TÌNH HUỐNG THỰC TẾ:**  
+> *"Khi Linh buồn và mệt, không biết vì lý do gì? Có thể là do công việc hoặc do em, thì em nên làm gì để Linh cảm thấy được nhẹ nhàng và bớt stress?"*
+
+### 1. Phản Xạ Tử Huyệt Cần Chặn Đứng Ngay:
+- ❌ **CẤM TỰ QUY TRÁCH NHIỆM ("Chắc do mình"):** Không vội vàng nghĩ rằng mình là thủ phạm rồi hoảng loạn tự trách hay lo âu.
+- ❌ **CẤM TRA KHẢO HAY DỒN DẬP ĐÒI GIẢI THÍCH:**  
+  * *"Em sao thế? Có phải do anh không?"*  
+  * *"Anh làm gì sai em nói đi chứ đừng im lặng như vậy!"*  
+  ➔ **Hậu quả:** Đối với một cô gái ISTP đang mệt, chức năng cảm xúc `Fe` đã sập cầu dao. Việc bắt nàng phải giải thích chỉ làm nàng bị **quá tải nhận thức**, biến sự mệt mỏi thành cơn cáu gắt hoặc đóng băng hoàn toàn!
+
+### 2. Giao Thức 4 Bước "Bến Đỗ Tĩnh Lặng":
+
+```
+ ┌────────────────────────────────────────────────────────────────────────┐
+ │ BƯỚC 1: KHÓA CHẶT SUY DIỄN (STOP PERSONALIZING)                       │
+ │ • Nhủ thầm: "Nàng đang mệt. Bất kể lý do là gì, việc của mình là làm   │
+ │   một Bến Đỗ Bình An, không phải là lúc mổ xẻ đúng sai!"               │
+ ├────────────────────────────────────────────────────────────────────────┤
+ │ BƯỚC 2: CHĂM SÓC THỂ CHẤT THỰC TẾ (SOMATIC SE CARE)                    │
+ │ • Rót 1 ly nước ấm / mua ly nước mát đặt nhẹ lên bàn cạnh nàng.        │
+ │ • Nếu ở cạnh nhau: Đặt bàn tay ấm lên vai nàng hoặc xoa bóp gáy 2 phút.│
+ │ • Ôm nhẹ để nàng tựa đầu vào ngực ➔ Co-regulation hạ Cortisol.        │
+ ├────────────────────────────────────────────────────────────────────────┤
+ │ BƯỚC 3: CÂU NÓI VÀNG "CHO PHÉP NGHỈ NGƠI" (THE PERMISSION PHRASE)      │
+ │ • "Anh thấy hôm nay em mệt nhiều rồi. Em không cần phải kể hay giải    │
+ │   thích gì đâu. Cứ nghỉ ngơi, chợp mắt xíu nhé. Có việc gì cần cứ ới   │
+ │   anh. Anh luôn ở đây bên em."                                         │
+ ├────────────────────────────────────────────────────────────────────────┤
+ │ BƯỚC 4: THONG DONG LÙI LẠI — TẶNG KHÔNG GIAN THỞ (STEP BACK WITH GRACE)│
+ │ • Nhẹ nhàng quay về làm việc, đọc sách, tập Gym.                       │
+ │ • Không lấm lét dò xét nét mặt; để nàng yên tĩnh tự sạc lại pin!      │
+ └────────────────────────────────────────────────────────────────────────┘
+```
+
+> **CHÂN LÝ ĐÀN ÔNG:**  
+> Người đàn ông bản lĩnh không cố gắng "sửa chữa" tâm trạng của người phụ nữ bằng lý lẽ. Anh ta mang đến một **vùng năng lượng an toàn tuyệt đối** — nơi cô ấy được phép mệt mỏi, được phép yếu đuối mà không bị phán xét hay đòi hỏi!
